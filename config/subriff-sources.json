@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "content_policy": "sfw",
+  "defaults": {
+    "size_filters": ["medium-small", "medium", "large", "xlarge"],
+    "periods": ["daily"],
+    "growth_type": "percent",
+    "date_filter": "all",
+    "allows_promotion": false,
+    "nsfw": false,
+    "include_nsfw": false,
+    "max_pages": 3,
+    "limit": 50
+  },
+  "sources": [
+    {"name": "daily", "output": "trending-subriff-daily.txt", "periods": ["daily"], "limit": 50},
+    {"name": "weekly", "output": "trending-subriff-weekly.txt", "periods": ["weekly"], "limit": 50},
+    {"name": "monthly", "output": "trending-subriff-monthly.txt", "periods": ["monthly"], "limit": 50},
+    {"name": "blended", "output": "trending-subriff-blended.txt", "periods": ["daily", "weekly"], "limit": 35}
+  ]
+}

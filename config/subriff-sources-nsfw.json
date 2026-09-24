@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "content_policy": "nsfw",
+  "defaults": {
+    "size_filters": ["medium-small", "medium", "large", "xlarge"],
+    "periods": ["daily"],
+    "growth_type": "percent",
+    "date_filter": "all",
+    "allows_promotion": false,
+    "nsfw": true,
+    "include_nsfw": true,
+    "max_pages": 3,
+    "limit": 100
+  },
+  "sources": [
+    {"name": "daily", "output": "trending-subriff-nsfw-daily.txt", "periods": ["daily"], "limit": 100},
+    {"name": "weekly", "output": "trending-subriff-nsfw-weekly.txt", "periods": ["weekly"], "limit": 100},
+    {"name": "monthly", "output": "trending-subriff-nsfw-monthly.txt", "periods": ["monthly"], "limit": 100},
+    {"name": "blended", "output": "trending-subriff-nsfw-blended.txt", "periods": ["daily", "weekly", "monthly"], "limit": 250}
+  ]
+}

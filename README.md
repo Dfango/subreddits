@@ -17,19 +17,38 @@ To generate the list yourself, you'll need a Reddit app client ID and secret, wh
 3. Set the `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET` environment variables
 4. `python scripts/gen_popular.py`
 
-## [trending-subriff-blended.txt](https://jeffreyca.github.io/subreddits/trending-subriff-blended.txt)
-List of trending subreddits, sourced from [subriff.com](https://subriff.com/). Updated daily.
+## Subriff sources
 
-* Growth period: daily, weekly (blended)
-* Size: medium-small, medium, large, xlarge
+The Subriff workflow generates separate SFW and NSFW lists from the public growth rankings at [subriff.com](https://subriff.com/). Definitions live in JSON configuration files so new filters can be added without rewriting the generator.
 
-### Generate using GitHub Actions
-The GitHub Action "Update trending subreddits (subriff)" is configured to run twice a day, but you can also manually trigger it.
+### SFW sources
 
-### Generate from local machine
-1. Install Python 3
-2. `pip install -r requirements.txt`
-3. `python scripts/gen_trending_subriff.py`
+- [Daily](https://dfango.github.io/subreddits/trending-subriff-daily.txt)
+- [Weekly](https://dfango.github.io/subreddits/trending-subriff-weekly.txt)
+- [Monthly](https://dfango.github.io/subreddits/trending-subriff-monthly.txt)
+- [Blended](https://dfango.github.io/subreddits/trending-subriff-blended.txt) — existing 35-item source
+
+Configuration: [`config/subriff-sources.json`](config/subriff-sources.json)
+
+### NSFW sources
+
+- [Daily](https://dfango.github.io/subreddits/trending-subriff-nsfw-daily.txt)
+- [Weekly](https://dfango.github.io/subreddits/trending-subriff-nsfw-weekly.txt)
+- [Monthly](https://dfango.github.io/subreddits/trending-subriff-nsfw-monthly.txt)
+- [Blended](https://dfango.github.io/subreddits/trending-subriff-nsfw-blended.txt)
+
+Configuration: [`config/subriff-sources-nsfw.json`](config/subriff-sources-nsfw.json)
+
+The outputs are intentionally separate. The generator deduplicates names case-insensitively, ranks communities by cross-query appearances, fetches up to three pages per size/period query, and replaces outputs atomically only after every configured query succeeds.
+
+### Generate locally
+
+~~~sh
+python3 -m pip install -r requirements.txt
+python3 -m unittest discover -s tests -v
+python3 scripts/gen_trending_subriff.py --all
+python3 scripts/gen_trending_subriff.py --config config/subriff-sources-nsfw.json --all
+~~~
 
 ## [trending-gummy-daily.txt](https://jeffreyca.github.io/subreddits/trending-gummy-daily.txt), [trending-gummy-weekly.txt](https://jeffreyca.github.io/subreddits/trending-gummy-weekly.txt)
 List of trending subreddits, sourced from [gummysearch.com](https://gummysearch.com/tools/top-subreddits/). **No longer updated.**
