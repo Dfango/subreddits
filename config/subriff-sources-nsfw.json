@@ -10,12 +10,29 @@
     "nsfw": true,
     "include_nsfw": true,
     "max_pages": 3,
-    "limit": 100
+    "limit": 100,
+    "scoring": {
+      "rrf_k": 60,
+      "rank_weight": 0.7,
+      "coverage_weight": 0.3,
+      "period_weights": {
+        "daily": 0.8,
+        "weekly": 1.15,
+        "monthly": 1.25
+      },
+      "size_weights": {
+        "medium-small": 0.75,
+        "medium": 1.0,
+        "large": 1.1,
+        "xlarge": 0.95
+      },
+      "tie_seed": "nsfw-v2"
+    }
   },
   "sources": [
-    {"name": "daily", "output": "trending-subriff-nsfw-daily.txt", "periods": ["daily"], "limit": 100},
-    {"name": "weekly", "output": "trending-subriff-nsfw-weekly.txt", "periods": ["weekly"], "limit": 100},
-    {"name": "monthly", "output": "trending-subriff-nsfw-monthly.txt", "periods": ["monthly"], "limit": 100},
-    {"name": "blended", "output": "trending-subriff-nsfw-blended.txt", "periods": ["daily", "weekly", "monthly"], "limit": 250}
+    {"name": "daily", "output": "trending-subriff-nsfw-daily.txt", "periods": ["daily"], "limit": 100, "report": "subriff-ranking-nsfw-daily.json"},
+    {"name": "weekly", "output": "trending-subriff-nsfw-weekly.txt", "periods": ["weekly"], "limit": 100, "report": "subriff-ranking-nsfw-weekly.json"},
+    {"name": "monthly", "output": "trending-subriff-nsfw-monthly.txt", "periods": ["monthly"], "limit": 100, "report": "subriff-ranking-nsfw-monthly.json"},
+    {"name": "blended", "output": "trending-subriff-nsfw-blended.txt", "periods": ["daily", "weekly", "monthly"], "limit": 250, "report": "subriff-ranking-nsfw-blended.json"}
   ]
 }

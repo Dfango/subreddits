@@ -39,7 +39,9 @@ Configuration: [`config/subriff-sources.json`](config/subriff-sources.json)
 
 Configuration: [`config/subriff-sources-nsfw.json`](config/subriff-sources-nsfw.json)
 
-The outputs are intentionally separate. The generator deduplicates names case-insensitively, ranks communities by cross-query appearances, fetches up to three pages per size/period query, and replaces outputs atomically only after every configured query succeeds.
+The outputs are intentionally separate. The generator deduplicates names case-insensitively, records each community's position in every Subriff result, and ranks candidates with weighted reciprocal rank fusion. Weekly and monthly evidence is weighted slightly more than daily evidence, while the subscriber-size weights reduce the effect of tiny communities with unusually large percentages. Exact score ties use a stable hash instead of alphabetical order, preventing the output from favoring only the beginning of the alphabet.
+
+Each source also has a matching `subriff-ranking-*.json` report containing the score, best observed rank, appearance count, periods, size filters, and whether the candidate made the plaintext output. The reports are for inspection; Apollo still receives only one subreddit name per line. Identical queries are cached during a generation run, so the blended sources do not refetch the same Subriff pages.
 
 ### Generate locally
 
