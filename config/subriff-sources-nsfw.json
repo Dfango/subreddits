@@ -7,6 +7,8 @@
     "growth_type": "percent",
     "date_filter": "all",
     "allows_promotion": false,
+    "request_delay_seconds": 0.2,
+    "request_retries": 4,
     "nsfw": true,
     "include_nsfw": true,
     "require_nsfw": true,

@@ -10,6 +10,7 @@ import json
 import os
 import sys
 import tempfile
+import time
 from pathlib import Path
 from typing import Any
 
@@ -19,6 +20,8 @@ BASE_URL = "https://subriff.com/Home/GetSubreddits"
 DEFAULT_CONFIG = Path(__file__).resolve().parents[1] / "config" / "subriff-sources.json"
 DEFAULT_SOURCE = "blended"
 USER_AGENT = "Dfango-subreddits/1.0 (+https://github.com/Dfango/subreddits)"
+DEFAULT_REQUEST_DELAY_SECONDS = 0.20
+DEFAULT_REQUEST_RETRIES = 4
 
 DEFAULT_SCORING = {
     "rrf_k": 60.0,
@@ -150,6 +153,14 @@ def fetch_subreddit_observations(
     seen: set[str] = set()
     include_nsfw = _as_bool(query.get("include_nsfw", False))
     require_nsfw = _as_bool(query.get("require_nsfw", False))
+    request_delay = max(
+        0.0,
+        float(query.get("request_delay_seconds", DEFAULT_REQUEST_DELAY_SECONDS)),
+    )
+    request_retries = max(
+        0,
+        int(query.get("request_retries", DEFAULT_REQUEST_RETRIES)),
+    )
     rows_seen = 0
 
     for page in range(1, max_pages + 1):
@@ -165,7 +176,26 @@ def fetch_subreddit_observations(
             "allowsPromotion": str(_as_bool(query.get("allows_promotion", False))).lower(),
             "nsfw": str(_as_bool(query.get("nsfw", include_nsfw))).lower(),
         }
-        response = session.get(BASE_URL, params=params, timeout=(10, 30))
+        response = None
+        for attempt in range(request_retries + 1):
+            if request_delay:
+                time.sleep(request_delay)
+            response = session.get(BASE_URL, params=params, timeout=(10, 30))
+            if response.status_code not in {429, 500, 502, 503, 504}:
+                break
+            if attempt == request_retries:
+                response.raise_for_status()
+            retry_after = response.headers.get("Retry-After")
+            try:
+                retry_after_seconds = float(retry_after) if retry_after else 0.0
+            except ValueError:
+                retry_after_seconds = 0.0
+            backoff_seconds = max(
+                retry_after_seconds,
+                2.0 ** (attempt + 1),
+            )
+            time.sleep(min(backoff_seconds, 60.0))
+        assert response is not None
         response.raise_for_status()
         payload = response.json()
         rows = payload.get("subreddits") if isinstance(payload, dict) else None

@@ -48,6 +48,8 @@ For Apollo, use the three account-specific URLs as separate sources. Label them 
 
 The SFW and NSFW period-specific sources are configured for up to 500 entries each, blended sources for up to 1,000, and the three account-specific sources for up to 1,000. Subriff returns 20 entries per page, so the workflow reads up to 10 pages per query. These are deliberately high-volume settings without making every scheduled run perform the hundreds of requests required to force a 5,000-entry blended list.
 
+The generator waits briefly between Subriff requests and retries temporary HTTP 429/5xx responses with exponential backoff. This keeps the larger source set within Subriff's practical rate limits; it does not bypass those limits.
+
 Each source also has a matching `subriff-ranking-*.json` report containing the score, best observed rank, appearance count, periods, size filters, and whether the candidate made the plaintext output. The reports are for inspection; Apollo still receives only one subreddit name per line. Identical queries are cached during a generation run, so the blended sources do not refetch the same Subriff pages.
 
 ### Generate locally

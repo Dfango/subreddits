@@ -7,6 +7,54 @@ from scripts import gen_trending_subriff as generator
 
 
 class GeneratorTests(unittest.TestCase):
+    class FakeResponse:
+        def __init__(self, status_code, payload=None, headers=None):
+            self.status_code = status_code
+            self.payload = payload or {"subreddits": []}
+            self.headers = headers or {}
+
+        def raise_for_status(self):
+            if self.status_code >= 400:
+                raise requests.HTTPError(response=self)
+
+        def json(self):
+            return self.payload
+
+    class FakeSession:
+        def __init__(self, responses):
+            self.responses = iter(responses)
+            self.calls = 0
+
+        def get(self, *args, **kwargs):
+            self.calls += 1
+            return next(self.responses)
+
+    def test_fetch_retries_rate_limit_before_parsing(self):
+        session = self.FakeSession(
+            [
+                self.FakeResponse(429, headers={"Retry-After": "0"}),
+                self.FakeResponse(
+                    200,
+                    {"subreddits": [{"displayName": "Example", "isNsfw": True}]},
+                ),
+            ]
+        )
+        query = {
+            "size_filter": "medium",
+            "sort_by": "daily",
+            "include_nsfw": True,
+            "require_nsfw": True,
+            "request_delay_seconds": 0,
+            "request_retries": 1,
+        }
+
+        with patch.object(generator.time, "sleep") as sleep:
+            result = generator.fetch_subreddit_observations(session, query, 1)
+
+        self.assertEqual([row["name"] for row in result], ["Example"])
+        self.assertEqual(session.calls, 2)
+        self.assertTrue(sleep.called)
+
     def test_ranked_deduplication_and_period_weights(self):
         source = {
             "name": "test",
