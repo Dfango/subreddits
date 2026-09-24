@@ -58,8 +58,8 @@
     "periods": [
       "daily"
     ],
-    "rank_score": 0.620436443603,
-    "score": 0.659305510522,
+    "rank_score": 0.61946801747,
+    "score": 0.658627612229,
     "selected": true,
     "size_filters": [
       "large",
@@ -655,22 +655,6 @@
   },
   {
     "appearances": 2,
-    "best_rank": 9,
-    "coverage_score": 0.460526315789,
-    "name": "EmmaWatsonMythology",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.333818882244,
-    "score": 0.371831112308,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 32,
     "coverage_score": 0.552631578947,
     "name": "hermesagent",
@@ -807,6 +791,22 @@
     ],
     "rank_score": 0.310832586332,
     "score": 0.355740705169,
+    "selected": true,
+    "size_filters": [
+      "medium",
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 9,
+    "coverage_score": 0.460526315789,
+    "name": "EmmaWatsonMythology",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.309822947838,
+    "score": 0.355033958223,
     "selected": true,
     "size_filters": [
       "medium",
@@ -5652,7 +5652,7 @@
     "appearances": 1,
     "best_rank": 42,
     "coverage_score": 0.197368421053,
-    "name": "2000smemorylane",
+    "name": "SingleWomenByChoice",
     "periods": [
       "daily"
     ],
@@ -5787,7 +5787,7 @@
     "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.197368421053,
-    "name": "SingleWomenByChoice",
+    "name": "EncuentraAmigos",
     "periods": [
       "daily"
     ],
@@ -6132,7 +6132,7 @@
     "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.197368421053,
-    "name": "Creativity",
+    "name": "20sIndiaReal",
     "periods": [
       "daily"
     ],
@@ -6567,7 +6567,7 @@
     "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.197368421053,
-    "name": "SLOMWsnark",
+    "name": "growgreenoutdoor",
     "periods": [
       "daily"
     ],
@@ -6651,6 +6651,21 @@
     "selected": true,
     "size_filters": [
       "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 51,
+    "coverage_score": 0.197368421053,
+    "name": "SLOMWsnark",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.108463726885,
+    "score": 0.135135135135,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
     ]
   },
   {
@@ -6790,21 +6805,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 52,
-    "coverage_score": 0.197368421053,
-    "name": "AdultsTV",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.107495300752,
-    "score": 0.134457236842,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.289473684211,
     "name": "Selfie40Plus",
@@ -6882,7 +6882,7 @@
     "appearances": 1,
     "best_rank": 53,
     "coverage_score": 0.197368421053,
-    "name": "Blood_of_Dawnwalker",
+    "name": "AdultsTV",
     "periods": [
       "daily"
     ],
@@ -6927,7 +6927,7 @@
     "appearances": 1,
     "best_rank": 54,
     "coverage_score": 0.197368421053,
-    "name": "EncuentraAmigos",
+    "name": "Blood_of_Dawnwalker",
     "periods": [
       "daily"
     ],
@@ -7300,6 +7300,21 @@
   },
   {
     "appearances": 1,
+    "best_rank": 59,
+    "coverage_score": 0.197368421053,
+    "name": "Kettlebell_training",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.101172047766,
+    "score": 0.130030959752,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.25,
     "name": "KitchenConfidential",
@@ -7392,7 +7407,7 @@
     "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.197368421053,
-    "name": "Kettlebell_training",
+    "name": "LaurenDonzis",
     "periods": [
       "daily"
     ],
@@ -7593,7 +7608,7 @@
     ],
     "rank_score": 0.070098827856,
     "score": 0.12801654792,
-    "selected": true,
+    "selected": false,
     "size_filters": [
       "medium"
     ]
@@ -9040,21 +9055,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 88,
-    "coverage_score": 0.197368421053,
-    "name": "growgreenoutdoor",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.081347795164,
-    "score": 0.11615398293,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.25,
     "name": "LiminalSpace",
@@ -10203,6 +10203,21 @@
     ],
     "rank_score": 0.049749891257,
     "score": 0.094035450196,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 183,
+    "coverage_score": 0.197368421053,
+    "name": "Creativity",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.049545159194,
+    "score": 0.093892137752,
     "selected": false,
     "size_filters": [
       "medium-small"

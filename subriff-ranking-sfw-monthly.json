@@ -855,8 +855,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.282835929683,
-    "score": 0.363774624462,
+    "rank_score": 0.282277188591,
+    "score": 0.363383505698,
     "selected": true,
     "size_filters": [
       "large",
@@ -935,8 +935,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.312800034913,
-    "score": 0.357117919176,
+    "rank_score": 0.312134502924,
+    "score": 0.356652046784,
     "selected": true,
     "size_filters": [
       "medium",
@@ -4731,21 +4731,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 101,
-    "coverage_score": 0.263157894737,
-    "name": "scenery",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.099705786205,
-    "score": 0.148741418764,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.289473684211,
     "name": "aivideos",
@@ -4883,7 +4868,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.263157894737,
-    "name": "Indiajobs",
+    "name": "CatReacts",
     "periods": [
       "monthly"
     ],
@@ -4943,7 +4928,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.263157894737,
-    "name": "ifihadmoney",
+    "name": "Indiajobs",
     "periods": [
       "monthly"
     ],
@@ -5003,7 +4988,7 @@
     "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.263157894737,
-    "name": "CatReacts",
+    "name": "ifihadmoney",
     "periods": [
       "monthly"
     ],
@@ -5106,6 +5091,21 @@
   },
   {
     "appearances": 1,
+    "best_rank": 109,
+    "coverage_score": 0.263157894737,
+    "name": "corporate",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.094985985674,
+    "score": 0.145437558393,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.289473684211,
     "name": "badassanimals",
@@ -5166,21 +5166,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 110,
-    "coverage_score": 0.263157894737,
-    "name": "writingscaling",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.094427244582,
-    "score": 0.145046439628,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.289473684211,
     "name": "MotivationalQuotes",
@@ -5213,7 +5198,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.263157894737,
-    "name": "A_Persona_on_Reddit",
+    "name": "writingscaling",
     "periods": [
       "monthly"
     ],
@@ -5288,7 +5273,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.263157894737,
-    "name": "corporate",
+    "name": "A_Persona_on_Reddit",
     "periods": [
       "monthly"
     ],
@@ -5498,7 +5483,7 @@
     "appearances": 1,
     "best_rank": 41,
     "coverage_score": 0.197368421053,
-    "name": "Blood_of_Dawnwalker",
+    "name": "RateMyArt",
     "periods": [
       "monthly"
     ],
@@ -5603,7 +5588,7 @@
     "appearances": 1,
     "best_rank": 42,
     "coverage_score": 0.197368421053,
-    "name": "RateMyArt",
+    "name": "SelfiesCouples",
     "periods": [
       "monthly"
     ],
@@ -5723,7 +5708,7 @@
     "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.197368421053,
-    "name": "SelfiesCouples",
+    "name": "AdultsTV",
     "periods": [
       "monthly"
     ],
@@ -5843,7 +5828,7 @@
     "appearances": 1,
     "best_rank": 44,
     "coverage_score": 0.197368421053,
-    "name": "AdultsTV",
+    "name": "GuessMy_",
     "periods": [
       "monthly"
     ],
@@ -5963,7 +5948,7 @@
     "appearances": 1,
     "best_rank": 45,
     "coverage_score": 0.197368421053,
-    "name": "GuessMy_",
+    "name": "PocBuzz_Entertainment",
     "periods": [
       "monthly"
     ],
@@ -6068,7 +6053,7 @@
     "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.197368421053,
-    "name": "PocBuzz_Entertainment",
+    "name": "hexastack",
     "periods": [
       "monthly"
     ],
@@ -6681,21 +6666,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 52,
-    "coverage_score": 0.197368421053,
-    "name": "hexastack",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.107495300752,
-    "score": 0.134457236842,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.289473684211,
     "name": "hiring",
@@ -7118,7 +7088,7 @@
     "appearances": 1,
     "best_rank": 58,
     "coverage_score": 0.197368421053,
-    "name": "Xochitl_Gomez_",
+    "name": "HouseDesign",
     "periods": [
       "monthly"
     ],
@@ -7193,7 +7163,7 @@
     "appearances": 1,
     "best_rank": 59,
     "coverage_score": 0.197368421053,
-    "name": "HouseDesign",
+    "name": "Xochitl_Gomez_",
     "periods": [
       "monthly"
     ],
@@ -7619,7 +7589,7 @@
     ],
     "rank_score": 0.068309070549,
     "score": 0.126763717805,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium"
     ]
@@ -7628,13 +7598,13 @@
     "appearances": 1,
     "best_rank": 65,
     "coverage_score": 0.197368421053,
-    "name": "YesOrNoAnswers",
+    "name": "developers_hire",
     "periods": [
       "monthly"
     ],
     "rank_score": 0.096315789474,
     "score": 0.126631578947,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium-small"
     ]
@@ -7703,7 +7673,7 @@
     "appearances": 1,
     "best_rank": 66,
     "coverage_score": 0.197368421053,
-    "name": "spaceshuttle",
+    "name": "YesOrNoAnswers",
     "periods": [
       "monthly"
     ],
@@ -7808,7 +7778,7 @@
     "appearances": 1,
     "best_rank": 67,
     "coverage_score": 0.197368421053,
-    "name": "MogScaling",
+    "name": "spaceshuttle",
     "periods": [
       "monthly"
     ],
@@ -7868,7 +7838,7 @@
     "appearances": 1,
     "best_rank": 68,
     "coverage_score": 0.197368421053,
-    "name": "developers_hire",
+    "name": "MogScaling",
     "periods": [
       "monthly"
     ],
@@ -7928,7 +7898,7 @@
     "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.197368421053,
-    "name": "Pembexx",
+    "name": "20sIndiaReal",
     "periods": [
       "monthly"
     ],
@@ -8018,7 +7988,7 @@
     "appearances": 1,
     "best_rank": 70,
     "coverage_score": 0.197368421053,
-    "name": "selfie50plus",
+    "name": "Pembexx",
     "periods": [
       "monthly"
     ],
@@ -8078,7 +8048,7 @@
     "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.197368421053,
-    "name": "UppiesAppeaseCats",
+    "name": "selfie50plus",
     "periods": [
       "monthly"
     ],
@@ -8183,7 +8153,7 @@
     "appearances": 1,
     "best_rank": 72,
     "coverage_score": 0.197368421053,
-    "name": "BeFascinated",
+    "name": "UppiesAppeaseCats",
     "periods": [
       "monthly"
     ],
@@ -8258,7 +8228,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.197368421053,
-    "name": "GirlGames",
+    "name": "BeFascinated",
     "periods": [
       "monthly"
     ],
@@ -8346,6 +8316,21 @@
   },
   {
     "appearances": 1,
+    "best_rank": 74,
+    "coverage_score": 0.197368421053,
+    "name": "GirlGames",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.089846818539,
+    "score": 0.122103299293,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.25,
     "name": "ChatGPTPro",
@@ -8372,21 +8357,6 @@
     "selected": false,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 75,
-    "coverage_score": 0.197368421053,
-    "name": "TheRestIsScience",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.08918128655,
-    "score": 0.121637426901,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
     ]
   },
   {
@@ -8438,7 +8408,7 @@
     "appearances": 1,
     "best_rank": 76,
     "coverage_score": 0.197368421053,
-    "name": "20sIndiaReal",
+    "name": "decomps",
     "periods": [
       "monthly"
     ],
@@ -8483,7 +8453,7 @@
     "appearances": 1,
     "best_rank": 77,
     "coverage_score": 0.197368421053,
-    "name": "CanadaStocks",
+    "name": "TheRestIsScience",
     "periods": [
       "monthly"
     ],
@@ -8528,7 +8498,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.197368421053,
-    "name": "decomps",
+    "name": "CanadaStocks",
     "periods": [
       "monthly"
     ],
@@ -8633,7 +8603,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.197368421053,
-    "name": "PeopleBeingRidiculous",
+    "name": "gasbuddy",
     "periods": [
       "monthly"
     ],
@@ -8927,21 +8897,6 @@
     "selected": false,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 86,
-    "coverage_score": 0.197368421053,
-    "name": "gasbuddy",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.082462148522,
-    "score": 0.116934030281,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
     ]
   },
   {
