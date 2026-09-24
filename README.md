@@ -60,21 +60,3 @@ python3 -m unittest discover -s tests -v
 python3 scripts/gen_trending_subriff.py --all
 python3 scripts/gen_trending_subriff.py --config config/subriff-sources-nsfw.json --all
 ~~~
-
-## [trending-gummy-daily.txt](https://jeffreyca.github.io/subreddits/trending-gummy-daily.txt), [trending-gummy-weekly.txt](https://jeffreyca.github.io/subreddits/trending-gummy-weekly.txt)
-List of trending subreddits, sourced from [gummysearch.com](https://gummysearch.com/tools/top-subreddits/). **No longer updated.**
-
-* Growth period: daily, weekly
-* Size: large, huge, massive
-
-### Generate using GitHub Actions
-The GitHub Action "Update trending subreddits (gummysearch)" is configured to run twice a day, but you can also manually trigger it.
-
-### Generate from local machine
-1. `./scripts/gen_trending_gummy.sh <daily or weekly>`
-
-## [trending-reddstats-daily.txt](https://jeffreyca.github.io/subreddits/trending-reddstats-daily.txt), [trending-reddstats-weekly.txt](https://jeffreyca.github.io/subreddits/trending-reddstats-weekly.txt)
-List of trending subreddits, sourced from [reddstats.com](https://reddstats.com/ranking/relative?over18=False&period=daily&subscriber_classification=50001-100000). **No longer updated.**
-
-## [trending-apollo.txt](https://jeffreyca.github.io/subreddits/trending-apollo.txt)
-Original list of trending subreddits used by Apollo iOS app, extracted from `trending-subreddits.plist`. Last updated 2023-09-09.
