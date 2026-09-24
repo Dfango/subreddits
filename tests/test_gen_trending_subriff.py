@@ -76,13 +76,59 @@ class GeneratorTests(unittest.TestCase):
             self.assertFalse(generator._is_allowed({flag: True}, include_nsfw=False))
         self.assertTrue(generator._is_allowed({"isNsfw": True}, include_nsfw=True))
 
+    def test_nsfw_only_filter_rejects_sfw_rows(self):
+        self.assertFalse(
+            generator._is_allowed(
+                {"isNsfw": False},
+                include_nsfw=True,
+                require_nsfw=True,
+            )
+        )
+        self.assertTrue(
+            generator._is_allowed(
+                {"internal_IsNsfw": "true"},
+                include_nsfw=True,
+                require_nsfw=True,
+            )
+        )
+
+    def test_shuffle_mode_uses_a_stable_non_ranked_order(self):
+        source = {
+            "name": "random",
+            "size_filters": ["medium"],
+            "periods": ["daily"],
+            "limit": 3,
+            "selection_mode": "shuffle",
+            "shuffle_seed": "test-seed",
+        }
+
+        def fake_fetch(session, query, max_pages):
+            return [
+                {"name": "Alpha", "key": "alpha", "rank": 1},
+                {"name": "Beta", "key": "beta", "rank": 2},
+                {"name": "Gamma", "key": "gamma", "rank": 3},
+            ]
+
+        with patch.object(generator, "fetch_subreddit_observations", side_effect=fake_fetch):
+            result = generator.generate_source(source, {}, requests.Session())
+
+        expected = sorted(
+            ["Alpha", "Beta", "Gamma"],
+            key=lambda name: generator._stable_tie_key(name, "test-seed:random"),
+        )
+        self.assertEqual(result, expected)
+
     def test_configs_keep_sfw_and_nsfw_outputs_separate(self):
         sfw = generator.load_config(generator.DEFAULT_CONFIG)
         nsfw = generator.load_config(generator.DEFAULT_CONFIG.with_name("subriff-sources-nsfw.json"))
         self.assertEqual(sfw["content_policy"], "sfw")
         self.assertEqual(nsfw["content_policy"], "nsfw")
         self.assertTrue(all("nsfw" not in source["output"] for source in sfw["sources"]))
-        self.assertTrue(all("nsfw" in source["output"] for source in nsfw["sources"]))
+        self.assertTrue(all(source.get("require_nsfw") is True or nsfw["defaults"].get("require_nsfw") is True for source in nsfw["sources"]))
+        self.assertEqual(
+            {source["name"] for source in nsfw["sources"] if source["name"].startswith("account-")},
+            {"account-trending", "account-random", "account-random-nsfw"},
+        )
 
 
 if __name__ == "__main__":

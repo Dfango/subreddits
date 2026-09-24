@@ -9,6 +9,7 @@
     "allows_promotion": false,
     "nsfw": true,
     "include_nsfw": true,
+    "require_nsfw": true,
     "max_pages": 10,
     "limit": 500,
     "scoring": {
@@ -33,6 +34,52 @@
     {"name": "daily", "output": "trending-subriff-nsfw-daily.txt", "periods": ["daily"], "limit": 500, "report": "subriff-ranking-nsfw-daily.json"},
     {"name": "weekly", "output": "trending-subriff-nsfw-weekly.txt", "periods": ["weekly"], "limit": 500, "report": "subriff-ranking-nsfw-weekly.json"},
     {"name": "monthly", "output": "trending-subriff-nsfw-monthly.txt", "periods": ["monthly"], "limit": 500, "report": "subriff-ranking-nsfw-monthly.json"},
-    {"name": "blended", "output": "trending-subriff-nsfw-blended.txt", "periods": ["daily", "weekly", "monthly"], "limit": 1000, "report": "subriff-ranking-nsfw-blended.json"}
+    {"name": "blended", "output": "trending-subriff-nsfw-blended.txt", "periods": ["daily", "weekly", "monthly"], "limit": 1000, "report": "subriff-ranking-nsfw-blended.json"},
+    {
+      "name": "account-trending",
+      "output": "trending-nsfw.txt",
+      "periods": ["daily", "weekly", "monthly"],
+      "size_filters": ["medium", "large", "xlarge"],
+      "limit": 1000,
+      "selection_mode": "ranked",
+      "scoring": {
+        "rank_weight": 0.85,
+        "coverage_weight": 0.15,
+        "period_weights": {"daily": 1.30, "weekly": 1.10, "monthly": 0.85},
+        "tie_seed": "account-trending-nsfw-v1"
+      },
+      "report": "subriff-ranking-account-trending-nsfw.json"
+    },
+    {
+      "name": "account-random",
+      "output": "random-nsfw.txt",
+      "periods": ["daily", "weekly", "monthly"],
+      "size_filters": ["medium-small", "medium", "large", "xlarge"],
+      "limit": 1000,
+      "selection_mode": "shuffle",
+      "shuffle_seed": "daily",
+      "scoring": {
+        "rank_weight": 0.50,
+        "coverage_weight": 0.50,
+        "tie_seed": "account-random-nsfw-v1"
+      },
+      "report": "subriff-ranking-account-random-nsfw.json"
+    },
+    {
+      "name": "account-random-nsfw",
+      "output": "random-nsfw-explicit.txt",
+      "periods": ["daily", "monthly"],
+      "size_filters": ["medium-small", "medium", "large"],
+      "limit": 1000,
+      "selection_mode": "shuffle",
+      "shuffle_seed": "daily-explicit",
+      "scoring": {
+        "rank_weight": 0.35,
+        "coverage_weight": 0.65,
+        "period_weights": {"daily": 1.35, "monthly": 0.90},
+        "tie_seed": "account-random-explicit-nsfw-v1"
+      },
+      "report": "subriff-ranking-account-random-explicit-nsfw.json"
+    }
   ]
 }

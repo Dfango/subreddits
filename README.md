@@ -36,12 +36,17 @@ Configuration: [`config/subriff-sources.json`](config/subriff-sources.json)
 - [Weekly](https://dfango.github.io/subreddits/trending-subriff-nsfw-weekly.txt)
 - [Monthly](https://dfango.github.io/subreddits/trending-subriff-nsfw-monthly.txt)
 - [Blended](https://dfango.github.io/subreddits/trending-subriff-nsfw-blended.txt)
+- [Account Trending](https://dfango.github.io/subreddits/trending-nsfw.txt) — ranked toward current growth
+- [Account Random](https://dfango.github.io/subreddits/random-nsfw.txt) — broad daily-shuffled NSFW rotation
+- [Account Random NSFW](https://dfango.github.io/subreddits/random-nsfw-explicit.txt) — separate daily-shuffled rotation with a different query mix
 
 Configuration: [`config/subriff-sources-nsfw.json`](config/subriff-sources-nsfw.json)
 
-The outputs are intentionally separate. The generator deduplicates names case-insensitively, records each community's position in every Subriff result, and ranks candidates with weighted reciprocal rank fusion. Weekly and monthly evidence is weighted slightly more than daily evidence, while the subscriber-size weights reduce the effect of tiny communities with unusually large percentages. Exact score ties use a stable hash instead of alphabetical order, preventing the output from favoring only the beginning of the alphabet.
+The outputs are intentionally separate. Every NSFW configuration source requires Subriff's NSFW flag, so these three account-specific lists do not merely include NSFW communities—they filter out rows that are not marked NSFW. The generator deduplicates names case-insensitively, records each community's position in every Subriff result, and ranks candidates with weighted reciprocal rank fusion. Weekly and monthly evidence is weighted slightly more than daily evidence, while the subscriber-size weights reduce the effect of tiny communities with unusually large percentages. Exact score ties use a stable hash instead of alphabetical order, preventing the output from favoring only the beginning of the alphabet.
 
-The SFW and NSFW period-specific sources are configured for up to 500 entries each, and blended sources for up to 1,000. Subriff returns 20 entries per page, so the workflow reads up to 10 pages per query. These are deliberately high-volume settings without making every scheduled run perform the hundreds of requests required to force a 5,000-entry blended list.
+For Apollo, use the three account-specific URLs as separate sources. Label them `Trending`, `Random`, and `Random NSFW`. `Trending` is ranked by current growth; `Random` is a broad NSFW pool shuffled once per UTC day; and `Random NSFW` uses a different period/size mix and a different daily shuffle seed, so it is not a duplicate of `Random`.
+
+The SFW and NSFW period-specific sources are configured for up to 500 entries each, blended sources for up to 1,000, and the three account-specific sources for up to 1,000. Subriff returns 20 entries per page, so the workflow reads up to 10 pages per query. These are deliberately high-volume settings without making every scheduled run perform the hundreds of requests required to force a 5,000-entry blended list.
 
 Each source also has a matching `subriff-ranking-*.json` report containing the score, best observed rank, appearance count, periods, size filters, and whether the candidate made the plaintext output. The reports are for inspection; Apollo still receives only one subreddit name per line. Identical queries are cached during a generation run, so the blended sources do not refetch the same Subriff pages.
 

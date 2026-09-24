@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+from datetime import datetime, timezone
 import hashlib
 import json
 import os
@@ -50,17 +51,28 @@ def _canonical_name(name: str) -> str:
     return name[2:] if name.lower().startswith("r/") else name
 
 
-def _is_allowed(subreddit: dict[str, Any], include_nsfw: bool) -> bool:
+NSFW_FIELDS = (
+    "isNsfw",
+    "internal_IsNsfw",
+    "suggested_Internal_IsNsfw",
+)
+
+
+def _is_nsfw(subreddit: dict[str, Any]) -> bool:
+    return any(_as_bool(subreddit.get(field, False)) for field in NSFW_FIELDS)
+
+
+def _is_allowed(
+    subreddit: dict[str, Any],
+    include_nsfw: bool,
+    require_nsfw: bool = False,
+) -> bool:
+    is_nsfw = _is_nsfw(subreddit)
+    if require_nsfw and not is_nsfw:
+        return False
     if include_nsfw:
         return True
-    return not any(
-        subreddit.get(field)
-        for field in (
-            "isNsfw",
-            "internal_IsNsfw",
-            "suggested_Internal_IsNsfw",
-        )
-    )
+    return not is_nsfw
 
 
 def load_config(path: Path) -> dict[str, Any]:
@@ -90,6 +102,9 @@ def load_config(path: Path) -> dict[str, Any]:
             raise ValueError("source output must be a plain .txt filename: %s" % output)
         if output in output_names:
             raise ValueError("duplicate source output: %s" % output)
+        selection_mode = source.get("selection_mode", "ranked")
+        if selection_mode not in {"ranked", "shuffle"}:
+            raise ValueError("unknown selection mode: %s" % selection_mode)
         source_names.add(name)
         output_names.add(output)
 
@@ -134,6 +149,7 @@ def fetch_subreddit_observations(
     observations: list[dict[str, Any]] = []
     seen: set[str] = set()
     include_nsfw = _as_bool(query.get("include_nsfw", False))
+    require_nsfw = _as_bool(query.get("require_nsfw", False))
     rows_seen = 0
 
     for page in range(1, max_pages + 1):
@@ -160,7 +176,11 @@ def fetch_subreddit_observations(
 
         for subreddit in rows:
             rows_seen += 1
-            if not isinstance(subreddit, dict) or not _is_allowed(subreddit, include_nsfw):
+            if not isinstance(subreddit, dict) or not _is_allowed(
+                subreddit,
+                include_nsfw,
+                require_nsfw,
+            ):
                 continue
             display_name = subreddit.get("displayName")
             if not isinstance(display_name, str) or not display_name.strip():
@@ -225,6 +245,7 @@ def _query_cache_key(query: dict[str, Any], max_pages: int) -> tuple[Any, ...]:
         "allows_promotion",
         "nsfw",
         "include_nsfw",
+        "require_nsfw",
     )
     return tuple((field, str(query.get(field, ""))) for field in fields) + (("max_pages", max_pages),)
 
@@ -315,7 +336,19 @@ def rank_source(
         ),
     )
     limit = int(source.get("limit", defaults.get("limit", 35)))
-    selected = ranked[:limit]
+    selection_mode = source.get("selection_mode", "ranked")
+    if selection_mode == "shuffle":
+        shuffle_seed = str(source.get("shuffle_seed", source["name"]))
+        if shuffle_seed == "daily":
+            shuffle_seed = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        shuffle_seed = "%s:%s" % (shuffle_seed, source["name"])
+        selection_order = sorted(
+            ranked,
+            key=lambda candidate: _stable_tie_key(candidate["name"], shuffle_seed),
+        )
+    else:
+        selection_order = ranked
+    selected = selection_order[:limit]
     selected_keys = {candidate["name"].casefold() for candidate in selected}
     report = [
         {

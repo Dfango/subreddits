@@ -9,6 +9,8 @@ on:
       - "index.html"
       - "popular.txt"
       - "trending-*.txt"
+      - "random-nsfw.txt"
+      - "random-nsfw-explicit.txt"
       - "subriff-ranking-*.json"
       - ".github/workflows/static.yml"
 
