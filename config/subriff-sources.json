@@ -9,8 +9,8 @@
     "allows_promotion": false,
     "nsfw": false,
     "include_nsfw": false,
-    "max_pages": 3,
-    "limit": 50,
+    "max_pages": 10,
+    "limit": 500,
     "scoring": {
       "rrf_k": 60,
       "rank_weight": 0.7,
@@ -30,9 +30,9 @@
     }
   },
   "sources": [
-    {"name": "daily", "output": "trending-subriff-daily.txt", "periods": ["daily"], "limit": 50, "report": "subriff-ranking-sfw-daily.json"},
-    {"name": "weekly", "output": "trending-subriff-weekly.txt", "periods": ["weekly"], "limit": 50, "report": "subriff-ranking-sfw-weekly.json"},
-    {"name": "monthly", "output": "trending-subriff-monthly.txt", "periods": ["monthly"], "limit": 50, "report": "subriff-ranking-sfw-monthly.json"},
-    {"name": "blended", "output": "trending-subriff-blended.txt", "periods": ["daily", "weekly"], "limit": 35, "report": "subriff-ranking-sfw-blended.json"}
+    {"name": "daily", "output": "trending-subriff-daily.txt", "periods": ["daily"], "limit": 500, "report": "subriff-ranking-sfw-daily.json"},
+    {"name": "weekly", "output": "trending-subriff-weekly.txt", "periods": ["weekly"], "limit": 500, "report": "subriff-ranking-sfw-weekly.json"},
+    {"name": "monthly", "output": "trending-subriff-monthly.txt", "periods": ["monthly"], "limit": 500, "report": "subriff-ranking-sfw-monthly.json"},
+    {"name": "blended", "output": "trending-subriff-blended.txt", "periods": ["daily", "weekly"], "limit": 1000, "report": "subriff-ranking-sfw-blended.json"}
   ]
 }

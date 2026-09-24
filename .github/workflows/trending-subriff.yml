@@ -1,6 +1,12 @@
 name: Update Subriff subreddit sources
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "config/**"
+      - "scripts/gen_trending_subriff.py"
+      - ".github/workflows/trending-subriff.yml"
   schedule:
     - cron: "45 */12 * * *"
   workflow_dispatch:

@@ -1,7 +1,7 @@
 # Subreddits
 
 ## [popular.txt](https://jeffreyca.github.io/subreddits/popular.txt)
-List of popular subreddits retrieved using [Reddit's popular subreddits API](https://www.reddit.com/dev/api/#GET_subreddits_{where}). Updated weekly.
+List of popular subreddits retrieved using [Reddit's popular subreddits API](https://www.reddit.com/dev/api/#GET_subreddits_{where}). The generator requests up to 5,000 entries and writes every entry Reddit returns; the live API may provide fewer. Updated weekly.
 
 To generate the list yourself, you'll need a Reddit app client ID and secret, which you can get from https://reddit.com/prefs/apps.
 
@@ -26,7 +26,7 @@ The Subriff workflow generates separate SFW and NSFW lists from the public growt
 - [Daily](https://dfango.github.io/subreddits/trending-subriff-daily.txt)
 - [Weekly](https://dfango.github.io/subreddits/trending-subriff-weekly.txt)
 - [Monthly](https://dfango.github.io/subreddits/trending-subriff-monthly.txt)
-- [Blended](https://dfango.github.io/subreddits/trending-subriff-blended.txt) — existing 35-item source
+- [Blended](https://dfango.github.io/subreddits/trending-subriff-blended.txt) — up to 1,000 weighted entries
 
 Configuration: [`config/subriff-sources.json`](config/subriff-sources.json)
 
@@ -40,6 +40,8 @@ Configuration: [`config/subriff-sources.json`](config/subriff-sources.json)
 Configuration: [`config/subriff-sources-nsfw.json`](config/subriff-sources-nsfw.json)
 
 The outputs are intentionally separate. The generator deduplicates names case-insensitively, records each community's position in every Subriff result, and ranks candidates with weighted reciprocal rank fusion. Weekly and monthly evidence is weighted slightly more than daily evidence, while the subscriber-size weights reduce the effect of tiny communities with unusually large percentages. Exact score ties use a stable hash instead of alphabetical order, preventing the output from favoring only the beginning of the alphabet.
+
+The SFW and NSFW period-specific sources are configured for up to 500 entries each, and blended sources for up to 1,000. Subriff returns 20 entries per page, so the workflow reads up to 10 pages per query. These are deliberately high-volume settings without making every scheduled run perform the hundreds of requests required to force a 5,000-entry blended list.
 
 Each source also has a matching `subriff-ranking-*.json` report containing the score, best observed rank, appearance count, periods, size filters, and whether the candidate made the plaintext output. The reports are for inspection; Apollo still receives only one subreddit name per line. Identical queries are cached during a generation run, so the blended sources do not refetch the same Subriff pages.
 
