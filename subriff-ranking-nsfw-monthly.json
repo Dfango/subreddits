@@ -7,8 +7,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.624599754069,
-    "score": 0.662219827849,
+    "rank_score": 0.626753762959,
+    "score": 0.663727634071,
     "selected": true,
     "size_filters": [
       "large",
@@ -24,8 +24,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.598048978635,
-    "score": 0.643634285045,
+    "rank_score": 0.59956223576,
+    "score": 0.644693565032,
     "selected": true,
     "size_filters": [
       "large",
@@ -41,8 +41,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.589615423679,
-    "score": 0.637730796575,
+    "rank_score": 0.591109278466,
+    "score": 0.638776494926,
     "selected": true,
     "size_filters": [
       "large",
@@ -58,8 +58,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.568883972696,
-    "score": 0.623218780887,
+    "rank_score": 0.574820246969,
+    "score": 0.627374172878,
     "selected": true,
     "size_filters": [
       "large",
@@ -75,8 +75,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.552058849513,
-    "score": 0.611441194659,
+    "rank_score": 0.553618124456,
+    "score": 0.612532687119,
     "selected": true,
     "size_filters": [
       "large",
@@ -103,14 +103,31 @@
   },
   {
     "appearances": 3,
+    "best_rank": 7,
+    "coverage_score": 0.75,
+    "name": "DesiHeatHub",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.518332070522,
+    "score": 0.587832449365,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium",
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 3,
     "best_rank": 1,
     "coverage_score": 0.802631578947,
     "name": "AmateursDoingIt",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.454012514891,
-    "score": 0.558598234108,
+    "rank_score": 0.460711447459,
+    "score": 0.563287486905,
     "selected": true,
     "size_filters": [
       "large",
@@ -126,29 +143,13 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.443694379246,
-    "score": 0.551375539156,
+    "rank_score": 0.444971357845,
+    "score": 0.552269424176,
     "selected": true,
     "size_filters": [
       "large",
       "medium",
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 7,
-    "coverage_score": 0.552631578947,
-    "name": "DesiHeatHub",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.472026402506,
-    "score": 0.496207955438,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
     ]
   },
   {
@@ -159,8 +160,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.462872790689,
-    "score": 0.489800427166,
+    "rank_score": 0.460332817337,
+    "score": 0.48802244582,
     "selected": true,
     "size_filters": [
       "large",
@@ -175,8 +176,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.442570024657,
-    "score": 0.475588490944,
+    "rank_score": 0.444766007089,
+    "score": 0.477125678647,
     "selected": true,
     "size_filters": [
       "large",
@@ -191,8 +192,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.436768645752,
-    "score": 0.471527525711,
+    "rank_score": 0.43891414583,
+    "score": 0.473029375765,
     "selected": true,
     "size_filters": [
       "large",
@@ -207,8 +208,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.427065315872,
-    "score": 0.464735194794,
+    "rank_score": 0.429069389727,
+    "score": 0.466138046493,
     "selected": true,
     "size_filters": [
       "large",
@@ -239,8 +240,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.400825915324,
-    "score": 0.446367614411,
+    "rank_score": 0.402415284787,
+    "score": 0.447480173035,
     "selected": true,
     "size_filters": [
       "large",
@@ -255,8 +256,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.440208978328,
-    "score": 0.446304179567,
+    "rank_score": 0.437643020595,
+    "score": 0.444508009153,
     "selected": true,
     "size_filters": [
       "medium",
@@ -271,8 +272,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.388644793342,
-    "score": 0.437840829024,
+    "rank_score": 0.390060119703,
+    "score": 0.438831557476,
     "selected": true,
     "size_filters": [
       "large",
@@ -287,8 +288,24 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.377497283031,
-    "score": 0.430037571806,
+    "rank_score": 0.37876566416,
+    "score": 0.430925438596,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 16,
+    "coverage_score": 0.552631578947,
+    "name": "muslimcocklovers",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.36723678391,
+    "score": 0.422855222421,
     "selected": true,
     "size_filters": [
       "large",
@@ -303,8 +320,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.409406833616,
-    "score": 0.424742678268,
+    "rank_score": 0.403967312373,
+    "score": 0.420935013398,
     "selected": true,
     "size_filters": [
       "medium",
@@ -313,30 +330,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 16,
-    "coverage_score": 0.552631578947,
-    "name": "muslimcocklovers",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.366112650046,
-    "score": 0.422068328717,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 17,
     "coverage_score": 0.552631578947,
-    "name": "rTeenGirls",
+    "name": "911archive",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.357744360902,
-    "score": 0.416210526316,
+    "rank_score": 0.3598325081,
+    "score": 0.417672229354,
     "selected": true,
     "size_filters": [
       "large",
@@ -347,12 +348,28 @@
     "appearances": 2,
     "best_rank": 18,
     "coverage_score": 0.552631578947,
-    "name": "911archive",
+    "name": "rTeenGirls",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.353785103785,
-    "score": 0.413439046334,
+    "rank_score": 0.355839972139,
+    "score": 0.414877454181,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 19,
+    "coverage_score": 0.552631578947,
+    "name": "MostrarEsposas",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.350919492825,
+    "score": 0.411433118662,
     "selected": true,
     "size_filters": [
       "large",
@@ -377,30 +394,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 19,
-    "coverage_score": 0.552631578947,
-    "name": "MostrarEsposas",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.348928839107,
-    "score": 0.410039661059,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 20,
     "coverage_score": 0.552631578947,
     "name": "GooningAsians",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.345162688698,
-    "score": 0.407403355773,
+    "rank_score": 0.347122358061,
+    "score": 0.408775124327,
     "selected": true,
     "size_filters": [
       "large",
@@ -415,8 +416,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.341480481831,
-    "score": 0.404825810966,
+    "rank_score": 0.343409884665,
+    "score": 0.40617639295,
     "selected": true,
     "size_filters": [
       "large",
@@ -427,7 +428,7 @@
     "appearances": 2,
     "best_rank": 22,
     "coverage_score": 0.552631578947,
-    "name": "randi_khanna",
+    "name": "Milfs_Fucking",
     "periods": [
       "monthly"
     ],
@@ -443,7 +444,7 @@
     "appearances": 2,
     "best_rank": 23,
     "coverage_score": 0.552631578947,
-    "name": "Milfs_Fucking",
+    "name": "randi_khanna",
     "periods": [
       "monthly"
     ],
@@ -463,8 +464,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.337511571722,
-    "score": 0.398100205469,
+    "rank_score": 0.338030311285,
+    "score": 0.398463323163,
     "selected": true,
     "size_filters": [
       "large",
@@ -475,7 +476,7 @@
     "appearances": 2,
     "best_rank": 24,
     "coverage_score": 0.552631578947,
-    "name": "SissyRewired",
+    "name": "SluttyConfession_Desi",
     "periods": [
       "monthly"
     ],
@@ -491,12 +492,12 @@
     "appearances": 2,
     "best_rank": 25,
     "coverage_score": 0.552631578947,
-    "name": "SluttyConfession_Desi",
+    "name": "pussy_closeup_only",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.324912431357,
-    "score": 0.393228175634,
+    "rank_score": 0.325773993808,
+    "score": 0.39383126935,
     "selected": true,
     "size_filters": [
       "large",
@@ -507,12 +508,12 @@
     "appearances": 2,
     "best_rank": 26,
     "coverage_score": 0.552631578947,
-    "name": "wifebrag",
+    "name": "SissyRewired",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.317580522293,
-    "score": 0.388095839289,
+    "rank_score": 0.320810915527,
+    "score": 0.390357114553,
     "selected": true,
     "size_filters": [
       "large",
@@ -543,8 +544,24 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.314440915507,
-    "score": 0.385898114539,
+    "rank_score": 0.316812758235,
+    "score": 0.387558404448,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 28,
+    "coverage_score": 0.552631578947,
+    "name": "wifebrag",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.312914059625,
+    "score": 0.384829315421,
     "selected": true,
     "size_filters": [
       "large",
@@ -559,8 +576,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.349865047233,
-    "score": 0.3830634278,
+    "rank_score": 0.348993000755,
+    "score": 0.382452995265,
     "selected": true,
     "size_filters": [
       "medium",
@@ -569,30 +586,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 28,
+    "best_rank": 29,
     "coverage_score": 0.552631578947,
     "name": "DesiGaayeGW",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.309859470104,
-    "score": 0.382691102757,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 29,
-    "coverage_score": 0.552631578947,
-    "name": "HumiliateDegradeKink",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.30542085551,
-    "score": 0.379584072541,
+    "rank_score": 0.307604887017,
+    "score": 0.381112894596,
     "selected": true,
     "size_filters": [
       "large",
@@ -603,12 +604,12 @@
     "appearances": 2,
     "best_rank": 30,
     "coverage_score": 0.552631578947,
-    "name": "DesiBhabhiChudai",
+    "name": "HumiliateDegradeKink",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.301117991056,
-    "score": 0.376572067423,
+    "rank_score": 0.303934612818,
+    "score": 0.378543702657,
     "selected": true,
     "size_filters": [
       "large",
@@ -619,12 +620,12 @@
     "appearances": 2,
     "best_rank": 31,
     "coverage_score": 0.552631578947,
-    "name": "PornEdits4U",
+    "name": "DesiBhabhiChudai",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.298280666702,
-    "score": 0.374585940375,
+    "rank_score": 0.299652217589,
+    "score": 0.375546025996,
     "selected": true,
     "size_filters": [
       "large",
@@ -635,12 +636,28 @@
     "appearances": 2,
     "best_rank": 32,
     "coverage_score": 0.552631578947,
+    "name": "PornEdits4U",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.296852799091,
+    "score": 0.373586433048,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 33,
+    "coverage_score": 0.552631578947,
     "name": "ForcedBreedingHentai",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.294179699456,
-    "score": 0.371715263304,
+    "rank_score": 0.292115896892,
+    "score": 0.370270601509,
     "selected": true,
     "size_filters": [
       "large",
@@ -665,30 +682,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 33,
-    "coverage_score": 0.552631578947,
-    "name": "SheWantsItHard",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.287751735752,
-    "score": 0.36721568871,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 34,
     "coverage_score": 0.552631578947,
     "name": "HomewreckerSLUTS",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.284552543882,
-    "score": 0.364976254402,
+    "rank_score": 0.285138620245,
+    "score": 0.365386507856,
     "selected": true,
     "size_filters": [
       "large",
@@ -703,8 +704,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.281996118566,
-    "score": 0.363186756681,
+    "rank_score": 0.281423954623,
+    "score": 0.362786241921,
     "selected": true,
     "size_filters": [
       "large",
@@ -719,8 +720,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.278363648091,
-    "score": 0.360644027348,
+    "rank_score": 0.278922389183,
+    "score": 0.361035146112,
     "selected": true,
     "size_filters": [
       "large",
@@ -731,7 +732,7 @@
     "appearances": 2,
     "best_rank": 37,
     "coverage_score": 0.552631578947,
-    "name": "BadDadsAndDaughters",
+    "name": "SheWantsItHard",
     "periods": [
       "monthly"
     ],
@@ -747,12 +748,12 @@
     "appearances": 2,
     "best_rank": 38,
     "coverage_score": 0.552631578947,
-    "name": "JustFriendsThatFuck",
+    "name": "Amateur_Couples_Share",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.272972377269,
-    "score": 0.356870137772,
+    "rank_score": 0.273511852722,
+    "score": 0.357247770589,
     "selected": true,
     "size_filters": [
       "large",
@@ -763,12 +764,12 @@
     "appearances": 2,
     "best_rank": 39,
     "coverage_score": 0.552631578947,
-    "name": "Amateur_Couples_Share",
+    "name": "JustFriendsThatFuck",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.270091896408,
-    "score": 0.35485380117,
+    "rank_score": 0.270619076427,
+    "score": 0.355222827183,
     "selected": true,
     "size_filters": [
       "large",
@@ -779,12 +780,12 @@
     "appearances": 2,
     "best_rank": 40,
     "coverage_score": 0.552631578947,
-    "name": "Roleplayheaven",
+    "name": "BadDadsAndDaughters",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.267271781148,
-    "score": 0.352879720488,
+    "rank_score": 0.268308270677,
+    "score": 0.353605263158,
     "selected": true,
     "size_filters": [
       "large",
@@ -795,12 +796,12 @@
     "appearances": 2,
     "best_rank": 41,
     "coverage_score": 0.552631578947,
-    "name": "GoonHub4U",
+    "name": "Roleplayheaven",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.264510146986,
-    "score": 0.350946576575,
+    "rank_score": 0.265523474738,
+    "score": 0.351655906001,
     "selected": true,
     "size_filters": [
       "large",
@@ -811,12 +812,12 @@
     "appearances": 2,
     "best_rank": 42,
     "coverage_score": 0.552631578947,
-    "name": "DirtyConfessionIndia",
+    "name": "GoonHub4U",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.261317887479,
-    "score": 0.348711994919,
+    "rank_score": 0.262796121095,
+    "score": 0.349746758451,
     "selected": true,
     "size_filters": [
       "large",
@@ -827,12 +828,12 @@
     "appearances": 2,
     "best_rank": 43,
     "coverage_score": 0.552631578947,
-    "name": "feetgooned",
+    "name": "DirtyConfessionIndia",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.258678434161,
-    "score": 0.346864377597,
+    "rank_score": 0.259637143643,
+    "score": 0.347535474235,
     "selected": true,
     "size_filters": [
       "large",
@@ -841,14 +842,30 @@
   },
   {
     "appearances": 2,
-    "best_rank": 10,
+    "best_rank": 44,
+    "coverage_score": 0.552631578947,
+    "name": "feetgooned",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.257506747638,
+    "score": 0.346044197031,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 11,
     "coverage_score": 0.460526315789,
     "name": "traumatizedwhores",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.297729408749,
-    "score": 0.346568480861,
+    "rank_score": 0.294890395002,
+    "score": 0.344581171238,
     "selected": true,
     "size_filters": [
       "medium",
@@ -857,30 +874,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 44,
+    "best_rank": 45,
     "coverage_score": 0.552631578947,
     "name": "bananatits",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.256558430901,
-    "score": 0.345380375315,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 45,
-    "coverage_score": 0.552631578947,
-    "name": "Goon_Roulette",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.25447489692,
-    "score": 0.343921901528,
+    "rank_score": 0.255412988994,
+    "score": 0.34457856598,
     "selected": true,
     "size_filters": [
       "large",
@@ -891,12 +892,12 @@
     "appearances": 2,
     "best_rank": 46,
     "coverage_score": 0.552631578947,
-    "name": "CosplayNSFW_",
+    "name": "Goon_Roulette",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.252426862232,
-    "score": 0.342488277246,
+    "rank_score": 0.25335489412,
+    "score": 0.343137899568,
     "selected": true,
     "size_filters": [
       "large",
@@ -907,7 +908,7 @@
     "appearances": 2,
     "best_rank": 47,
     "coverage_score": 0.552631578947,
-    "name": "sextingFforM",
+    "name": "CosplayNSFW_",
     "periods": [
       "monthly"
     ],
@@ -927,8 +928,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.286654135338,
-    "score": 0.338815789474,
+    "rank_score": 0.288385138571,
+    "score": 0.340027491737,
     "selected": true,
     "size_filters": [
       "medium",
@@ -939,12 +940,12 @@
     "appearances": 2,
     "best_rank": 48,
     "coverage_score": 0.552631578947,
-    "name": "Doingsluttythings",
+    "name": "sextingFforM",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.245820212925,
-    "score": 0.337863622732,
+    "rank_score": 0.24843358396,
+    "score": 0.339692982456,
     "selected": true,
     "size_filters": [
       "large",
@@ -955,12 +956,12 @@
     "appearances": 2,
     "best_rank": 49,
     "coverage_score": 0.552631578947,
-    "name": "gothwbreedingkink",
+    "name": "Doingsluttythings",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.243900215808,
-    "score": 0.33651962475,
+    "rank_score": 0.246044225796,
+    "score": 0.338020431741,
     "selected": true,
     "size_filters": [
       "large",
@@ -971,12 +972,12 @@
     "appearances": 2,
     "best_rank": 50,
     "coverage_score": 0.552631578947,
-    "name": "GodPussyv2",
+    "name": "gothwbreedingkink",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.240390154491,
-    "score": 0.334062581828,
+    "rank_score": 0.242427497315,
+    "score": 0.335488721805,
     "selected": true,
     "size_filters": [
       "large",
@@ -987,12 +988,12 @@
     "appearances": 2,
     "best_rank": 51,
     "coverage_score": 0.552631578947,
-    "name": "rate_my_tits",
+    "name": "GodPussyv2",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.238548605927,
-    "score": 0.332773497833,
+    "rank_score": 0.239343290659,
+    "score": 0.333329777146,
     "selected": true,
     "size_filters": [
       "large",
@@ -1003,28 +1004,12 @@
     "appearances": 2,
     "best_rank": 52,
     "coverage_score": 0.552631578947,
-    "name": "insta_lust",
+    "name": "rate_my_tits",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.23558517045,
-    "score": 0.330699092999,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 53,
-    "coverage_score": 0.552631578947,
-    "name": "purnagurmeleri",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.233813500019,
-    "score": 0.329458923698,
+    "rank_score": 0.237128247599,
+    "score": 0.331779247004,
     "selected": true,
     "size_filters": [
       "large",
@@ -1039,8 +1024,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.270436225699,
-    "score": 0.327463252726,
+    "rank_score": 0.275656593693,
+    "score": 0.331117510322,
     "selected": true,
     "size_filters": [
       "medium",
@@ -1049,46 +1034,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 55,
+    "best_rank": 53,
     "coverage_score": 0.552631578947,
-    "name": "pinoycouplesgonewild",
+    "name": "insta_lust",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.228210313448,
-    "score": 0.325536693098,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 15,
-    "coverage_score": 0.460526315789,
-    "name": "BlackGirlsBWC",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.266154021417,
-    "score": 0.324465709729,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 56,
-    "coverage_score": 0.552631578947,
-    "name": "transgirlass",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.226540969281,
-    "score": 0.324368152181,
+    "rank_score": 0.234570075091,
+    "score": 0.329988526248,
     "selected": true,
     "size_filters": [
       "large",
@@ -1099,12 +1052,44 @@
     "appearances": 2,
     "best_rank": 54,
     "coverage_score": 0.552631578947,
-    "name": "hornypanties",
+    "name": "transgirlass",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.224992641337,
-    "score": 0.32328432262,
+    "rank_score": 0.231700663141,
+    "score": 0.327979937883,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 55,
+    "coverage_score": 0.552631578947,
+    "name": "purnagurmeleri",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.228559207853,
+    "score": 0.325780919181,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 56,
+    "coverage_score": 0.552631578947,
+    "name": "pinoycouplesgonewild",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.226198491222,
+    "score": 0.32412841754,
     "selected": true,
     "size_filters": [
       "large",
@@ -1119,12 +1104,28 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.22489743797,
-    "score": 0.323217680264,
+    "rank_score": 0.224558101912,
+    "score": 0.322980145023,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 15,
+    "coverage_score": 0.460526315789,
+    "name": "BlackGirlsBWC",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.26399141006,
+    "score": 0.322951881779,
+    "selected": true,
+    "size_filters": [
+      "medium",
+      "medium-small"
     ]
   },
   {
@@ -1135,8 +1136,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.22327910041,
-    "score": 0.322084843971,
+    "rank_score": 0.222942863311,
+    "score": 0.321849478002,
     "selected": true,
     "size_filters": [
       "large",
@@ -1167,8 +1168,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.218812656642,
-    "score": 0.318958333333,
+    "rank_score": 0.21913401778,
+    "score": 0.31918328613,
     "selected": true,
     "size_filters": [
       "large",
@@ -1179,7 +1180,7 @@
     "appearances": 2,
     "best_rank": 61,
     "coverage_score": 0.552631578947,
-    "name": "Kolkata_wifeswap",
+    "name": "hornypanties",
     "periods": [
       "monthly"
     ],
@@ -1195,12 +1196,12 @@
     "appearances": 2,
     "best_rank": 62,
     "coverage_score": 0.552631578947,
-    "name": "hijabi_porn_",
+    "name": "Kolkata_wifeswap",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.213337831759,
-    "score": 0.315125955915,
+    "rank_score": 0.214835669961,
+    "score": 0.316174442657,
     "selected": true,
     "size_filters": [
       "large",
@@ -1211,28 +1212,12 @@
     "appearances": 2,
     "best_rank": 63,
     "coverage_score": 0.552631578947,
-    "name": "caseromiamor",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.21186919036,
-    "score": 0.314097906937,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 64,
-    "coverage_score": 0.552631578947,
     "name": "NaturalBabes",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.210422002245,
-    "score": 0.313084875255,
+    "rank_score": 0.212455534314,
+    "score": 0.314508347704,
     "selected": true,
     "size_filters": [
       "large",
@@ -1247,8 +1232,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.208428980401,
-    "score": 0.311689759965,
+    "rank_score": 0.208711189739,
+    "score": 0.311887306502,
     "selected": true,
     "size_filters": [
       "large",
@@ -1259,12 +1244,12 @@
     "appearances": 2,
     "best_rank": 66,
     "coverage_score": 0.552631578947,
-    "name": "celebNSFWs",
+    "name": "hijabi_porn_",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.207027986633,
-    "score": 0.310709064327,
+    "rank_score": 0.207307844227,
+    "score": 0.310904964643,
     "selected": true,
     "size_filters": [
       "large",
@@ -1275,12 +1260,28 @@
     "appearances": 2,
     "best_rank": 67,
     "coverage_score": 0.552631578947,
-    "name": "HentaiLimitless",
+    "name": "celebNSFWs",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.205646971023,
-    "score": 0.3097423534,
+    "rank_score": 0.205924506147,
+    "score": 0.309936627987,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 68,
+    "coverage_score": 0.552631578947,
+    "name": "caseromiamor",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.20456073242,
+    "score": 0.308981986378,
     "selected": true,
     "size_filters": [
       "large",
@@ -1291,12 +1292,12 @@
     "appearances": 2,
     "best_rank": 69,
     "coverage_score": 0.552631578947,
-    "name": "SextWithMeNow",
+    "name": "HentaiLimitless",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.202672378621,
-    "score": 0.307660138719,
+    "rank_score": 0.20321609328,
+    "score": 0.30804073898,
     "selected": true,
     "size_filters": [
       "large",
@@ -1307,12 +1308,12 @@
     "appearances": 2,
     "best_rank": 70,
     "coverage_score": 0.552631578947,
-    "name": "bestsquirt",
+    "name": "SextWithMeNow",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.200820370765,
-    "score": 0.30636373322,
+    "rank_score": 0.201619433198,
+    "score": 0.306923076923,
     "selected": true,
     "size_filters": [
       "large",
@@ -1321,14 +1322,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 71,
+    "best_rank": 72,
     "coverage_score": 0.552631578947,
     "name": "MMF_FFM_Threesome",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.19926148951,
-    "score": 0.305272516341,
+    "rank_score": 0.19772663731,
+    "score": 0.304198119801,
     "selected": true,
     "size_filters": [
       "large",
@@ -1343,8 +1344,8 @@
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.196215262517,
-    "score": 0.303140157446,
+    "rank_score": 0.196467044805,
+    "score": 0.303316405048,
     "selected": true,
     "size_filters": [
       "large",
@@ -1371,12 +1372,12 @@
     "appearances": 2,
     "best_rank": 75,
     "coverage_score": 0.552631578947,
-    "name": "PantiesReveal",
+    "name": "DesiAIMasala",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.192540110961,
-    "score": 0.300567551357,
+    "rank_score": 0.193018722517,
+    "score": 0.300902579446,
     "selected": true,
     "size_filters": [
       "large",
@@ -1550,14 +1551,14 @@
   },
   {
     "appearances": 1,
-    "best_rank": 20,
+    "best_rank": 19,
     "coverage_score": 0.263157894737,
     "name": "wifetradess",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.200657894737,
-    "score": 0.219407894737,
+    "rank_score": 0.203197868088,
+    "score": 0.221185876083,
     "selected": true,
     "size_filters": [
       "medium"
@@ -1627,7 +1628,7 @@
     "appearances": 1,
     "best_rank": 16,
     "coverage_score": 0.25,
-    "name": "HotWetPussy",
+    "name": "18above_Roleplay",
     "periods": [
       "monthly"
     ],
@@ -1657,7 +1658,7 @@
     "appearances": 1,
     "best_rank": 17,
     "coverage_score": 0.25,
-    "name": "pornrelapsed",
+    "name": "HotWetPussy",
     "periods": [
       "monthly"
     ],
@@ -1687,7 +1688,7 @@
     "appearances": 1,
     "best_rank": 18,
     "coverage_score": 0.25,
-    "name": "18above_Roleplay",
+    "name": "pornrelapsed",
     "periods": [
       "monthly"
     ],
@@ -1696,21 +1697,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 25,
-    "coverage_score": 0.263157894737,
-    "name": "HugeDicksTinyChicks",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.188854489164,
-    "score": 0.211145510836,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -1745,24 +1731,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 21,
-    "coverage_score": 0.25,
-    "name": "Jigglefucked",
+    "best_rank": 27,
+    "coverage_score": 0.263157894737,
+    "name": "exposedneedysluts",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.188271604938,
-    "score": 0.206790123457,
+    "rank_score": 0.184513006655,
+    "score": 0.208106473079,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 28,
     "coverage_score": 0.263157894737,
-    "name": "exposedneedysluts",
+    "name": "consensualstruggle",
     "periods": [
       "monthly"
     ],
@@ -1775,24 +1761,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 29,
-    "coverage_score": 0.263157894737,
-    "name": "consensualstruggle",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.180366646954,
-    "score": 0.205204021289,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 22,
     "coverage_score": 0.25,
-    "name": "TrashyBonersEWW",
+    "name": "Jigglefucked",
     "periods": [
       "monthly"
     ],
@@ -1801,6 +1772,21 @@
     "selected": true,
     "size_filters": [
       "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 30,
+    "coverage_score": 0.263157894737,
+    "name": "HugeDicksTinyChicks",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.178362573099,
+    "score": 0.203801169591,
+    "selected": true,
+    "size_filters": [
+      "medium"
     ]
   },
   {
@@ -1822,7 +1808,7 @@
     "appearances": 1,
     "best_rank": 31,
     "coverage_score": 0.263157894737,
-    "name": "thebestfreakiestporn1",
+    "name": "rate_my_pussy",
     "periods": [
       "monthly"
     ],
@@ -1837,7 +1823,7 @@
     "appearances": 1,
     "best_rank": 24,
     "coverage_score": 0.25,
-    "name": "AverageWife",
+    "name": "TrashyBonersEWW",
     "periods": [
       "monthly"
     ],
@@ -1852,7 +1838,7 @@
     "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.263157894737,
-    "name": "rate_my_pussy",
+    "name": "thebestfreakiestporn1",
     "periods": [
       "monthly"
     ],
@@ -1867,7 +1853,7 @@
     "appearances": 1,
     "best_rank": 25,
     "coverage_score": 0.25,
-    "name": "BigTitsRiding",
+    "name": "AverageWife",
     "periods": [
       "monthly"
     ],
@@ -1897,7 +1883,7 @@
     "appearances": 1,
     "best_rank": 26,
     "coverage_score": 0.25,
-    "name": "notgayatall",
+    "name": "BigTitsRiding",
     "periods": [
       "monthly"
     ],
@@ -1927,7 +1913,7 @@
     "appearances": 1,
     "best_rank": 27,
     "coverage_score": 0.25,
-    "name": "TeenBlow",
+    "name": "notgayatall",
     "periods": [
       "monthly"
     ],
@@ -1957,7 +1943,7 @@
     "appearances": 1,
     "best_rank": 28,
     "coverage_score": 0.25,
-    "name": "FuckingLikeCrazy",
+    "name": "TeenBlow",
     "periods": [
       "monthly"
     ],
@@ -2002,7 +1988,7 @@
     "appearances": 1,
     "best_rank": 29,
     "coverage_score": 0.25,
-    "name": "GOONED",
+    "name": "FuckingLikeCrazy",
     "periods": [
       "monthly"
     ],
@@ -2032,7 +2018,7 @@
     "appearances": 1,
     "best_rank": 30,
     "coverage_score": 0.25,
-    "name": "PORNism",
+    "name": "GOONED",
     "periods": [
       "monthly"
     ],
@@ -2092,7 +2078,7 @@
     "appearances": 1,
     "best_rank": 31,
     "coverage_score": 0.25,
-    "name": "youngpussylips",
+    "name": "PORNism",
     "periods": [
       "monthly"
     ],
@@ -2105,24 +2091,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 40,
-    "coverage_score": 0.263157894737,
-    "name": "Young18_girls",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.160526315789,
-    "score": 0.191315789474,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.25,
-    "name": "Hentai__videos",
+    "name": "youngpussylips",
     "periods": [
       "monthly"
     ],
@@ -2150,9 +2121,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 41,
+    "coverage_score": 0.263157894737,
+    "name": "Young18_girls",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.158936946326,
+    "score": 0.190203230849,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 33,
     "coverage_score": 0.25,
-    "name": "taboocaptions",
+    "name": "Hentai__videos",
     "periods": [
       "monthly"
     ],
@@ -2197,7 +2183,7 @@
     "appearances": 1,
     "best_rank": 34,
     "coverage_score": 0.25,
-    "name": "ThicknessAppreciaton",
+    "name": "taboocaptions",
     "periods": [
       "monthly"
     ],
@@ -2227,7 +2213,7 @@
     "appearances": 1,
     "best_rank": 35,
     "coverage_score": 0.25,
-    "name": "tipofmypenis",
+    "name": "ThicknessAppreciaton",
     "periods": [
       "monthly"
     ],
@@ -2242,7 +2228,7 @@
     "appearances": 1,
     "best_rank": 44,
     "coverage_score": 0.263157894737,
-    "name": "BestLesbianNSFW",
+    "name": "Hijaby",
     "periods": [
       "monthly"
     ],
@@ -2272,7 +2258,7 @@
     "appearances": 1,
     "best_rank": 36,
     "coverage_score": 0.25,
-    "name": "DesiNSFWSubs",
+    "name": "tipofmypenis",
     "periods": [
       "monthly"
     ],
@@ -2287,7 +2273,7 @@
     "appearances": 1,
     "best_rank": 45,
     "coverage_score": 0.263157894737,
-    "name": "Hijaby",
+    "name": "bicurious_guys",
     "periods": [
       "monthly"
     ],
@@ -2302,7 +2288,7 @@
     "appearances": 1,
     "best_rank": 37,
     "coverage_score": 0.25,
-    "name": "SwipeToStrip",
+    "name": "DesiNSFWSubs",
     "periods": [
       "monthly"
     ],
@@ -2330,14 +2316,14 @@
   },
   {
     "appearances": 1,
-    "best_rank": 46,
+    "best_rank": 47,
     "coverage_score": 0.263157894737,
-    "name": "bicurious_guys",
+    "name": "JOIvids_",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.151439920556,
-    "score": 0.18495531281,
+    "rank_score": 0.150024594196,
+    "score": 0.183964584358,
     "selected": true,
     "size_filters": [
       "medium"
@@ -2347,7 +2333,7 @@
     "appearances": 1,
     "best_rank": 38,
     "coverage_score": 0.25,
-    "name": "Moms_In_Thongs",
+    "name": "SwipeToStrip",
     "periods": [
       "monthly"
     ],
@@ -2360,9 +2346,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 8,
+    "coverage_score": 0.197368421053,
+    "name": "HolyFuckSheisBad",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.177051083591,
+    "score": 0.18314628483,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 48,
     "coverage_score": 0.263157894737,
-    "name": "JOIvids_",
+    "name": "MatureWomenFucking",
     "periods": [
       "monthly"
     ],
@@ -2377,7 +2378,7 @@
     "appearances": 1,
     "best_rank": 39,
     "coverage_score": 0.25,
-    "name": "BeautifulAndNaked",
+    "name": "Moms_In_Thongs",
     "periods": [
       "monthly"
     ],
@@ -2392,7 +2393,7 @@
     "appearances": 1,
     "best_rank": 49,
     "coverage_score": 0.263157894737,
-    "name": "Big_BullCock",
+    "name": "BestLesbianNSFW",
     "periods": [
       "monthly"
     ],
@@ -2407,7 +2408,7 @@
     "appearances": 1,
     "best_rank": 40,
     "coverage_score": 0.25,
-    "name": "LadyboyPorn",
+    "name": "BeautifulAndNaked",
     "periods": [
       "monthly"
     ],
@@ -2420,24 +2421,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 9,
-    "coverage_score": 0.197368421053,
-    "name": "DesahogoyConfesiones",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.174485125858,
-    "score": 0.181350114416,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.263157894737,
-    "name": "AdultPornComics",
+    "name": "Big_BullCock",
     "periods": [
       "monthly"
     ],
@@ -2467,7 +2453,7 @@
     "appearances": 1,
     "best_rank": 51,
     "coverage_score": 0.263157894737,
-    "name": "RoleplaySession",
+    "name": "esposaexibida",
     "periods": [
       "monthly"
     ],
@@ -2497,7 +2483,7 @@
     "appearances": 1,
     "best_rank": 10,
     "coverage_score": 0.197368421053,
-    "name": "seXra",
+    "name": "DesahogoyConfesiones",
     "periods": [
       "monthly"
     ],
@@ -2510,24 +2496,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 52,
-    "coverage_score": 0.263157894737,
-    "name": "MatureWomenFucking",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.143327067669,
-    "score": 0.179276315789,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.25,
-    "name": "NTR",
+    "name": "RiskyPorn",
     "periods": [
       "monthly"
     ],
@@ -2540,9 +2511,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 53,
+    "coverage_score": 0.263157894737,
+    "name": "RoleplaySession",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.142058686539,
+    "score": 0.178388448999,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 11,
     "coverage_score": 0.197368421053,
-    "name": "SoftSilkSoles",
+    "name": "JOI_VIDS",
     "periods": [
       "monthly"
     ],
@@ -2557,7 +2543,7 @@
     "appearances": 1,
     "best_rank": 76,
     "coverage_score": 0.289473684211,
-    "name": "DesiAIMasala",
+    "name": "PantiesReveal",
     "periods": [
       "monthly"
     ],
@@ -2572,7 +2558,7 @@
     "appearances": 1,
     "best_rank": 44,
     "coverage_score": 0.25,
-    "name": "RiskyPorn",
+    "name": "NTR",
     "periods": [
       "monthly"
     ],
@@ -2587,7 +2573,7 @@
     "appearances": 1,
     "best_rank": 54,
     "coverage_score": 0.263157894737,
-    "name": "CuckoldAi",
+    "name": "Pantyhose_Daily",
     "periods": [
       "monthly"
     ],
@@ -2617,7 +2603,7 @@
     "appearances": 1,
     "best_rank": 45,
     "coverage_score": 0.25,
-    "name": "genzgirlsnsfw",
+    "name": "short_porn",
     "periods": [
       "monthly"
     ],
@@ -2632,7 +2618,7 @@
     "appearances": 1,
     "best_rank": 55,
     "coverage_score": 0.263157894737,
-    "name": "Girls_For_Dads",
+    "name": "CuckoldAi",
     "periods": [
       "monthly"
     ],
@@ -2647,7 +2633,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.289473684211,
-    "name": "cuckoldcheating",
+    "name": "CockTooBigForHer",
     "periods": [
       "monthly"
     ],
@@ -2662,7 +2648,7 @@
     "appearances": 1,
     "best_rank": 12,
     "coverage_score": 0.197368421053,
-    "name": "BehanLovers",
+    "name": "SoftSilkSoles",
     "periods": [
       "monthly"
     ],
@@ -2677,7 +2663,7 @@
     "appearances": 1,
     "best_rank": 56,
     "coverage_score": 0.263157894737,
-    "name": "lxtinawrld",
+    "name": "Girls_For_Dads",
     "periods": [
       "monthly"
     ],
@@ -2692,7 +2678,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.289473684211,
-    "name": "CockTooBigForHer",
+    "name": "cuckoldcheating",
     "periods": [
       "monthly"
     ],
@@ -2707,7 +2693,7 @@
     "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.25,
-    "name": "short_porn",
+    "name": "genzgirlsnsfw",
     "periods": [
       "monthly"
     ],
@@ -2722,7 +2708,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.289473684211,
-    "name": "BarelyLegalTeenSluts",
+    "name": "bestsquirt",
     "periods": [
       "monthly"
     ],
@@ -2737,7 +2723,7 @@
     "appearances": 1,
     "best_rank": 57,
     "coverage_score": 0.263157894737,
-    "name": "esposaexibida",
+    "name": "lxtinawrld",
     "periods": [
       "monthly"
     ],
@@ -2767,7 +2753,7 @@
     "appearances": 1,
     "best_rank": 13,
     "coverage_score": 0.197368421053,
-    "name": "HolyFuckSheisBad",
+    "name": "BehanLovers",
     "periods": [
       "monthly"
     ],
@@ -2797,7 +2783,7 @@
     "appearances": 1,
     "best_rank": 58,
     "coverage_score": 0.263157894737,
-    "name": "Pantyhose_Daily",
+    "name": "TabooFap",
     "periods": [
       "monthly"
     ],
@@ -2812,7 +2798,7 @@
     "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.289473684211,
-    "name": "NakedIndianGirl",
+    "name": "Wife_Getting_Fucked",
     "periods": [
       "monthly"
     ],
@@ -2840,24 +2826,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 59,
-    "coverage_score": 0.263157894737,
-    "name": "TabooFap",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.134896063689,
-    "score": 0.173374613003,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.289473684211,
-    "name": "AsianBBCAddicts",
+    "name": "GodlyVagina",
     "periods": [
       "monthly"
     ],
@@ -2872,7 +2843,7 @@
     "appearances": 1,
     "best_rank": 14,
     "coverage_score": 0.197368421053,
-    "name": "JOI_VIDS",
+    "name": "GoonerGCCentral",
     "periods": [
       "monthly"
     ],
@@ -2902,7 +2873,7 @@
     "appearances": 1,
     "best_rank": 84,
     "coverage_score": 0.289473684211,
-    "name": "Wife_Getting_Fucked",
+    "name": "desiMalluThundLokam",
     "periods": [
       "monthly"
     ],
@@ -2911,6 +2882,21 @@
     "selected": true,
     "size_filters": [
       "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 60,
+    "coverage_score": 0.263157894737,
+    "name": "virginteennudes",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.133771929825,
+    "score": 0.172587719298,
+    "selected": true,
+    "size_filters": [
+      "medium"
     ]
   },
   {
@@ -2947,7 +2933,7 @@
     "appearances": 1,
     "best_rank": 61,
     "coverage_score": 0.263157894737,
-    "name": "MenSuckingBigTits",
+    "name": "FemaleGenderTraitorsC",
     "periods": [
       "monthly"
     ],
@@ -2962,7 +2948,7 @@
     "appearances": 1,
     "best_rank": 15,
     "coverage_score": 0.197368421053,
-    "name": "GoonerGCCentral",
+    "name": "BlackGirlGoonettes",
     "periods": [
       "monthly"
     ],
@@ -2977,7 +2963,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.289473684211,
-    "name": "GodlyVagina",
+    "name": "sisbroincest",
     "periods": [
       "monthly"
     ],
@@ -2992,7 +2978,7 @@
     "appearances": 1,
     "best_rank": 51,
     "coverage_score": 0.25,
-    "name": "PussyPerfectionX",
+    "name": "PropertyOfBBC",
     "periods": [
       "monthly"
     ],
@@ -3007,7 +2993,7 @@
     "appearances": 1,
     "best_rank": 62,
     "coverage_score": 0.263157894737,
-    "name": "virginteennudes",
+    "name": "scarednympho",
     "periods": [
       "monthly"
     ],
@@ -3022,7 +3008,7 @@
     "appearances": 1,
     "best_rank": 87,
     "coverage_score": 0.289473684211,
-    "name": "desiMalluThundLokam",
+    "name": "BarelyLegalTeenSluts",
     "periods": [
       "monthly"
     ],
@@ -3037,7 +3023,7 @@
     "appearances": 1,
     "best_rank": 88,
     "coverage_score": 0.289473684211,
-    "name": "GirlInferiorityCaps",
+    "name": "NakedIndianGirl",
     "periods": [
       "monthly"
     ],
@@ -3052,7 +3038,7 @@
     "appearances": 1,
     "best_rank": 52,
     "coverage_score": 0.25,
-    "name": "PropertyOfBBC",
+    "name": "PussyPerfectionX",
     "periods": [
       "monthly"
     ],
@@ -3065,24 +3051,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 63,
-    "coverage_score": 0.263157894737,
-    "name": "scarednympho",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.130509199829,
-    "score": 0.170303808301,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 16,
     "coverage_score": 0.197368421053,
-    "name": "BlackGirlGoonettes",
+    "name": "deutschversautundgeil",
     "periods": [
       "monthly"
     ],
@@ -3097,7 +3068,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.289473684211,
-    "name": "sisbroincest",
+    "name": "Male_Superiority",
     "periods": [
       "monthly"
     ],
@@ -3106,21 +3077,6 @@
     "selected": true,
     "size_filters": [
       "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 64,
-    "coverage_score": 0.263157894737,
-    "name": "FemaleGenderTraitorsC",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.129456706282,
-    "score": 0.169567062818,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -3155,9 +3111,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 65,
+    "coverage_score": 0.263157894737,
+    "name": "MenSuckingBigTits",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.128421052632,
+    "score": 0.168842105263,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.289473684211,
-    "name": "Fuckedstupid",
+    "name": "GirlInferiorityCaps",
     "periods": [
       "monthly"
     ],
@@ -3172,7 +3143,7 @@
     "appearances": 1,
     "best_rank": 17,
     "coverage_score": 0.197368421053,
-    "name": "deutschversautundgeil",
+    "name": "seXra",
     "periods": [
       "monthly"
     ],
@@ -3202,7 +3173,7 @@
     "appearances": 1,
     "best_rank": 92,
     "coverage_score": 0.289473684211,
-    "name": "bangaloreDTF",
+    "name": "Fuckedstupid",
     "periods": [
       "monthly"
     ],
@@ -3217,7 +3188,7 @@
     "appearances": 1,
     "best_rank": 55,
     "coverage_score": 0.25,
-    "name": "TikTok_gif",
+    "name": "GaySnapchatImages",
     "periods": [
       "monthly"
     ],
@@ -3245,21 +3216,6 @@
   },
   {
     "appearances": 1,
-    "best_rank": 67,
-    "coverage_score": 0.263157894737,
-    "name": "KinkTownButBetter",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.12639867385,
-    "score": 0.167426440116,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 18,
     "coverage_score": 0.197368421053,
     "name": "CuckqueanWomen",
@@ -3277,7 +3233,7 @@
     "appearances": 1,
     "best_rank": 94,
     "coverage_score": 0.289473684211,
-    "name": "HugeAssAllDay",
+    "name": "WifeVideosNSFW",
     "periods": [
       "monthly"
     ],
@@ -3307,7 +3263,7 @@
     "appearances": 1,
     "best_rank": 95,
     "coverage_score": 0.289473684211,
-    "name": "WifeVideosNSFW",
+    "name": "WifeShareFantasies",
     "periods": [
       "monthly"
     ],
@@ -3337,7 +3293,7 @@
     "appearances": 1,
     "best_rank": 96,
     "coverage_score": 0.289473684211,
-    "name": "WifeShareFantasies",
+    "name": "TeenSlutsUSA",
     "periods": [
       "monthly"
     ],
@@ -3346,6 +3302,21 @@
     "selected": true,
     "size_filters": [
       "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 69,
+    "coverage_score": 0.263157894737,
+    "name": "Wife_trades",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.124439004488,
+    "score": 0.166054671563,
+    "selected": true,
+    "size_filters": [
+      "medium"
     ]
   },
   {
@@ -3382,7 +3353,7 @@
     "appearances": 1,
     "best_rank": 58,
     "coverage_score": 0.25,
-    "name": "Normalnudesgonewild",
+    "name": "TikTok_gif",
     "periods": [
       "monthly"
     ],
@@ -3391,6 +3362,21 @@
     "selected": true,
     "size_filters": [
       "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 70,
+    "coverage_score": 0.263157894737,
+    "name": "AdultPornComics",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.123481781377,
+    "score": 0.165384615385,
+    "selected": true,
+    "size_filters": [
+      "medium"
     ]
   },
   {
@@ -3412,7 +3398,7 @@
     "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.263157894737,
-    "name": "Wife_trades",
+    "name": "hbull_dominion",
     "periods": [
       "monthly"
     ],
@@ -3427,7 +3413,7 @@
     "appearances": 1,
     "best_rank": 59,
     "coverage_score": 0.25,
-    "name": "GaySnapchatImages",
+    "name": "Normalnudesgonewild",
     "periods": [
       "monthly"
     ],
@@ -3442,7 +3428,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.289473684211,
-    "name": "Wife_Getting_Ready_GW",
+    "name": "Huge_Dick_Tiny_Chick",
     "periods": [
       "monthly"
     ],
@@ -3455,9 +3441,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 20,
+    "coverage_score": 0.197368421053,
+    "name": "captionedcelebs",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.150493421053,
+    "score": 0.164555921053,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.289473684211,
-    "name": "authenticsextapes",
+    "name": "CreamPieFlowingOut",
     "periods": [
       "monthly"
     ],
@@ -3472,7 +3473,7 @@
     "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.25,
-    "name": "TinyCuteTeen",
+    "name": "OutdoorWhores",
     "periods": [
       "monthly"
     ],
@@ -3487,7 +3488,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.289473684211,
-    "name": "Huge_Dick_Tiny_Chick",
+    "name": "Wife_Getting_Ready_GW",
     "periods": [
       "monthly"
     ],
@@ -3502,7 +3503,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.263157894737,
-    "name": "hbull_dominion",
+    "name": "JAV_NATION",
     "periods": [
       "monthly"
     ],
@@ -3517,7 +3518,7 @@
     "appearances": 1,
     "best_rank": 21,
     "coverage_score": 0.197368421053,
-    "name": "captionedcelebs",
+    "name": "herteldenkarma",
     "periods": [
       "monthly"
     ],
@@ -3547,7 +3548,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.289473684211,
-    "name": "KochiNSFW",
+    "name": "AsianBBCAddicts",
     "periods": [
       "monthly"
     ],
@@ -3562,7 +3563,7 @@
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.289473684211,
-    "name": "BarbieAcademy",
+    "name": "KochiNSFW",
     "periods": [
       "monthly"
     ],
@@ -3577,7 +3578,7 @@
     "appearances": 1,
     "best_rank": 62,
     "coverage_score": 0.25,
-    "name": "Missionary",
+    "name": "youngslutsforoldpervs",
     "periods": [
       "monthly"
     ],
@@ -3592,7 +3593,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.289473684211,
-    "name": "Male_Superiority",
+    "name": "bangaloreDTF",
     "periods": [
       "monthly"
     ],
@@ -3607,7 +3608,7 @@
     "appearances": 1,
     "best_rank": 22,
     "coverage_score": 0.197368421053,
-    "name": "herteldenkarma",
+    "name": "tribute_my_body",
     "periods": [
       "monthly"
     ],
@@ -3622,7 +3623,7 @@
     "appearances": 1,
     "best_rank": 63,
     "coverage_score": 0.25,
-    "name": "OutdoorWhores",
+    "name": "OnlyNaturalBoobs",
     "periods": [
       "monthly"
     ],
@@ -3637,7 +3638,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.289473684211,
-    "name": "thickinfluencersNSFW",
+    "name": "IndianInstaBaddies",
     "periods": [
       "monthly"
     ],
@@ -3650,24 +3651,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 76,
-    "coverage_score": 0.263157894737,
-    "name": "JAV_NATION",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.118034055728,
-    "score": 0.16157120743,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.289473684211,
-    "name": "TeenSlutsUSA",
+    "name": "IndianCucksGW",
     "periods": [
       "monthly"
     ],
@@ -3682,7 +3668,7 @@
     "appearances": 1,
     "best_rank": 64,
     "coverage_score": 0.25,
-    "name": "OnlyNaturalBoobs",
+    "name": "InfluencerNSFW_global",
     "periods": [
       "monthly"
     ],
@@ -3695,9 +3681,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 77,
+    "coverage_score": 0.263157894737,
+    "name": "KinkTownButBetter",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.117172493277,
+    "score": 0.160968113715,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.289473684211,
-    "name": "CreamPieFlowingOut",
+    "name": "SheTheTruth",
     "periods": [
       "monthly"
     ],
@@ -3710,24 +3711,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 23,
-    "coverage_score": 0.197368421053,
-    "name": "tribute_my_body",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.14505389981,
-    "score": 0.160748256183,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.289473684211,
-    "name": "IndianCucksGW",
+    "name": "assthatlookgood",
     "periods": [
       "monthly"
     ],
@@ -3757,7 +3743,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.263157894737,
-    "name": "pussy_closeup_only",
+    "name": "DesiDareGW",
     "periods": [
       "monthly"
     ],
@@ -3772,7 +3758,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.289473684211,
-    "name": "IndianInstaBaddies",
+    "name": "OrgasmGirls",
     "periods": [
       "monthly"
     ],
@@ -3785,24 +3771,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 79,
-    "coverage_score": 0.263157894737,
-    "name": "DesiDareGW",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.115486558122,
-    "score": 0.159787959106,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 66,
     "coverage_score": 0.25,
-    "name": "InfluencerNSFW_global",
+    "name": "MommyHeaven",
     "periods": [
       "monthly"
     ],
@@ -3817,7 +3788,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.289473684211,
-    "name": "assthatlookgood",
+    "name": "Groupsome",
     "periods": [
       "monthly"
     ],
@@ -3862,7 +3833,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.289473684211,
-    "name": "Groupsome",
+    "name": "indianhotwifejunction",
     "periods": [
       "monthly"
     ],
@@ -3892,7 +3863,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.289473684211,
-    "name": "indianhotwifejunction",
+    "name": "DesiHotWivesGfs",
     "periods": [
       "monthly"
     ],
@@ -3905,24 +3876,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 81,
-    "coverage_score": 0.263157894737,
-    "name": "dontcuminsideme",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.113848450915,
-    "score": 0.158641284061,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 68,
     "coverage_score": 0.25,
-    "name": "youngslutsforoldpervs",
+    "name": "SoloMasturbation",
     "periods": [
       "monthly"
     ],
@@ -3952,7 +3908,7 @@
     "appearances": 1,
     "best_rank": 113,
     "coverage_score": 0.289473684211,
-    "name": "DesiHotWivesGfs",
+    "name": "thickinfluencersNSFW",
     "periods": [
       "monthly"
     ],
@@ -3967,7 +3923,7 @@
     "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.263157894737,
-    "name": "nakedgirlexposed",
+    "name": "dontcuminsideme",
     "periods": [
       "monthly"
     ],
@@ -3982,7 +3938,7 @@
     "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.289473684211,
-    "name": "SheTheTruth",
+    "name": "DailyDirtyChat",
     "periods": [
       "monthly"
     ],
@@ -3997,7 +3953,7 @@
     "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.25,
-    "name": "SoloMasturbation",
+    "name": "real_wives_of_reddit",
     "periods": [
       "monthly"
     ],
@@ -4012,7 +3968,7 @@
     "appearances": 1,
     "best_rank": 115,
     "coverage_score": 0.289473684211,
-    "name": "DailyDirtyChat",
+    "name": "desiwifepublicGW",
     "periods": [
       "monthly"
     ],
@@ -4042,7 +3998,7 @@
     "appearances": 1,
     "best_rank": 70,
     "coverage_score": 0.25,
-    "name": "real_wives_of_reddit",
+    "name": "AsianFetish",
     "periods": [
       "monthly"
     ],
@@ -4057,7 +4013,7 @@
     "appearances": 1,
     "best_rank": 116,
     "coverage_score": 0.289473684211,
-    "name": "desiwifepublicGW",
+    "name": "PORNST4RS",
     "periods": [
       "monthly"
     ],
@@ -4070,9 +4026,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 84,
+    "coverage_score": 0.263157894737,
+    "name": "SlutyConfessionDesi",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.111476608187,
+    "score": 0.156980994152,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.289473684211,
-    "name": "OrgasmGirls",
+    "name": "BarbieAcademy",
     "periods": [
       "monthly"
     ],
@@ -4087,7 +4058,7 @@
     "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.25,
-    "name": "AsianFetish",
+    "name": "Missionary",
     "periods": [
       "monthly"
     ],
@@ -4102,7 +4073,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.263157894737,
-    "name": "SlutyConfessionDesi",
+    "name": "FuckMyWifeWhileIWork",
     "periods": [
       "monthly"
     ],
@@ -4117,7 +4088,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.289473684211,
-    "name": "PORNST4RS",
+    "name": "HugeAssAllDay",
     "periods": [
       "monthly"
     ],
@@ -4147,7 +4118,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.263157894737,
-    "name": "FuckMyWifeWhileIWork",
+    "name": "nakedgirlexposed",
     "periods": [
       "monthly"
     ],
@@ -4162,7 +4133,7 @@
     "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.289473684211,
-    "name": "dirty_bbw",
+    "name": "FemdomWithoutPegging",
     "periods": [
       "monthly"
     ],
@@ -4177,7 +4148,7 @@
     "appearances": 1,
     "best_rank": 72,
     "coverage_score": 0.25,
-    "name": "straightturnedgay",
+    "name": "long_porn",
     "periods": [
       "monthly"
     ],
@@ -4192,7 +4163,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.289473684211,
-    "name": "BigWhiteCockAddicts",
+    "name": "FascistMisogynyFather",
     "periods": [
       "monthly"
     ],
@@ -4207,7 +4178,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.25,
-    "name": "long_porn",
+    "name": "3somesAndMore",
     "periods": [
       "monthly"
     ],
@@ -4216,6 +4187,21 @@
     "selected": true,
     "size_filters": [
       "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 121,
+    "coverage_score": 0.289473684211,
+    "name": "StretchedToTheLimit",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.097557429485,
+    "score": 0.155132305903,
+    "selected": true,
+    "size_filters": [
+      "large"
     ]
   },
   {
@@ -4237,7 +4223,7 @@
     "appearances": 1,
     "best_rank": 88,
     "coverage_score": 0.263157894737,
-    "name": "BrownPorn8",
+    "name": "DelhiHookupHub",
     "periods": [
       "monthly"
     ],
@@ -4267,7 +4253,7 @@
     "appearances": 1,
     "best_rank": 74,
     "coverage_score": 0.25,
-    "name": "momnsfw",
+    "name": "straightturnedgay",
     "periods": [
       "monthly"
     ],
@@ -4282,7 +4268,7 @@
     "appearances": 1,
     "best_rank": 123,
     "coverage_score": 0.289473684211,
-    "name": "FascistMisogynyFather",
+    "name": "PhatassAmateur",
     "periods": [
       "monthly"
     ],
@@ -4295,24 +4281,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 89,
-    "coverage_score": 0.263157894737,
-    "name": "DelhiHookupHub",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.107735782409,
-    "score": 0.154362416107,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 75,
     "coverage_score": 0.25,
-    "name": "3somesAndMore",
+    "name": "momnsfw",
     "periods": [
       "monthly"
     ],
@@ -4321,21 +4292,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 124,
-    "coverage_score": 0.289473684211,
-    "name": "PhatassAmateur",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.095966819222,
-    "score": 0.154018878719,
-    "selected": true,
-    "size_filters": [
-      "large"
     ]
   },
   {
@@ -4351,6 +4307,36 @@
     "selected": true,
     "size_filters": [
       "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 90,
+    "coverage_score": 0.263157894737,
+    "name": "FuckworthyWifeshare",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.10701754386,
+    "score": 0.153859649123,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 125,
+    "coverage_score": 0.289473684211,
+    "name": "GroupSexNSFW",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.095448079659,
+    "score": 0.153655761024,
+    "selected": true,
+    "size_filters": [
+      "large"
     ]
   },
   {
@@ -4372,7 +4358,7 @@
     "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.263157894737,
-    "name": "FuckworthyWifeshare",
+    "name": "NaughtyPassengers",
     "periods": [
       "monthly"
     ],
@@ -4387,7 +4373,7 @@
     "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.289473684211,
-    "name": "GroupSexNSFW",
+    "name": "LatinaThicc",
     "periods": [
       "monthly"
     ],
@@ -4402,7 +4388,7 @@
     "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.289473684211,
-    "name": "LatinaThicc",
+    "name": "smalltitsarebest",
     "periods": [
       "monthly"
     ],
@@ -4417,7 +4403,7 @@
     "appearances": 1,
     "best_rank": 77,
     "coverage_score": 0.25,
-    "name": "CurvyWhiteGirls",
+    "name": "coveredincum",
     "periods": [
       "monthly"
     ],
@@ -4430,24 +4416,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 92,
-    "coverage_score": 0.263157894737,
-    "name": "NaughtyPassengers",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.105609418283,
-    "score": 0.152873961219,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.289473684211,
-    "name": "StretchedToTheLimit",
+    "name": "Show_Off_DICK",
     "periods": [
       "monthly"
     ],
@@ -4462,7 +4433,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.25,
-    "name": "coveredincum",
+    "name": "CurvyWhiteGirls",
     "periods": [
       "monthly"
     ],
@@ -4477,7 +4448,7 @@
     "appearances": 1,
     "best_rank": 129,
     "coverage_score": 0.289473684211,
-    "name": "SnowbunnysNSFW",
+    "name": "Molly_Flwers",
     "periods": [
       "monthly"
     ],
@@ -4490,9 +4461,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 94,
+    "coverage_score": 0.263157894737,
+    "name": "BrownPorn8",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.104237867396,
+    "score": 0.151913875598,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 130,
     "coverage_score": 0.289473684211,
-    "name": "Show_Off_DICK",
+    "name": "authenticsextapes",
     "periods": [
       "monthly"
     ],
@@ -4522,7 +4508,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.25,
-    "name": "MommyHeaven",
+    "name": "jerkbudsHentai",
     "periods": [
       "monthly"
     ],
@@ -4537,7 +4523,7 @@
     "appearances": 1,
     "best_rank": 131,
     "coverage_score": 0.289473684211,
-    "name": "Molly_Flwers",
+    "name": "MoviePornIndia",
     "periods": [
       "monthly"
     ],
@@ -4567,7 +4553,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.25,
-    "name": "jerkbudsHentai",
+    "name": "ThickSloppyCreamy",
     "periods": [
       "monthly"
     ],
@@ -4582,7 +4568,7 @@
     "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.289473684211,
-    "name": "Porn_Sound_Phone",
+    "name": "SnowbunnysNSFW",
     "periods": [
       "monthly"
     ],
@@ -4612,7 +4598,7 @@
     "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.289473684211,
-    "name": "MoviePornIndia",
+    "name": "Porn_Sound_Phone",
     "periods": [
       "monthly"
     ],
@@ -4627,7 +4613,7 @@
     "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.197368421053,
-    "name": "MakeMeRelapse",
+    "name": "pawgloversparadise",
     "periods": [
       "monthly"
     ],
@@ -4642,7 +4628,7 @@
     "appearances": 1,
     "best_rank": 81,
     "coverage_score": 0.25,
-    "name": "JerkOffToAnime",
+    "name": "StraightToSissy",
     "periods": [
       "monthly"
     ],
@@ -4672,7 +4658,7 @@
     "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.289473684211,
-    "name": "incest_confessional",
+    "name": "generativeAI",
     "periods": [
       "monthly"
     ],
@@ -4687,7 +4673,7 @@
     "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.25,
-    "name": "ThickSloppyCreamy",
+    "name": "JerkOffToAnime",
     "periods": [
       "monthly"
     ],
@@ -4717,7 +4703,7 @@
     "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.289473684211,
-    "name": "Cuckold_NSFW_",
+    "name": "incest_confessional",
     "periods": [
       "monthly"
     ],
@@ -4732,7 +4718,7 @@
     "appearances": 1,
     "best_rank": 33,
     "coverage_score": 0.197368421053,
-    "name": "HiddenOFGems",
+    "name": "MakeMeRelapse",
     "periods": [
       "monthly"
     ],
@@ -4747,7 +4733,7 @@
     "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.25,
-    "name": "StraightToSissy",
+    "name": "SkinnyStarlets",
     "periods": [
       "monthly"
     ],
@@ -4762,7 +4748,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.263157894737,
-    "name": "SexInRealPublic",
+    "name": "CuckoldBBCBreeding",
     "periods": [
       "monthly"
     ],
@@ -4777,7 +4763,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.289473684211,
-    "name": "ICanSeeYourNipples",
+    "name": "Cuckold_NSFW_",
     "periods": [
       "monthly"
     ],
@@ -4792,7 +4778,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.289473684211,
-    "name": "FinishOnHer",
+    "name": "BigWhiteCockAddicts",
     "periods": [
       "monthly"
     ],
@@ -4807,7 +4793,7 @@
     "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.263157894737,
-    "name": "CuckoldBBCBreeding",
+    "name": "freeusedesiholes",
     "periods": [
       "monthly"
     ],
@@ -4822,7 +4808,7 @@
     "appearances": 1,
     "best_rank": 84,
     "coverage_score": 0.25,
-    "name": "SkinnyStarlets",
+    "name": "TgirlsCum",
     "periods": [
       "monthly"
     ],
@@ -4837,7 +4823,7 @@
     "appearances": 1,
     "best_rank": 139,
     "coverage_score": 0.289473684211,
-    "name": "CasualDickTouching",
+    "name": "FinishOnHer",
     "periods": [
       "monthly"
     ],
@@ -4852,7 +4838,7 @@
     "appearances": 1,
     "best_rank": 34,
     "coverage_score": 0.197368421053,
-    "name": "pawgloversparadise",
+    "name": "HiddenOFGems",
     "periods": [
       "monthly"
     ],
@@ -4867,7 +4853,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.263157894737,
-    "name": "BigAssMoms",
+    "name": "SexInRealPublic",
     "periods": [
       "monthly"
     ],
@@ -4882,7 +4868,7 @@
     "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.289473684211,
-    "name": "Argentinas_OF_LO",
+    "name": "CasualDickTouching",
     "periods": [
       "monthly"
     ],
@@ -4897,7 +4883,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.25,
-    "name": "TgirlsCum",
+    "name": "CumCoveredSluts",
     "periods": [
       "monthly"
     ],
@@ -4912,7 +4898,7 @@
     "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.289473684211,
-    "name": "generativeAI",
+    "name": "ComatozzeSet",
     "periods": [
       "monthly"
     ],
@@ -4927,7 +4913,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.263157894737,
-    "name": "freeusedesiholes",
+    "name": "NipslipsWorld",
     "periods": [
       "monthly"
     ],
@@ -4942,7 +4928,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.25,
-    "name": "CumCoveredSluts",
+    "name": "YourPornAddiction",
     "periods": [
       "monthly"
     ],
@@ -4957,7 +4943,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.289473684211,
-    "name": "SextNoSell",
+    "name": "ICanSeeYourNipples",
     "periods": [
       "monthly"
     ],
@@ -4972,7 +4958,7 @@
     "appearances": 1,
     "best_rank": 35,
     "coverage_score": 0.197368421053,
-    "name": "tradenudesgree",
+    "name": "BrightVibeHub",
     "periods": [
       "monthly"
     ],
@@ -5002,7 +4988,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.289473684211,
-    "name": "sluttydresses",
+    "name": "dirty_bbw",
     "periods": [
       "monthly"
     ],
@@ -5030,9 +5016,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 104,
+    "coverage_score": 0.263157894737,
+    "name": "BigAssMoms",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.097881899872,
+    "score": 0.147464698331,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.289473684211,
-    "name": "NewModernCouples",
+    "name": "Argentinas_OF_LO",
     "periods": [
       "monthly"
     ],
@@ -5047,7 +5048,7 @@
     "appearances": 1,
     "best_rank": 145,
     "coverage_score": 0.289473684211,
-    "name": "daddydaughterdates",
+    "name": "sluttydresses",
     "periods": [
       "monthly"
     ],
@@ -5062,7 +5063,7 @@
     "appearances": 1,
     "best_rank": 88,
     "coverage_score": 0.25,
-    "name": "RoughPorn",
+    "name": "WomenwholoveBBC",
     "periods": [
       "monthly"
     ],
@@ -5075,24 +5076,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 105,
-    "coverage_score": 0.263157894737,
-    "name": "NipslipsWorld",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.097288676236,
-    "score": 0.147049441786,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 36,
     "coverage_score": 0.197368421053,
-    "name": "BrightVibeHub",
+    "name": "tradenudesgree",
     "periods": [
       "monthly"
     ],
@@ -5107,7 +5093,7 @@
     "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.289473684211,
-    "name": "SheSucksHim",
+    "name": "NewModernCouples",
     "periods": [
       "monthly"
     ],
@@ -5122,7 +5108,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.25,
-    "name": "YourPornAddiction",
+    "name": "SideLips",
     "periods": [
       "monthly"
     ],
@@ -5135,9 +5121,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 106,
+    "coverage_score": 0.263157894737,
+    "name": "exhibitionistsunited",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.096702599873,
+    "score": 0.146639188332,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.289473684211,
-    "name": "ComatozzeSet",
+    "name": "daddydaughterdates",
     "periods": [
       "monthly"
     ],
@@ -5165,9 +5166,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 107,
+    "coverage_score": 0.263157894737,
+    "name": "AltGirlsUncensored",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.096123542389,
+    "score": 0.146233848093,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 90,
     "coverage_score": 0.25,
-    "name": "SideLips",
+    "name": "RoughPorn",
     "periods": [
       "monthly"
     ],
@@ -5182,7 +5198,7 @@
     "appearances": 1,
     "best_rank": 37,
     "coverage_score": 0.197368421053,
-    "name": "turkeywild",
+    "name": "openfeedxxx",
     "periods": [
       "monthly"
     ],
@@ -5197,7 +5213,7 @@
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.289473684211,
-    "name": "HentaiReverseRape2",
+    "name": "SheSucksHim",
     "periods": [
       "monthly"
     ],
@@ -5210,24 +5226,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 108,
-    "coverage_score": 0.263157894737,
-    "name": "exhibitionistsunited",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.095551378446,
-    "score": 0.145833333333,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.289473684211,
-    "name": "Goonhead",
+    "name": "HentaiReverseRape2",
     "periods": [
       "monthly"
     ],
@@ -5242,7 +5243,7 @@
     "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.25,
-    "name": "InterracialBbcSluts",
+    "name": "CouplesAmateurPorn",
     "periods": [
       "monthly"
     ],
@@ -5255,24 +5256,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 109,
-    "coverage_score": 0.263157894737,
-    "name": "AltGirlsUncensored",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.094985985674,
-    "score": 0.145437558393,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.289473684211,
-    "name": "HeDoesTheWork",
+    "name": "SextNoSell",
     "periods": [
       "monthly"
     ],
@@ -5287,7 +5273,7 @@
     "appearances": 1,
     "best_rank": 92,
     "coverage_score": 0.25,
-    "name": "CouplesAmateurPorn",
+    "name": "IndianHotwife",
     "periods": [
       "monthly"
     ],
@@ -5302,7 +5288,7 @@
     "appearances": 1,
     "best_rank": 38,
     "coverage_score": 0.197368421053,
-    "name": "openfeedxxx",
+    "name": "BrasileirosGoneWild2",
     "periods": [
       "monthly"
     ],
@@ -5317,7 +5303,7 @@
     "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.289473684211,
-    "name": "GenZNude",
+    "name": "thegirlthegape",
     "periods": [
       "monthly"
     ],
@@ -5330,9 +5316,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 110,
+    "coverage_score": 0.263157894737,
+    "name": "OnlyVidsNSFW",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.094427244582,
+    "score": 0.145046439628,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.289473684211,
-    "name": "thegirlthegape",
+    "name": "BoobPicRequests",
     "periods": [
       "monthly"
     ],
@@ -5347,7 +5348,7 @@
     "appearances": 1,
     "best_rank": 93,
     "coverage_score": 0.25,
-    "name": "IndianHotwife",
+    "name": "topless",
     "periods": [
       "monthly"
     ],
@@ -5362,7 +5363,7 @@
     "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.289473684211,
-    "name": "BoobPicRequests",
+    "name": "Goonhead",
     "periods": [
       "monthly"
     ],
@@ -5377,7 +5378,7 @@
     "appearances": 1,
     "best_rank": 39,
     "coverage_score": 0.197368421053,
-    "name": "BrasileirosGoneWild2",
+    "name": "DesiBhabhiiSex",
     "periods": [
       "monthly"
     ],
@@ -5392,7 +5393,7 @@
     "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.289473684211,
-    "name": "FingerHerAss",
+    "name": "HeDoesTheWork",
     "periods": [
       "monthly"
     ],
@@ -5407,7 +5408,7 @@
     "appearances": 1,
     "best_rank": 94,
     "coverage_score": 0.25,
-    "name": "WomenwholoveBBC",
+    "name": "SitOnYourFace",
     "periods": [
       "monthly"
     ],
@@ -5420,24 +5421,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 112,
-    "coverage_score": 0.263157894737,
-    "name": "OnlyVidsNSFW",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.093329253366,
-    "score": 0.144277845777,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 156,
     "coverage_score": 0.289473684211,
-    "name": "PregnantPorn_NSFW",
+    "name": "GenZNude",
     "periods": [
       "monthly"
     ],
@@ -5450,9 +5436,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 113,
+    "coverage_score": 0.263157894737,
+    "name": "locktober",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.092789777913,
+    "score": 0.14390021296,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 95,
     "coverage_score": 0.25,
-    "name": "topless",
+    "name": "IWantToBeHerHentai2",
     "periods": [
       "monthly"
     ],
@@ -5482,7 +5483,7 @@
     "appearances": 1,
     "best_rank": 158,
     "coverage_score": 0.289473684211,
-    "name": "AsianObjects",
+    "name": "PregnantPorn_NSFW",
     "periods": [
       "monthly"
     ],
@@ -5495,24 +5496,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 114,
-    "coverage_score": 0.263157894737,
-    "name": "TeenVideosNSFW",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.092256503327,
-    "score": 0.14352692075,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 40,
     "coverage_score": 0.197368421053,
-    "name": "DesiBhabhiiSex",
+    "name": "DefeatedInferiority",
     "periods": [
       "monthly"
     ],
@@ -5557,7 +5543,7 @@
     "appearances": 1,
     "best_rank": 160,
     "coverage_score": 0.289473684211,
-    "name": "Alannapowx",
+    "name": "FingerHerAss",
     "periods": [
       "monthly"
     ],
@@ -5572,7 +5558,7 @@
     "appearances": 1,
     "best_rank": 97,
     "coverage_score": 0.25,
-    "name": "SitOnYourFace",
+    "name": "TeenGirlsLover",
     "periods": [
       "monthly"
     ],
@@ -5587,7 +5573,7 @@
     "appearances": 1,
     "best_rank": 116,
     "coverage_score": 0.263157894737,
-    "name": "PublicSexActs",
+    "name": "TeenVideosNSFW",
     "periods": [
       "monthly"
     ],
@@ -5602,7 +5588,7 @@
     "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.289473684211,
-    "name": "amateurblowjobss",
+    "name": "Alannapowx",
     "periods": [
       "monthly"
     ],
@@ -5617,7 +5603,7 @@
     "appearances": 1,
     "best_rank": 41,
     "coverage_score": 0.197368421053,
-    "name": "DefeatedInferiority",
+    "name": "turkeywild",
     "periods": [
       "monthly"
     ],
@@ -5632,7 +5618,7 @@
     "appearances": 1,
     "best_rank": 98,
     "coverage_score": 0.25,
-    "name": "IWantToBeHerHentai2",
+    "name": "ChurchWife",
     "periods": [
       "monthly"
     ],
@@ -5647,7 +5633,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.289473684211,
-    "name": "MasturbatingQueens",
+    "name": "gurgaon_hookup",
     "periods": [
       "monthly"
     ],
@@ -5662,7 +5648,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.289473684211,
-    "name": "Rate_My_Wife_",
+    "name": "Hairy_Trimmed_Pussy",
     "periods": [
       "monthly"
     ],
@@ -5677,7 +5663,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.25,
-    "name": "CheatingCaptions",
+    "name": "cuminsideme",
     "periods": [
       "monthly"
     ],
@@ -5692,7 +5678,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.263157894737,
-    "name": "TabooIncestCaptions",
+    "name": "PublicSexActs",
     "periods": [
       "monthly"
     ],
@@ -5707,7 +5693,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.289473684211,
-    "name": "gurgaon_hookup",
+    "name": "Rate_My_Wife_",
     "periods": [
       "monthly"
     ],
@@ -5737,7 +5723,7 @@
     "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.289473684211,
-    "name": "Hairy_Trimmed_Pussy",
+    "name": "MomCuckoldsSon",
     "periods": [
       "monthly"
     ],
@@ -5752,7 +5738,7 @@
     "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.25,
-    "name": "TeenGirlsLover",
+    "name": "Naked",
     "periods": [
       "monthly"
     ],
@@ -5767,7 +5753,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.289473684211,
-    "name": "MomCuckoldsSon",
+    "name": "MasturbatingQueens",
     "periods": [
       "monthly"
     ],
@@ -5782,7 +5768,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.263157894737,
-    "name": "GothTeenGirls",
+    "name": "TabooIncestCaptions",
     "periods": [
       "monthly"
     ],
@@ -5797,7 +5783,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.25,
-    "name": "ChurchWife",
+    "name": "CheatingCaptions",
     "periods": [
       "monthly"
     ],
@@ -5812,7 +5798,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.289473684211,
-    "name": "PuneSlutsGW",
+    "name": "cringe_porn",
     "periods": [
       "monthly"
     ],
@@ -5857,7 +5843,7 @@
     "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.263157894737,
-    "name": "HotelSexNSFW",
+    "name": "GothTeenGirls",
     "periods": [
       "monthly"
     ],
@@ -5872,7 +5858,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.25,
-    "name": "cuckoldcaptions",
+    "name": "Couplesporn",
     "periods": [
       "monthly"
     ],
@@ -5887,7 +5873,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.289473684211,
-    "name": "TwinkFemboyPorn",
+    "name": "PuneSlutsGW",
     "periods": [
       "monthly"
     ],
@@ -5902,7 +5888,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.289473684211,
-    "name": "SneakyPeeks",
+    "name": "amateurblowjobss",
     "periods": [
       "monthly"
     ],
@@ -5930,24 +5916,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 123,
-    "coverage_score": 0.263157894737,
-    "name": "QualityR34",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.087719298246,
-    "score": 0.140350877193,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 171,
     "coverage_score": 0.289473684211,
-    "name": "culonasmexicanas",
+    "name": "SneakyPeeks",
     "periods": [
       "monthly"
     ],
@@ -5977,7 +5948,7 @@
     "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.289473684211,
-    "name": "AiPornhubvideo",
+    "name": "AgeGapOldYoungNSFW",
     "periods": [
       "monthly"
     ],
@@ -5992,7 +5963,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.25,
-    "name": "trapsgonewild",
+    "name": "cuckoldcaptions",
     "periods": [
       "monthly"
     ],
@@ -6007,7 +5978,7 @@
     "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.289473684211,
-    "name": "LittleWaistBigAss",
+    "name": "culonasmexicanas",
     "periods": [
       "monthly"
     ],
@@ -6022,7 +5993,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.25,
-    "name": "CuteGirlsinPanties",
+    "name": "tspetite",
     "periods": [
       "monthly"
     ],
@@ -6037,7 +6008,7 @@
     "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.289473684211,
-    "name": "TGOONER",
+    "name": "AiPornhubvideo",
     "periods": [
       "monthly"
     ],
@@ -6067,7 +6038,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.289473684211,
-    "name": "BustyGirlsOnly",
+    "name": "TwinkFemboyPorn",
     "periods": [
       "monthly"
     ],
@@ -6080,9 +6051,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 126,
+    "coverage_score": 0.263157894737,
+    "name": "QualityR34",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.086304470855,
+    "score": 0.139360498019,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.25,
-    "name": "cuminsideme",
+    "name": "CuteGirlsinPanties",
     "periods": [
       "monthly"
     ],
@@ -6097,7 +6083,7 @@
     "appearances": 1,
     "best_rank": 176,
     "coverage_score": 0.289473684211,
-    "name": "QueensOfAnal",
+    "name": "BustyGirlsOnly",
     "periods": [
       "monthly"
     ],
@@ -6110,9 +6096,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 127,
+    "coverage_score": 0.263157894737,
+    "name": "HotelSexNSFW",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.08584294962,
+    "score": 0.139037433155,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.289473684211,
-    "name": "BreedableTrap",
+    "name": "QueensOfAnal",
     "periods": [
       "monthly"
     ],
@@ -6157,7 +6158,7 @@
     "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.197368421053,
-    "name": "Firstporncastings",
+    "name": "publicbathroomflash",
     "periods": [
       "monthly"
     ],
@@ -6187,7 +6188,7 @@
     "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.25,
-    "name": "Couplesporn",
+    "name": "trapsgonewild",
     "periods": [
       "monthly"
     ],
@@ -6196,21 +6197,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 129,
-    "coverage_score": 0.263157894737,
-    "name": "locktober",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.084934558619,
-    "score": 0.138401559454,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -6232,7 +6218,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.25,
-    "name": "tspetite",
+    "name": "Breeding_her",
     "periods": [
       "monthly"
     ],
@@ -6247,7 +6233,7 @@
     "appearances": 1,
     "best_rank": 181,
     "coverage_score": 0.289473684211,
-    "name": "LostBetsVids",
+    "name": "FemboyRPHentai",
     "periods": [
       "monthly"
     ],
@@ -6277,7 +6263,7 @@
     "appearances": 1,
     "best_rank": 47,
     "coverage_score": 0.197368421053,
-    "name": "publicbathroomflash",
+    "name": "Desiraandmaal",
     "periods": [
       "monthly"
     ],
@@ -6292,7 +6278,7 @@
     "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.289473684211,
-    "name": "cringe_porn",
+    "name": "LostBetsVids",
     "periods": [
       "monthly"
     ],
@@ -6307,7 +6293,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.25,
-    "name": "Naked",
+    "name": "InterracialBbcSluts",
     "periods": [
       "monthly"
     ],
@@ -6316,21 +6302,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 131,
-    "coverage_score": 0.263157894737,
-    "name": "CelebswithbigtitsNSFW",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.084045191513,
-    "score": 0.13777900248,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -6367,7 +6338,7 @@
     "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.263157894737,
-    "name": "WomenwholoveBWC",
+    "name": "CelebswithbigtitsNSFW",
     "periods": [
       "monthly"
     ],
@@ -6382,7 +6353,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.25,
-    "name": "Breeding_her",
+    "name": "CulosDeMexicanas",
     "periods": [
       "monthly"
     ],
@@ -6397,7 +6368,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.289473684211,
-    "name": "FemboyRPHentai",
+    "name": "GirlcockEgirlgooning",
     "periods": [
       "monthly"
     ],
@@ -6412,7 +6383,7 @@
     "appearances": 1,
     "best_rank": 48,
     "coverage_score": 0.197368421053,
-    "name": "pornforgirlss",
+    "name": "Firstporncastings",
     "periods": [
       "monthly"
     ],
@@ -6442,7 +6413,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.289473684211,
-    "name": "AgeGapOldYoungNSFW",
+    "name": "AsianObjects",
     "periods": [
       "monthly"
     ],
@@ -6457,7 +6428,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.25,
-    "name": "CulosDeMexicanas",
+    "name": "KissandFuck",
     "periods": [
       "monthly"
     ],
@@ -6472,7 +6443,7 @@
     "appearances": 1,
     "best_rank": 187,
     "coverage_score": 0.289473684211,
-    "name": "GirlcockEgirlgooning",
+    "name": "BreedableTrap",
     "periods": [
       "monthly"
     ],
@@ -6502,7 +6473,7 @@
     "appearances": 1,
     "best_rank": 113,
     "coverage_score": 0.25,
-    "name": "KissandFuck",
+    "name": "BLACKEDPawgs",
     "periods": [
       "monthly"
     ],
@@ -6530,9 +6501,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 135,
+    "coverage_score": 0.263157894737,
+    "name": "WomenwholoveBWC",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.082321187584,
+    "score": 0.13657219973,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 49,
     "coverage_score": 0.197368421053,
-    "name": "Athenakamiii",
+    "name": "pornforgirlss",
     "periods": [
       "monthly"
     ],
@@ -6562,7 +6548,7 @@
     "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.25,
-    "name": "BLACKEDPawgs",
+    "name": "BlackWorldOrder",
     "periods": [
       "monthly"
     ],
@@ -6577,7 +6563,7 @@
     "appearances": 1,
     "best_rank": 190,
     "coverage_score": 0.289473684211,
-    "name": "ChicksWhoLoveCum",
+    "name": "LittleWaistBigAss",
     "periods": [
       "monthly"
     ],
@@ -6592,7 +6578,7 @@
     "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.289473684211,
-    "name": "expectedtity",
+    "name": "TGOONER",
     "periods": [
       "monthly"
     ],
@@ -6607,7 +6593,7 @@
     "appearances": 1,
     "best_rank": 115,
     "coverage_score": 0.25,
-    "name": "BlackWorldOrder",
+    "name": "clubmilfs",
     "periods": [
       "monthly"
     ],
@@ -6622,7 +6608,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.263157894737,
-    "name": "UseAndAbuseMe",
+    "name": "hotcouplesfuck",
     "periods": [
       "monthly"
     ],
@@ -6637,7 +6623,7 @@
     "appearances": 1,
     "best_rank": 192,
     "coverage_score": 0.289473684211,
-    "name": "GirlMasturbations",
+    "name": "ChicksWhoLoveCum",
     "periods": [
       "monthly"
     ],
@@ -6652,7 +6638,7 @@
     "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.197368421053,
-    "name": "MomandSonIncestz",
+    "name": "Trauma_Girlies",
     "periods": [
       "monthly"
     ],
@@ -6667,7 +6653,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.263157894737,
-    "name": "hotcouplesfuck",
+    "name": "UseAndAbuseMe",
     "periods": [
       "monthly"
     ],
@@ -6682,7 +6668,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.289473684211,
-    "name": "DailySextingR4R",
+    "name": "expectedtity",
     "periods": [
       "monthly"
     ],
@@ -6712,7 +6698,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.289473684211,
-    "name": "HentaiiGooning",
+    "name": "GirlMasturbations",
     "periods": [
       "monthly"
     ],
@@ -6742,7 +6728,7 @@
     "appearances": 1,
     "best_rank": 195,
     "coverage_score": 0.289473684211,
-    "name": "CuckoldHumiliation",
+    "name": "DailySextingR4R",
     "periods": [
       "monthly"
     ],
@@ -6757,7 +6743,7 @@
     "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.25,
-    "name": "clubmilfs",
+    "name": "DoggyStyle",
     "periods": [
       "monthly"
     ],
@@ -6772,7 +6758,7 @@
     "appearances": 1,
     "best_rank": 51,
     "coverage_score": 0.197368421053,
-    "name": "Desiraandmaal",
+    "name": "momsondesistories",
     "periods": [
       "monthly"
     ],
@@ -6785,24 +6771,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 140,
-    "coverage_score": 0.263157894737,
-    "name": "TwerkEbonyGhetto",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.080263157895,
-    "score": 0.135131578947,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.289473684211,
-    "name": "HugeBiCock",
+    "name": "HentaiiGooning",
     "periods": [
       "monthly"
     ],
@@ -6817,7 +6788,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.25,
-    "name": "DoggyStyle",
+    "name": "SissyChastity",
     "periods": [
       "monthly"
     ],
@@ -6832,7 +6803,7 @@
     "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.289473684211,
-    "name": "ChubbyAmateurPussy",
+    "name": "CuckoldHumiliation",
     "periods": [
       "monthly"
     ],
@@ -6845,9 +6816,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 141,
+    "coverage_score": 0.263157894737,
+    "name": "TwerkEbonyGhetto",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.079863838701,
+    "score": 0.134852055512,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 198,
     "coverage_score": 0.289473684211,
-    "name": "desibbwrand",
+    "name": "HugeBiCock",
     "periods": [
       "monthly"
     ],
@@ -6862,7 +6848,7 @@
     "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.25,
-    "name": "SissyChastity",
+    "name": "NudeCosplay",
     "periods": [
       "monthly"
     ],
@@ -6877,7 +6863,7 @@
     "appearances": 1,
     "best_rank": 199,
     "coverage_score": 0.289473684211,
-    "name": "brokenwomen2",
+    "name": "ChubbyAmateurPussy",
     "periods": [
       "monthly"
     ],
@@ -6892,7 +6878,7 @@
     "appearances": 1,
     "best_rank": 52,
     "coverage_score": 0.197368421053,
-    "name": "Trauma_Girlies",
+    "name": "MomandSonIncestz",
     "periods": [
       "monthly"
     ],
@@ -6907,7 +6893,7 @@
     "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.289473684211,
-    "name": "WhiteBoisWhoLoveBBC",
+    "name": "SlutWife_Sharing",
     "periods": [
       "monthly"
     ],
@@ -6922,7 +6908,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.25,
-    "name": "NudeCosplay",
+    "name": "StagVixenLife",
     "periods": [
       "monthly"
     ],
@@ -6967,7 +6953,7 @@
     "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.25,
-    "name": "StagVixenLife",
+    "name": "phatpussy",
     "periods": [
       "monthly"
     ],
@@ -6982,7 +6968,7 @@
     "appearances": 1,
     "best_rank": 53,
     "coverage_score": 0.197368421053,
-    "name": "momsondesistories",
+    "name": "Athenakamiii",
     "periods": [
       "monthly"
     ],
@@ -6995,24 +6981,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 145,
-    "coverage_score": 0.263157894737,
-    "name": "SwallowMaster",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.078305519897,
-    "score": 0.133761232349,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 122,
     "coverage_score": 0.25,
-    "name": "phatpussy",
+    "name": "jigglybutts",
     "periods": [
       "monthly"
     ],
@@ -7025,9 +6996,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 146,
+    "coverage_score": 0.263157894737,
+    "name": "WreckMeDaddy",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.077925396014,
+    "score": 0.133495145631,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 123,
     "coverage_score": 0.25,
-    "name": "upherbutt",
+    "name": "MONSTERCOCKS",
     "periods": [
       "monthly"
     ],
@@ -7040,9 +7026,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 147,
+    "coverage_score": 0.263157894737,
+    "name": "GymbroNSFW",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.077548944826,
+    "score": 0.133231629799,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 124,
     "coverage_score": 0.25,
-    "name": "MONSTERCOCKS",
+    "name": "Saggytit",
     "periods": [
       "monthly"
     ],
@@ -7057,7 +7058,7 @@
     "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.263157894737,
-    "name": "OFgirlsteens",
+    "name": "SlipperyPenetration",
     "periods": [
       "monthly"
     ],
@@ -7070,24 +7071,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 149,
-    "coverage_score": 0.263157894737,
-    "name": "WreckMeDaddy",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.07680684966,
-    "score": 0.132712163183,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 125,
     "coverage_score": 0.25,
-    "name": "blacktowhite",
+    "name": "upherbutt",
     "periods": [
       "monthly"
     ],
@@ -7117,7 +7103,7 @@
     "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.263157894737,
-    "name": "GymbroNSFW",
+    "name": "OFgirlsteens",
     "periods": [
       "monthly"
     ],
@@ -7147,7 +7133,7 @@
     "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.263157894737,
-    "name": "SlipperyPenetration",
+    "name": "photos",
     "periods": [
       "monthly"
     ],
@@ -7162,7 +7148,7 @@
     "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.25,
-    "name": "jigglybutts",
+    "name": "NakedYoga",
     "periods": [
       "monthly"
     ],
@@ -7207,7 +7193,7 @@
     "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.25,
-    "name": "Saggytit",
+    "name": "Feminization",
     "periods": [
       "monthly"
     ],
@@ -7237,7 +7223,7 @@
     "appearances": 1,
     "best_rank": 129,
     "coverage_score": 0.25,
-    "name": "NakedYoga",
+    "name": "SoCalLatina",
     "periods": [
       "monthly"
     ],
@@ -7250,14 +7236,29 @@
   },
   {
     "appearances": 1,
-    "best_rank": 154,
+    "best_rank": 57,
+    "coverage_score": 0.197368421053,
+    "name": "GothGirlsGoingWild",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.10290148448,
+    "score": 0.131241565452,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 155,
     "coverage_score": 0.263157894737,
     "name": "PHCheatingPOV",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.075012297098,
-    "score": 0.13145597639,
+    "rank_score": 0.074663402693,
+    "score": 0.131211750306,
     "selected": true,
     "size_filters": [
       "medium"
@@ -7267,7 +7268,7 @@
     "appearances": 1,
     "best_rank": 130,
     "coverage_score": 0.25,
-    "name": "BallsDeepThroat",
+    "name": "ratemycock",
     "periods": [
       "monthly"
     ],
@@ -7280,9 +7281,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 156,
+    "coverage_score": 0.263157894737,
+    "name": "SwallowMaster",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.074317738791,
+    "score": 0.130969785575,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 131,
     "coverage_score": 0.25,
-    "name": "SoCalLatina",
+    "name": "RetrousseTits",
     "periods": [
       "monthly"
     ],
@@ -7295,24 +7311,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 58,
-    "coverage_score": 0.197368421053,
-    "name": "teksikentekolur",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.102029438002,
-    "score": 0.130631132917,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.25,
-    "name": "Feminization",
+    "name": "wife_gone_wild",
     "periods": [
       "monthly"
     ],
@@ -7327,7 +7328,7 @@
     "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.25,
-    "name": "RetrousseTits",
+    "name": "Ladyboys",
     "periods": [
       "monthly"
     ],
@@ -7340,24 +7341,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 159,
-    "coverage_score": 0.263157894737,
-    "name": "blonde_teen",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.073299687575,
-    "score": 0.130257149724,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 59,
     "coverage_score": 0.197368421053,
-    "name": "Pajabross_bi",
+    "name": "louboutins",
     "periods": [
       "monthly"
     ],
@@ -7372,7 +7358,7 @@
     "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.25,
-    "name": "ratemycock",
+    "name": "chastity",
     "periods": [
       "monthly"
     ],
@@ -7402,7 +7388,7 @@
     "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.25,
-    "name": "AnalGape",
+    "name": "SwordSwallowers",
     "periods": [
       "monthly"
     ],
@@ -7432,7 +7418,7 @@
     "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.25,
-    "name": "wife_gone_wild",
+    "name": "averagegirls",
     "periods": [
       "monthly"
     ],
@@ -7447,7 +7433,7 @@
     "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.197368421053,
-    "name": "louboutins",
+    "name": "mississippiwife",
     "periods": [
       "monthly"
     ],
@@ -7460,24 +7446,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 163,
-    "coverage_score": 0.263157894737,
-    "name": "photos",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.071984894973,
-    "score": 0.129336794902,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.25,
-    "name": "SwordSwallowers",
+    "name": "Shemale_Big_Cock",
     "periods": [
       "monthly"
     ],
@@ -7490,9 +7461,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 164,
+    "coverage_score": 0.263157894737,
+    "name": "HotPicsCelebs",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.071663533835,
+    "score": 0.129111842105,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.25,
-    "name": "averagegirls",
+    "name": "Bikini",
     "periods": [
       "monthly"
     ],
@@ -7507,7 +7493,7 @@
     "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.263157894737,
-    "name": "HotPicsCelebs",
+    "name": "PHexhibitionist",
     "periods": [
       "monthly"
     ],
@@ -7522,7 +7508,7 @@
     "appearances": 1,
     "best_rank": 61,
     "coverage_score": 0.197368421053,
-    "name": "GothGirlsGoingWild",
+    "name": "RealDirtyPH",
     "periods": [
       "monthly"
     ],
@@ -7537,7 +7523,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.263157894737,
-    "name": "PHexhibitionist",
+    "name": "NSFW_EL_SALVADOR",
     "periods": [
       "monthly"
     ],
@@ -7552,7 +7538,7 @@
     "appearances": 1,
     "best_rank": 139,
     "coverage_score": 0.25,
-    "name": "BrownChicksWhiteDicks",
+    "name": "jav",
     "periods": [
       "monthly"
     ],
@@ -7567,7 +7553,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.263157894737,
-    "name": "NSFW_EL_SALVADOR",
+    "name": "blonde_teen",
     "periods": [
       "monthly"
     ],
@@ -7582,7 +7568,7 @@
     "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.25,
-    "name": "Ladyboys",
+    "name": "SubmissiveAsianSluts",
     "periods": [
       "monthly"
     ],
@@ -7597,13 +7583,13 @@
     "appearances": 1,
     "best_rank": 62,
     "coverage_score": 0.197368421053,
-    "name": "jerkingtoyou",
+    "name": "Pajabross_bi",
     "periods": [
       "monthly"
     ],
     "rank_score": 0.098684210526,
     "score": 0.128289473684,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium-small"
     ]
@@ -7612,7 +7598,7 @@
     "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.25,
-    "name": "Shemale_Big_Cock",
+    "name": "GymGirlsNSFW",
     "periods": [
       "monthly"
     ],
@@ -7627,7 +7613,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.25,
-    "name": "jav",
+    "name": "Tanlines_Gone_Wild",
     "periods": [
       "monthly"
     ],
@@ -7642,7 +7628,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.263157894737,
-    "name": "BESTOFHENTAI2",
+    "name": "RaveBunnys",
     "periods": [
       "monthly"
     ],
@@ -7657,7 +7643,7 @@
     "appearances": 1,
     "best_rank": 63,
     "coverage_score": 0.197368421053,
-    "name": "RealDirtyPH",
+    "name": "sharingthegf",
     "periods": [
       "monthly"
     ],
@@ -7672,7 +7658,7 @@
     "appearances": 1,
     "best_rank": 171,
     "coverage_score": 0.263157894737,
-    "name": "twentyagers",
+    "name": "actresslovehd",
     "periods": [
       "monthly"
     ],
@@ -7687,7 +7673,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.25,
-    "name": "SubmissiveAsianSluts",
+    "name": "bwc",
     "periods": [
       "monthly"
     ],
@@ -7702,7 +7688,7 @@
     "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.263157894737,
-    "name": "RaveBunnys",
+    "name": "Hotnudesexygirls",
     "periods": [
       "monthly"
     ],
@@ -7717,7 +7703,7 @@
     "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.25,
-    "name": "GymGirlsNSFW",
+    "name": "PornStars",
     "periods": [
       "monthly"
     ],
@@ -7732,7 +7718,7 @@
     "appearances": 1,
     "best_rank": 64,
     "coverage_score": 0.197368421053,
-    "name": "mississippiwife",
+    "name": "teksikentekolur",
     "periods": [
       "monthly"
     ],
@@ -7745,24 +7731,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 173,
-    "coverage_score": 0.263157894737,
-    "name": "Hotnudesexygirls",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.068895414502,
-    "score": 0.127174158572,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 145,
     "coverage_score": 0.25,
-    "name": "Tanlines_Gone_Wild",
+    "name": "Handjob",
     "periods": [
       "monthly"
     ],
@@ -7775,9 +7746,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 174,
+    "coverage_score": 0.263157894737,
+    "name": "twentyagers",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.068600989654,
+    "score": 0.126968061179,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.25,
-    "name": "bwc",
+    "name": "BrownChicksWhiteDicks",
     "periods": [
       "monthly"
     ],
@@ -7792,7 +7778,7 @@
     "appearances": 1,
     "best_rank": 65,
     "coverage_score": 0.197368421053,
-    "name": "FemDomMommies",
+    "name": "VeniceAI_uncensored",
     "periods": [
       "monthly"
     ],
@@ -7807,7 +7793,7 @@
     "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.25,
-    "name": "PornStars",
+    "name": "PUBLICNUDITY",
     "periods": [
       "monthly"
     ],
@@ -7820,9 +7806,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 177,
+    "best_rank": 176,
     "coverage_score": 0.263157894737,
     "name": "Bi_MMF_Threesome",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.068019625335,
+    "score": 0.126561106155,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 177,
+    "coverage_score": 0.263157894737,
+    "name": "OFD3M0NSS",
     "periods": [
       "monthly"
     ],
@@ -7837,7 +7838,7 @@
     "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.25,
-    "name": "Handjob",
+    "name": "Bbccuckolding",
     "periods": [
       "monthly"
     ],
@@ -7850,24 +7851,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 178,
-    "coverage_score": 0.263157894737,
-    "name": "OFD3M0NSS",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.067448031844,
-    "score": 0.126160990712,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 66,
     "coverage_score": 0.197368421053,
-    "name": "sharingthegf",
+    "name": "Mesugakis",
     "periods": [
       "monthly"
     ],
@@ -7882,7 +7868,7 @@
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.25,
-    "name": "Bikini",
+    "name": "BallsDeepThroat",
     "periods": [
       "monthly"
     ],
@@ -7897,7 +7883,7 @@
     "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.25,
-    "name": "chastity",
+    "name": "HugeTitsndAss",
     "periods": [
       "monthly"
     ],
@@ -7912,7 +7898,7 @@
     "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.25,
-    "name": "PUBLICNUDITY",
+    "name": "ForcedFeminization",
     "periods": [
       "monthly"
     ],
@@ -7927,7 +7913,7 @@
     "appearances": 1,
     "best_rank": 67,
     "coverage_score": 0.197368421053,
-    "name": "JOIVIDSSS",
+    "name": "HOT_RP_INDIA2",
     "periods": [
       "monthly"
     ],
@@ -7940,24 +7926,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 182,
-    "coverage_score": 0.263157894737,
-    "name": "NotGayIf",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.066333188343,
-    "score": 0.125380600261,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.25,
-    "name": "Bbccuckolding",
+    "name": "VoyeurFlash",
     "periods": [
       "monthly"
     ],
@@ -7970,9 +7941,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 183,
+    "coverage_score": 0.263157894737,
+    "name": "NotGayIf",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.066060212259,
+    "score": 0.125189517002,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.25,
-    "name": "HugeTitsndAss",
+    "name": "Eating_Pussy_GIFs",
     "periods": [
       "monthly"
     ],
@@ -7985,24 +7971,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 68,
-    "coverage_score": 0.197368421053,
-    "name": "VeniceAI_uncensored",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.094058388158,
-    "score": 0.125051398026,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.25,
-    "name": "ForcedFeminization",
+    "name": "blacktowhite",
     "periods": [
       "monthly"
     ],
@@ -8017,7 +7988,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.263157894737,
-    "name": "actresslovehd",
+    "name": "PornstarsBeforeAfter",
     "periods": [
       "monthly"
     ],
@@ -8032,7 +8003,7 @@
     "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.25,
-    "name": "VoyeurFlash",
+    "name": "cuckoldparadise",
     "periods": [
       "monthly"
     ],
@@ -8047,7 +8018,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.263157894737,
-    "name": "PornstarsBeforeAfter",
+    "name": "BESTOFHENTAI2",
     "periods": [
       "monthly"
     ],
@@ -8062,7 +8033,7 @@
     "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.197368421053,
-    "name": "Mesugakis",
+    "name": "FemDomMommies",
     "periods": [
       "monthly"
     ],
@@ -8075,9 +8046,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 187,
+    "coverage_score": 0.263157894737,
+    "name": "GirlGoo",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.064990411251,
+    "score": 0.124440656297,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 156,
     "coverage_score": 0.25,
-    "name": "Eating_Pussy_GIFs",
+    "name": "PerfectTits",
     "periods": [
       "monthly"
     ],
@@ -8092,7 +8078,7 @@
     "appearances": 1,
     "best_rank": 188,
     "coverage_score": 0.263157894737,
-    "name": "GirlGoo",
+    "name": "DEMONBOYYYZ",
     "periods": [
       "monthly"
     ],
@@ -8107,7 +8093,7 @@
     "appearances": 1,
     "best_rank": 157,
     "coverage_score": 0.25,
-    "name": "cuckoldparadise",
+    "name": "PeeandSquirtGIFs",
     "periods": [
       "monthly"
     ],
@@ -8120,9 +8106,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 189,
+    "coverage_score": 0.263157894737,
+    "name": "nsfwbanned",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.064468399915,
+    "score": 0.124075248362,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 70,
     "coverage_score": 0.197368421053,
-    "name": "HOT_RP_INDIA2",
+    "name": "FemboyXFemboy",
     "periods": [
       "monthly"
     ],
@@ -8137,7 +8138,7 @@
     "appearances": 1,
     "best_rank": 158,
     "coverage_score": 0.25,
-    "name": "PeeandSquirtGIFs",
+    "name": "FemboyHentai",
     "periods": [
       "monthly"
     ],
@@ -8150,24 +8151,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 190,
-    "coverage_score": 0.263157894737,
-    "name": "nsfwbanned",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.064210526316,
-    "score": 0.123894736842,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 159,
     "coverage_score": 0.25,
-    "name": "FemboyHentai",
+    "name": "JerkOffChat",
     "periods": [
       "monthly"
     ],
@@ -8180,24 +8166,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 192,
-    "coverage_score": 0.263157894737,
-    "name": "DEMONBOYYYZ",
+    "best_rank": 71,
+    "coverage_score": 0.197368421053,
+    "name": "jerkingtoyou",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.063700918964,
-    "score": 0.123538011696,
+    "rank_score": 0.091904379269,
+    "score": 0.123543591804,
     "selected": false,
     "size_filters": [
-      "medium"
+      "medium-small"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 160,
     "coverage_score": 0.25,
-    "name": "PerfectTits",
+    "name": "GirlsWithGirls",
     "periods": [
       "monthly"
     ],
@@ -8210,9 +8196,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 193,
+    "coverage_score": 0.263157894737,
+    "name": "HugeHandbra",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.063449136676,
+    "score": 0.123361764094,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.25,
-    "name": "JerkOffChat",
+    "name": "FantasticBreasts",
     "periods": [
       "monthly"
     ],
@@ -8227,7 +8228,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.263157894737,
-    "name": "HugeHandbra",
+    "name": "GermanAmateure",
     "periods": [
       "monthly"
     ],
@@ -8242,7 +8243,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.25,
-    "name": "FantasticBreasts",
+    "name": "analgonewild",
     "periods": [
       "monthly"
     ],
@@ -8257,7 +8258,7 @@
     "appearances": 1,
     "best_rank": 72,
     "coverage_score": 0.197368421053,
-    "name": "FemboyXFemboy",
+    "name": "JerkingCumOnTits",
     "periods": [
       "monthly"
     ],
@@ -8272,7 +8273,7 @@
     "appearances": 1,
     "best_rank": 195,
     "coverage_score": 0.263157894737,
-    "name": "GermanAmateure",
+    "name": "Firstpenetration",
     "periods": [
       "monthly"
     ],
@@ -8287,7 +8288,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.25,
-    "name": "analgonewild",
+    "name": "AnalGape",
     "periods": [
       "monthly"
     ],
@@ -8302,7 +8303,7 @@
     "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.263157894737,
-    "name": "Firstpenetration",
+    "name": "WhiteCumForBlackGirls",
     "periods": [
       "monthly"
     ],
@@ -8332,7 +8333,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.197368421053,
-    "name": "JerkingCumOnTits",
+    "name": "transgirls_fuck_males",
     "periods": [
       "monthly"
     ],
@@ -8345,24 +8346,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 198,
-    "coverage_score": 0.263157894737,
-    "name": "WhiteCumForBlackGirls",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.062219502244,
-    "score": 0.122501019992,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.25,
-    "name": "TeensAngels",
+    "name": "cuckhumiliation",
     "periods": [
       "monthly"
     ],
@@ -8377,7 +8363,7 @@
     "appearances": 1,
     "best_rank": 199,
     "coverage_score": 0.263157894737,
-    "name": "Ass_and_Feet",
+    "name": "german_naked_",
     "periods": [
       "monthly"
     ],
@@ -8392,7 +8378,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.25,
-    "name": "GirlsWithGirls",
+    "name": "TeensAngels",
     "periods": [
       "monthly"
     ],
@@ -8405,9 +8391,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 200,
+    "coverage_score": 0.263157894737,
+    "name": "Ass_and_Feet",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.061740890688,
+    "score": 0.122165991903,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 74,
     "coverage_score": 0.197368421053,
-    "name": "Porn4Indians",
+    "name": "FuckToyLounge",
     "periods": [
       "monthly"
     ],
@@ -8422,7 +8423,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.25,
-    "name": "cuckhumiliation",
+    "name": "hugenaturals",
     "periods": [
       "monthly"
     ],
@@ -8437,7 +8438,7 @@
     "appearances": 1,
     "best_rank": 168,
     "coverage_score": 0.25,
-    "name": "hugenaturals",
+    "name": "NSFW_Hardbodies",
     "periods": [
       "monthly"
     ],
@@ -8452,7 +8453,7 @@
     "appearances": 1,
     "best_rank": 75,
     "coverage_score": 0.197368421053,
-    "name": "transgirls_fuck_males",
+    "name": "UnethicalSexFantasies",
     "periods": [
       "monthly"
     ],
@@ -8467,7 +8468,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.25,
-    "name": "NSFW_Hardbodies",
+    "name": "interracialwild",
     "periods": [
       "monthly"
     ],
@@ -8482,7 +8483,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.25,
-    "name": "interracialwild",
+    "name": "SissyInspiration",
     "periods": [
       "monthly"
     ],
@@ -8497,7 +8498,7 @@
     "appearances": 1,
     "best_rank": 171,
     "coverage_score": 0.25,
-    "name": "HotwifeSwingers",
+    "name": "DressedAndUndressed",
     "periods": [
       "monthly"
     ],
@@ -8542,7 +8543,7 @@
     "appearances": 1,
     "best_rank": 77,
     "coverage_score": 0.197368421053,
-    "name": "FuckToyLounge",
+    "name": "goonGPT",
     "periods": [
       "monthly"
     ],
@@ -8557,7 +8558,7 @@
     "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.25,
-    "name": "SissyInspiration",
+    "name": "HealthyPorn",
     "periods": [
       "monthly"
     ],
@@ -8572,7 +8573,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.25,
-    "name": "HealthyPorn",
+    "name": "CumSwallowing",
     "periods": [
       "monthly"
     ],
@@ -8587,7 +8588,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.197368421053,
-    "name": "UnethicalSexFantasies",
+    "name": "Goon2Hijab",
     "periods": [
       "monthly"
     ],
@@ -8617,7 +8618,7 @@
     "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.25,
-    "name": "CumSwallowing",
+    "name": "tscum",
     "periods": [
       "monthly"
     ],
@@ -8632,7 +8633,7 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.25,
-    "name": "CosplayPornVideos",
+    "name": "HotwifeSwingers",
     "periods": [
       "monthly"
     ],
@@ -8647,7 +8648,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.197368421053,
-    "name": "goonGPT",
+    "name": "Camper",
     "periods": [
       "monthly"
     ],
@@ -8662,7 +8663,7 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.25,
-    "name": "tscum",
+    "name": "OldYoungTabooPorn",
     "periods": [
       "monthly"
     ],
@@ -8677,7 +8678,7 @@
     "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.25,
-    "name": "OldYoungTabooPorn",
+    "name": "CosplayPornVideos",
     "periods": [
       "monthly"
     ],
@@ -8692,7 +8693,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.197368421053,
-    "name": "TheGirl_TheBush",
+    "name": "pantypoopv2",
     "periods": [
       "monthly"
     ],
@@ -8722,7 +8723,7 @@
     "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.25,
-    "name": "DressedAndUndressed",
+    "name": "stockings",
     "periods": [
       "monthly"
     ],
@@ -8737,7 +8738,7 @@
     "appearances": 1,
     "best_rank": 81,
     "coverage_score": 0.197368421053,
-    "name": "Goon2Hijab",
+    "name": "TheGirl_TheBush",
     "periods": [
       "monthly"
     ],
@@ -8752,7 +8753,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.25,
-    "name": "stockings",
+    "name": "RateMyRack",
     "periods": [
       "monthly"
     ],
@@ -8767,7 +8768,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.25,
-    "name": "RateMyRack",
+    "name": "LoosePussyLand",
     "periods": [
       "monthly"
     ],
@@ -8782,7 +8783,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.25,
-    "name": "LoosePussyLand",
+    "name": "gettingherselfoff",
     "periods": [
       "monthly"
     ],
@@ -8797,7 +8798,7 @@
     "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.197368421053,
-    "name": "Camper",
+    "name": "NEindiaNSFW",
     "periods": [
       "monthly"
     ],
@@ -8812,7 +8813,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.25,
-    "name": "Facials",
+    "name": "throatpussy",
     "periods": [
       "monthly"
     ],
@@ -8827,7 +8828,7 @@
     "appearances": 1,
     "best_rank": 187,
     "coverage_score": 0.25,
-    "name": "throatpussy",
+    "name": "Facials",
     "periods": [
       "monthly"
     ],
@@ -8842,7 +8843,7 @@
     "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.197368421053,
-    "name": "pantypoopv2",
+    "name": "Hijabitiktok",
     "periods": [
       "monthly"
     ],
@@ -8887,7 +8888,7 @@
     "appearances": 1,
     "best_rank": 84,
     "coverage_score": 0.197368421053,
-    "name": "AlwaysSexting",
+    "name": "SweetieFoxWorld",
     "periods": [
       "monthly"
     ],
@@ -8902,7 +8903,7 @@
     "appearances": 1,
     "best_rank": 190,
     "coverage_score": 0.25,
-    "name": "NSFW_China",
+    "name": "RedGIFsAmateur",
     "periods": [
       "monthly"
     ],
@@ -8917,7 +8918,7 @@
     "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.25,
-    "name": "RedGIFsAmateur",
+    "name": "NSFW_China",
     "periods": [
       "monthly"
     ],
@@ -8947,7 +8948,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.197368421053,
-    "name": "NEindiaNSFW",
+    "name": "altgoonettes",
     "periods": [
       "monthly"
     ],
@@ -8962,7 +8963,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.25,
-    "name": "JustHotWomen",
+    "name": "AIpornhub",
     "periods": [
       "monthly"
     ],
@@ -8977,7 +8978,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.25,
-    "name": "TooBig",
+    "name": "JustHotWomen",
     "periods": [
       "monthly"
     ],
@@ -8992,7 +8993,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.197368421053,
-    "name": "Hijabitiktok",
+    "name": "AnythingSlutty",
     "periods": [
       "monthly"
     ],
@@ -9022,7 +9023,7 @@
     "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.25,
-    "name": "gettingherselfoff",
+    "name": "TooBig",
     "periods": [
       "monthly"
     ],
@@ -9037,7 +9038,7 @@
     "appearances": 1,
     "best_rank": 87,
     "coverage_score": 0.197368421053,
-    "name": "SweetieFoxWorld",
+    "name": "BWCvsEbonyPornstars",
     "periods": [
       "monthly"
     ],
@@ -9052,7 +9053,7 @@
     "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.25,
-    "name": "AIpornhub",
+    "name": "AsianCumsluts",
     "periods": [
       "monthly"
     ],
@@ -9082,7 +9083,7 @@
     "appearances": 1,
     "best_rank": 199,
     "coverage_score": 0.25,
-    "name": "javdreams",
+    "name": "femboy",
     "periods": [
       "monthly"
     ],
@@ -9097,7 +9098,7 @@
     "appearances": 1,
     "best_rank": 88,
     "coverage_score": 0.197368421053,
-    "name": "altgoonettes",
+    "name": "SheUsesHim",
     "periods": [
       "monthly"
     ],
@@ -9112,7 +9113,7 @@
     "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.25,
-    "name": "AsianCumsluts",
+    "name": "Flashing",
     "periods": [
       "monthly"
     ],
@@ -9127,7 +9128,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.197368421053,
-    "name": "SheUsesHim",
+    "name": "looseclothing",
     "periods": [
       "monthly"
     ],
@@ -9142,7 +9143,7 @@
     "appearances": 1,
     "best_rank": 90,
     "coverage_score": 0.197368421053,
-    "name": "AnythingSlutty",
+    "name": "fwb_Nudes",
     "periods": [
       "monthly"
     ],
@@ -9157,7 +9158,7 @@
     "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.197368421053,
-    "name": "BestOfHentaiEver",
+    "name": "WeKinkWeDontJudge",
     "periods": [
       "monthly"
     ],
@@ -9172,7 +9173,7 @@
     "appearances": 1,
     "best_rank": 92,
     "coverage_score": 0.197368421053,
-    "name": "BWCvsEbonyPornstars",
+    "name": "CestMommy",
     "periods": [
       "monthly"
     ],
@@ -9185,44 +9186,44 @@
   },
   {
     "appearances": 1,
-    "best_rank": 93,
-    "coverage_score": 0.197368421053,
-    "name": "looseclothing",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.078689370485,
-    "score": 0.114293085655,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 94,
-    "coverage_score": 0.197368421053,
-    "name": "CestMommy",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.078178400547,
-    "score": 0.113935406699,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 95,
     "coverage_score": 0.197368421053,
-    "name": "WeKinkWeDontJudge",
+    "name": "ger_InfluencerDE",
     "periods": [
       "monthly"
     ],
     "rank_score": 0.077674023769,
     "score": 0.113582342954,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 96,
+    "coverage_score": 0.197368421053,
+    "name": "AltSelfies",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.07717611336,
+    "score": 0.113233805668,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 97,
+    "coverage_score": 0.197368421053,
+    "name": "JOIVIDSSS",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.076684545759,
+    "score": 0.112889708347,
     "selected": false,
     "size_filters": [
       "medium-small"
@@ -9247,7 +9248,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.197368421053,
-    "name": "ger_InfluencerDE",
+    "name": "ArtOfBoudoir",
     "periods": [
       "monthly"
     ],
@@ -9262,7 +9263,7 @@
     "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.197368421053,
-    "name": "AltSelfies",
+    "name": "ratemywifegf",
     "periods": [
       "monthly"
     ],
@@ -9277,7 +9278,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.197368421053,
-    "name": "ArtOfBoudoir",
+    "name": "DegenDiffusion",
     "periods": [
       "monthly"
     ],
@@ -9292,7 +9293,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.197368421053,
-    "name": "Happyfinish",
+    "name": "WhoresOfTheLord",
     "periods": [
       "monthly"
     ],
@@ -9307,7 +9308,7 @@
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.197368421053,
-    "name": "ratemywifegf",
+    "name": "BoobiesBouncing",
     "periods": [
       "monthly"
     ],
@@ -9322,7 +9323,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.197368421053,
-    "name": "DegenDiffusion",
+    "name": "BestOfHentaiEver",
     "periods": [
       "monthly"
     ],
@@ -9337,7 +9338,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.197368421053,
-    "name": "SinfulScroll",
+    "name": "polskiensfw_",
     "periods": [
       "monthly"
     ],
@@ -9352,7 +9353,7 @@
     "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.197368421053,
-    "name": "AthenaKami_",
+    "name": "SinfulScroll",
     "periods": [
       "monthly"
     ],
@@ -9367,7 +9368,7 @@
     "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.197368421053,
-    "name": "Marathi_extramarital",
+    "name": "PornPorno",
     "periods": [
       "monthly"
     ],
@@ -9382,7 +9383,7 @@
     "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.197368421053,
-    "name": "WhoresOfTheLord",
+    "name": "AthenaKami_",
     "periods": [
       "monthly"
     ],
@@ -9397,7 +9398,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.197368421053,
-    "name": "BoobiesBouncing",
+    "name": "PublicDesires",
     "periods": [
       "monthly"
     ],
@@ -9412,7 +9413,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.197368421053,
-    "name": "Late_Stranger_Chat",
+    "name": "MalluCelebKambi",
     "periods": [
       "monthly"
     ],
@@ -9427,7 +9428,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.197368421053,
-    "name": "bigbootybuttcheeks",
+    "name": "PleasureUnlocked",
     "periods": [
       "monthly"
     ],
@@ -9442,7 +9443,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.197368421053,
-    "name": "PublicDesires",
+    "name": "Happyfinish",
     "periods": [
       "monthly"
     ],
@@ -9455,24 +9456,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 113,
-    "coverage_score": 0.197368421053,
-    "name": "MalluCelebKambi",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.069592333435,
-    "score": 0.10792515972,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.197368421053,
-    "name": "PornPorno",
+    "name": "JulieBowenNFSW",
     "periods": [
       "monthly"
     ],
@@ -9485,14 +9471,14 @@
   },
   {
     "appearances": 1,
-    "best_rank": 115,
+    "best_rank": 116,
     "coverage_score": 0.197368421053,
-    "name": "RapeHentaiKink",
+    "name": "Pantiewankers",
     "periods": [
       "monthly"
     ],
-    "rank_score": 0.068796992481,
-    "score": 0.107368421053,
+    "rank_score": 0.068406100478,
+    "score": 0.107094796651,
     "selected": false,
     "size_filters": [
       "medium-small"
@@ -9502,7 +9488,7 @@
     "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.197368421053,
-    "name": "JulieBowenNFSW",
+    "name": "RapeHentaiKink",
     "periods": [
       "monthly"
     ],
@@ -9517,7 +9503,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.197368421053,
-    "name": "Pantiewankers",
+    "name": "Marathi_extramarital",
     "periods": [
       "monthly"
     ],
@@ -9532,7 +9518,7 @@
     "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.197368421053,
-    "name": "polskiensfw_",
+    "name": "RouletteAfterDark",
     "periods": [
       "monthly"
     ],
@@ -9545,9 +9531,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 120,
+    "coverage_score": 0.197368421053,
+    "name": "AlwaysSexting",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.066885964912,
+    "score": 0.106030701754,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.197368421053,
-    "name": "BeastyHentai",
+    "name": "TeensLovesBigDicks",
     "periods": [
       "monthly"
     ],
@@ -9562,7 +9563,7 @@
     "appearances": 1,
     "best_rank": 122,
     "coverage_score": 0.197368421053,
-    "name": "PleasureUnlocked",
+    "name": "babesadmiringcocks",
     "periods": [
       "monthly"
     ],
@@ -9577,7 +9578,7 @@
     "appearances": 1,
     "best_rank": 123,
     "coverage_score": 0.197368421053,
-    "name": "RouletteAfterDark",
+    "name": "HeatAddiction",
     "periods": [
       "monthly"
     ],
@@ -9590,24 +9591,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 124,
-    "coverage_score": 0.197368421053,
-    "name": "nudist_fathers",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.065431922197,
-    "score": 0.105012871854,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 125,
     "coverage_score": 0.197368421053,
-    "name": "TeensLovesBigDicks",
+    "name": "bigbootybuttcheeks",
     "periods": [
       "monthly"
     ],
@@ -9622,7 +9608,7 @@
     "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.197368421053,
-    "name": "babesadmiringcocks",
+    "name": "Just_Suck_It",
     "periods": [
       "monthly"
     ],
@@ -9637,7 +9623,7 @@
     "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.197368421053,
-    "name": "HeatAddiction",
+    "name": "Late_Stranger_Chat",
     "periods": [
       "monthly"
     ],
@@ -9652,7 +9638,7 @@
     "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.197368421053,
-    "name": "GenZfuckToyz",
+    "name": "gay_expose",
     "periods": [
       "monthly"
     ],
@@ -9665,9 +9651,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 129,
+    "coverage_score": 0.197368421053,
+    "name": "GenZfuckToyz",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.063700918964,
+    "score": 0.103801169591,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 130,
     "coverage_score": 0.197368421053,
-    "name": "GoonToCosplay",
+    "name": "Freedom_BJ",
     "periods": [
       "monthly"
     ],
@@ -9682,7 +9683,7 @@
     "appearances": 1,
     "best_rank": 131,
     "coverage_score": 0.197368421053,
-    "name": "Just_Suck_It",
+    "name": "BustyCanada",
     "periods": [
       "monthly"
     ],
@@ -9697,7 +9698,7 @@
     "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.197368421053,
-    "name": "gay_expose",
+    "name": "BANDIDASVIP2",
     "periods": [
       "monthly"
     ],
@@ -9712,7 +9713,7 @@
     "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.197368421053,
-    "name": "Freedom_BJ",
+    "name": "telugusext",
     "periods": [
       "monthly"
     ],
@@ -9725,24 +9726,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 134,
-    "coverage_score": 0.197368421053,
-    "name": "BustyCanada",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.062059142702,
-    "score": 0.102651926207,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.197368421053,
-    "name": "bbwfucked",
+    "name": "Porn4Indians",
     "periods": [
       "monthly"
     ],
@@ -9757,7 +9743,7 @@
     "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.197368421053,
-    "name": "BANDIDASVIP2",
+    "name": "Rol_morbo_Hot",
     "periods": [
       "monthly"
     ],
@@ -9772,7 +9758,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.197368421053,
-    "name": "mommyandsonincest",
+    "name": "nosefet",
     "periods": [
       "monthly"
     ],
@@ -9787,7 +9773,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.197368421053,
-    "name": "telugusext",
+    "name": "TiktokInstaPussy",
     "periods": [
       "monthly"
     ],
@@ -9800,9 +9786,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 139,
+    "coverage_score": 0.197368421053,
+    "name": "mommyandsonincest",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.06049986776,
+    "score": 0.101560433748,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.197368421053,
-    "name": "Rol_morbo_Hot",
+    "name": "BeastyHentai",
     "periods": [
       "monthly"
     ],
@@ -9817,7 +9818,7 @@
     "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.197368421053,
-    "name": "nosefet",
+    "name": "GoonToCosplay",
     "periods": [
       "monthly"
     ],
@@ -9832,7 +9833,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.197368421053,
-    "name": "authenticmilfs",
+    "name": "misogynysluts",
     "periods": [
       "monthly"
     ],
@@ -9847,7 +9848,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.197368421053,
-    "name": "TiktokInstaPussy",
+    "name": "bbwfucked",
     "periods": [
       "monthly"
     ],
@@ -9875,24 +9876,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 145,
-    "coverage_score": 0.197368421053,
-    "name": "geileschlampenn",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.058729139923,
-    "score": 0.100320924262,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.197368421053,
-    "name": "Nudes_from_my_past",
+    "name": "mujerdegradadas",
     "periods": [
       "monthly"
     ],
@@ -9907,7 +9893,7 @@
     "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.197368421053,
-    "name": "misogynysluts",
+    "name": "breedingmyLilSister",
     "periods": [
       "monthly"
     ],
@@ -9922,7 +9908,7 @@
     "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.197368421053,
-    "name": "TelegramSextChat",
+    "name": "AI_Lust",
     "periods": [
       "monthly"
     ],
@@ -9937,7 +9923,7 @@
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.197368421053,
-    "name": "tGOON",
+    "name": "TelegramSextChat",
     "periods": [
       "monthly"
     ],
@@ -9952,7 +9938,7 @@
     "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.197368421053,
-    "name": "mujerdegradadas",
+    "name": "BuckNakedBoating",
     "periods": [
       "monthly"
     ],
@@ -9982,7 +9968,7 @@
     "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.197368421053,
-    "name": "breedingmyLilSister",
+    "name": "StraightForCDs",
     "periods": [
       "monthly"
     ],
@@ -9997,7 +9983,7 @@
     "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.197368421053,
-    "name": "SocialMBabes",
+    "name": "SneakyApps",
     "periods": [
       "monthly"
     ],
@@ -10012,7 +9998,7 @@
     "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.197368421053,
-    "name": "AI_Lust",
+    "name": "SocialMBabes",
     "periods": [
       "monthly"
     ],
@@ -10027,7 +10013,7 @@
     "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.197368421053,
-    "name": "StraightForCDs",
+    "name": "geileschlampenn",
     "periods": [
       "monthly"
     ],
@@ -10042,7 +10028,7 @@
     "appearances": 1,
     "best_rank": 156,
     "coverage_score": 0.197368421053,
-    "name": "Totally_Limitless_RP2",
+    "name": "theydidthecoke",
     "periods": [
       "monthly"
     ],
@@ -10057,7 +10043,7 @@
     "appearances": 1,
     "best_rank": 157,
     "coverage_score": 0.197368421053,
-    "name": "SneakyApps",
+    "name": "Totally_Limitless_RP2",
     "periods": [
       "monthly"
     ],
@@ -10072,7 +10058,7 @@
     "appearances": 1,
     "best_rank": 158,
     "coverage_score": 0.197368421053,
-    "name": "show_me_your_pussy",
+    "name": "Nudes_from_my_past",
     "periods": [
       "monthly"
     ],
@@ -10087,7 +10073,7 @@
     "appearances": 1,
     "best_rank": 159,
     "coverage_score": 0.197368421053,
-    "name": "theydidthecoke",
+    "name": "LesbianFetish",
     "periods": [
       "monthly"
     ],
@@ -10102,7 +10088,7 @@
     "appearances": 1,
     "best_rank": 160,
     "coverage_score": 0.197368421053,
-    "name": "BuckNakedBoating",
+    "name": "show_me_your_pussy",
     "periods": [
       "monthly"
     ],
@@ -10117,7 +10103,7 @@
     "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.197368421053,
-    "name": "GoonToBoobs",
+    "name": "badcravings",
     "periods": [
       "monthly"
     ],
@@ -10132,7 +10118,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.197368421053,
-    "name": "PakiWhoresGW",
+    "name": "MarriedAndNaughty",
     "periods": [
       "monthly"
     ],
@@ -10147,7 +10133,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.197368421053,
-    "name": "BestAIPornToday",
+    "name": "InstaSecretNudes",
     "periods": [
       "monthly"
     ],
@@ -10162,7 +10148,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.197368421053,
-    "name": "LesbianFetish",
+    "name": "BoobsJiggling",
     "periods": [
       "monthly"
     ],
@@ -10175,9 +10161,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 165,
+    "coverage_score": 0.197368421053,
+    "name": "ZoeyDiGiacomoX",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.05350877193,
+    "score": 0.096666666667,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.197368421053,
-    "name": "badcravings",
+    "name": "PakiWhoresGW",
     "periods": [
       "monthly"
     ],
@@ -10192,7 +10193,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.197368421053,
-    "name": "MarriedAndNaughty",
+    "name": "BonitaLatinas",
     "periods": [
       "monthly"
     ],
@@ -10207,7 +10208,7 @@
     "appearances": 1,
     "best_rank": 168,
     "coverage_score": 0.197368421053,
-    "name": "BoobsJiggling",
+    "name": "authenticmilfs",
     "periods": [
       "monthly"
     ],
@@ -10222,7 +10223,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.197368421053,
-    "name": "BonitaLatinas",
+    "name": "LesbianLoverz_",
     "periods": [
       "monthly"
     ],
@@ -10250,9 +10251,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 171,
+    "coverage_score": 0.197368421053,
+    "name": "InnieGodPussy",
+    "periods": [
+      "monthly"
+    ],
+    "rank_score": 0.052118933698,
+    "score": 0.095693779904,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.197368421053,
-    "name": "Sex_on_Coke",
+    "name": "tikjav_uncensored",
     "periods": [
       "monthly"
     ],
@@ -10267,7 +10283,7 @@
     "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.197368421053,
-    "name": "LesbianLoverz_",
+    "name": "feetviewduringsex",
     "periods": [
       "monthly"
     ],
@@ -10282,7 +10298,7 @@
     "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.197368421053,
-    "name": "InnieGodPussy",
+    "name": "LiseliTurkler",
     "periods": [
       "monthly"
     ],
@@ -10297,7 +10313,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.197368421053,
-    "name": "tikjav_uncensored",
+    "name": "BestAIPornToday",
     "periods": [
       "monthly"
     ],
@@ -10312,7 +10328,7 @@
     "appearances": 1,
     "best_rank": 176,
     "coverage_score": 0.197368421053,
-    "name": "feetviewduringsex",
+    "name": "nudist_fathers",
     "periods": [
       "monthly"
     ],
@@ -10327,7 +10343,7 @@
     "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.197368421053,
-    "name": "LiseliTurkler",
+    "name": "actually_amatuer",
     "periods": [
       "monthly"
     ],
@@ -10342,7 +10358,7 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.197368421053,
-    "name": "well_fucked_wives",
+    "name": "Nutrition_Healthy",
     "periods": [
       "monthly"
     ],
@@ -10357,7 +10373,7 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.197368421053,
-    "name": "ZoeyDiGiacomoX",
+    "name": "tGOON",
     "periods": [
       "monthly"
     ],
@@ -10372,7 +10388,7 @@
     "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.197368421053,
-    "name": "actually_amatuer",
+    "name": "Sex_on_Coke",
     "periods": [
       "monthly"
     ],
@@ -10385,24 +10401,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 181,
-    "coverage_score": 0.197368421053,
-    "name": "InstaSecretNudes",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.049956322341,
-    "score": 0.094179951955,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.197368421053,
-    "name": "IndGenZsluts",
+    "name": "well_fucked_wives",
     "periods": [
       "monthly"
     ],
@@ -10417,7 +10418,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.197368421053,
-    "name": "GooneTr",
+    "name": "IndGenZsluts",
     "periods": [
       "monthly"
     ],
@@ -10432,7 +10433,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.197368421053,
-    "name": "lactation_breast_milk",
+    "name": "Saudigoonerss",
     "periods": [
       "monthly"
     ],
@@ -10447,7 +10448,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.197368421053,
-    "name": "Punjabngonewild",
+    "name": "lactation_breast_milk",
     "periods": [
       "monthly"
     ],
@@ -10462,7 +10463,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.197368421053,
-    "name": "Saudigoonerss",
+    "name": "Tight_Leggings",
     "periods": [
       "monthly"
     ],
@@ -10537,7 +10538,7 @@
     "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.197368421053,
-    "name": "CarSexNSFW",
+    "name": "GooneTr",
     "periods": [
       "monthly"
     ],
@@ -10552,7 +10553,7 @@
     "appearances": 1,
     "best_rank": 192,
     "coverage_score": 0.197368421053,
-    "name": "Tight_Leggings",
+    "name": "GoonToBoobs",
     "periods": [
       "monthly"
     ],
@@ -10567,7 +10568,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.197368421053,
-    "name": "Nutrition_Healthy",
+    "name": "CarSexNSFW",
     "periods": [
       "monthly"
     ],
@@ -10648,21 +10649,6 @@
     ],
     "rank_score": 0.046484454379,
     "score": 0.091749644381,
-    "selected": false,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 200,
-    "coverage_score": 0.197368421053,
-    "name": "GILF_NSFW",
-    "periods": [
-      "monthly"
-    ],
-    "rank_score": 0.046305668016,
-    "score": 0.091624493927,
     "selected": false,
     "size_filters": [
       "medium-small"
