@@ -7,8 +7,8 @@
     "periods": [
       "daily"
     ],
-    "rank_score": 0.669997942069,
-    "score": 0.693998559448,
+    "rank_score": 0.692625458996,
+    "score": 0.709837821297,
     "selected": true,
     "size_filters": [
       "large",
@@ -20,12 +20,12 @@
     "appearances": 3,
     "best_rank": 2,
     "coverage_score": 0.75,
-    "name": "Meowi",
+    "name": "BoyDinnerDiaries",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.572857202014,
-    "score": 0.62600004141,
+    "rank_score": 0.602974080646,
+    "score": 0.647081856452,
     "selected": true,
     "size_filters": [
       "large",
@@ -34,15 +34,66 @@
     ]
   },
   {
-    "appearances": 2,
-    "best_rank": 3,
-    "coverage_score": 0.552631578947,
-    "name": "GTA6unmoderated",
+    "appearances": 3,
+    "best_rank": 1,
+    "coverage_score": 0.802631578947,
+    "name": "RedditGames",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.486087012403,
-    "score": 0.506050382366,
+    "rank_score": 0.484124412015,
+    "score": 0.579676562095,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 3,
+    "best_rank": 3,
+    "coverage_score": 0.802631578947,
+    "name": "foundsatan",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.458712945091,
+    "score": 0.561888535248,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 3,
+    "best_rank": 4,
+    "coverage_score": 0.802631578947,
+    "name": "GamingLeaksAndRumours",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.449284616564,
+    "score": 0.555288705279,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 3,
+    "coverage_score": 0.552631578947,
+    "name": "WarDogs",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.516352154897,
+    "score": 0.527235982112,
     "selected": true,
     "size_filters": [
       "large",
@@ -53,12 +104,12 @@
     "appearances": 2,
     "best_rank": 4,
     "coverage_score": 0.552631578947,
-    "name": "Britain",
+    "name": "TierlistFills",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.479102473351,
-    "score": 0.50116120503,
+    "rank_score": 0.505227913534,
+    "score": 0.519449013158,
     "selected": true,
     "size_filters": [
       "large",
@@ -69,12 +120,12 @@
     "appearances": 2,
     "best_rank": 5,
     "coverage_score": 0.552631578947,
-    "name": "BoyDinnerDiaries",
+    "name": "redscarepod",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.472317813765,
-    "score": 0.49641194332,
+    "rank_score": 0.497753321549,
+    "score": 0.514216798768,
     "selected": true,
     "size_filters": [
       "large",
@@ -85,12 +136,12 @@
     "appearances": 2,
     "best_rank": 6,
     "coverage_score": 0.552631578947,
-    "name": "askteddit",
+    "name": "PFSENSE",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.460949059395,
-    "score": 0.488453815261,
+    "rank_score": 0.487442922374,
+    "score": 0.506999519346,
     "selected": true,
     "size_filters": [
       "large",
@@ -101,12 +152,12 @@
     "appearances": 2,
     "best_rank": 7,
     "coverage_score": 0.552631578947,
-    "name": "DisasterUpdate",
+    "name": "NFLv2",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.445966935657,
-    "score": 0.477966328644,
+    "rank_score": 0.45695586746,
+    "score": 0.485658580907,
     "selected": true,
     "size_filters": [
       "large",
@@ -115,30 +166,30 @@
   },
   {
     "appearances": 2,
-    "best_rank": 1,
-    "coverage_score": 0.539473684211,
-    "name": "GirlDinnerDiaries",
+    "best_rank": 8,
+    "coverage_score": 0.552631578947,
+    "name": "EgyGym",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.450657894737,
-    "score": 0.477302631579,
+    "rank_score": 0.430447598972,
+    "score": 0.467102792965,
     "selected": true,
     "size_filters": [
       "large",
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 2,
-    "best_rank": 8,
+    "best_rank": 9,
     "coverage_score": 0.552631578947,
-    "name": "accelerate",
+    "name": "Conquistas",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.436077467424,
-    "score": 0.471043700881,
+    "rank_score": 0.423126430206,
+    "score": 0.461977974828,
     "selected": true,
     "size_filters": [
       "large",
@@ -149,12 +200,12 @@
     "appearances": 2,
     "best_rank": 10,
     "coverage_score": 0.552631578947,
-    "name": "IcedCoffee",
+    "name": "indiadiscussion",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.403695559654,
-    "score": 0.448376365442,
+    "rank_score": 0.416058002148,
+    "score": 0.457030075188,
     "selected": true,
     "size_filters": [
       "large",
@@ -165,76 +216,44 @@
     "appearances": 2,
     "best_rank": 11,
     "coverage_score": 0.552631578947,
-    "name": "TierlistFills",
+    "name": "TwentiesIndia",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.397338220355,
-    "score": 0.443926227933,
+    "rank_score": 0.409229058562,
+    "score": 0.452249814678,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 12,
-    "coverage_score": 0.552631578947,
-    "name": "redscarepod",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.388575605681,
-    "score": 0.437792397661,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 13,
-    "coverage_score": 0.552631578947,
-    "name": "PFSENSE",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.382701526708,
-    "score": 0.43368054238,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 2,
-    "coverage_score": 0.539473684211,
-    "name": "IRLEasterEggs",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.37973967176,
-    "score": 0.427659875495,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "xlarge"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 14,
     "coverage_score": 0.552631578947,
-    "name": "hatethissmug",
+    "name": "Utah",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.373516262835,
-    "score": 0.427250857669,
+    "rank_score": 0.392972425867,
+    "score": 0.440870171791,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 15,
+    "coverage_score": 0.552631578947,
+    "name": "powerscales",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.388320802005,
+    "score": 0.437614035088,
     "selected": true,
     "size_filters": [
       "large",
@@ -245,12 +264,12 @@
     "appearances": 2,
     "best_rank": 16,
     "coverage_score": 0.552631578947,
-    "name": "askanything",
+    "name": "PlanetZoo",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.365007096907,
-    "score": 0.421294441519,
+    "rank_score": 0.383780640778,
+    "score": 0.434435922229,
     "selected": true,
     "size_filters": [
       "large",
@@ -261,12 +280,12 @@
     "appearances": 2,
     "best_rank": 17,
     "coverage_score": 0.552631578947,
-    "name": "Recommend_A_Book",
+    "name": "LoveTrash",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.356725146199,
-    "score": 0.415497076023,
+    "rank_score": 0.377958785854,
+    "score": 0.430360623782,
     "selected": true,
     "size_filters": [
       "large",
@@ -275,30 +294,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 3,
-    "coverage_score": 0.539473684211,
-    "name": "CoutureReps",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.362185224967,
-    "score": 0.41537176274,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 18,
     "coverage_score": 0.552631578947,
-    "name": "coolgithubprojects",
+    "name": "Bengaluru",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.352781939707,
-    "score": 0.412736831479,
+    "rank_score": 0.37100156837,
+    "score": 0.425490571543,
     "selected": true,
     "size_filters": [
       "large",
@@ -309,60 +312,28 @@
     "appearances": 2,
     "best_rank": 19,
     "coverage_score": 0.552631578947,
-    "name": "hermesagent",
+    "name": "WhatIsMyCQS",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.348928839107,
-    "score": 0.410039661059,
+    "rank_score": 0.365576341436,
+    "score": 0.421692912689,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 4,
-    "coverage_score": 0.539473684211,
-    "name": "TeenIndia",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.353692326711,
-    "score": 0.409426733961,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 1,
-    "coverage_score": 0.460526315789,
-    "name": "JrTrip",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.387276180141,
-    "score": 0.409251220836,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 20,
     "coverage_score": 0.552631578947,
-    "name": "AestheticWiki",
+    "name": "buildmeapc",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.342334529506,
-    "score": 0.405423644338,
+    "rank_score": 0.361536241921,
+    "score": 0.418864843029,
     "selected": true,
     "size_filters": [
       "large",
@@ -371,30 +342,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 5,
-    "coverage_score": 0.539473684211,
-    "name": "ClaudeAI",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.344977226721,
-    "score": 0.403326163968,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 21,
     "coverage_score": 0.552631578947,
-    "name": "IPhoneApps",
+    "name": "Over30Selfie",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.338695178492,
-    "score": 0.402876098629,
+    "rank_score": 0.356383455446,
+    "score": 0.415257892496,
     "selected": true,
     "size_filters": [
       "large",
@@ -405,60 +360,12 @@
     "appearances": 2,
     "best_rank": 22,
     "coverage_score": 0.552631578947,
-    "name": "SongsThatFeelLikeThis",
+    "name": "oil",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.335135937769,
-    "score": 0.400384630123,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 3,
-    "coverage_score": 0.460526315789,
-    "name": "2000smemorylane",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.374006385601,
-    "score": 0.399962364658,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 6,
-    "coverage_score": 0.539473684211,
-    "name": "FitGirlRepack",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.340059956288,
-    "score": 0.399884074665,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 23,
-    "coverage_score": 0.552631578947,
-    "name": "NFLv2",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.331654101787,
-    "score": 0.397947344935,
+    "rank_score": 0.351379430387,
+    "score": 0.411755074955,
     "selected": true,
     "size_filters": [
       "large",
@@ -468,45 +375,13 @@
   {
     "appearances": 2,
     "best_rank": 5,
-    "coverage_score": 0.460526315789,
-    "name": "PS5_Jailbreak",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.35844017094,
-    "score": 0.389066014395,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 24,
-    "coverage_score": 0.552631578947,
-    "name": "WeirdSideHustles",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.318676759466,
-    "score": 0.388863205311,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 7,
     "coverage_score": 0.539473684211,
-    "name": "howislivingthere",
+    "name": "askgaybros",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.323060019957,
-    "score": 0.387984119233,
+    "rank_score": 0.348537286143,
+    "score": 0.405818205564,
     "selected": true,
     "size_filters": [
       "large",
@@ -515,46 +390,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 25,
-    "coverage_score": 0.552631578947,
-    "name": "HorrorMovies",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.313349356363,
-    "score": 0.385134023138,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 26,
-    "coverage_score": 0.552631578947,
-    "name": "badassanimals",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.308889722431,
-    "score": 0.382012279386,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 27,
     "coverage_score": 0.552631578947,
-    "name": "GearsOfWar",
+    "name": "ps4homebrew",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.303293254688,
-    "score": 0.378094751966,
+    "rank_score": 0.334543254688,
+    "score": 0.399969751966,
     "selected": true,
     "size_filters": [
       "large",
@@ -563,14 +406,46 @@
   },
   {
     "appearances": 2,
-    "best_rank": 8,
-    "coverage_score": 0.539473684211,
-    "name": "TopCharacterTropes",
+    "best_rank": 28,
+    "coverage_score": 0.552631578947,
+    "name": "RealRepLadies",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.306014218553,
-    "score": 0.37605205825,
+    "rank_score": 0.329078947368,
+    "score": 0.396144736842,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 6,
+    "coverage_score": 0.539473684211,
+    "name": "MakeNewFriendsHere",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.3319628617,
+    "score": 0.394216108453,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 7,
+    "coverage_score": 0.539473684211,
+    "name": "witchcraft",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.327940887667,
+    "score": 0.39140072663,
     "selected": true,
     "size_filters": [
       "large",
@@ -581,12 +456,12 @@
     "appearances": 2,
     "best_rank": 29,
     "coverage_score": 0.552631578947,
-    "name": "EgyGym",
+    "name": "SneakersIndia",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.296285211522,
-    "score": 0.373189121749,
+    "rank_score": 0.321885093026,
+    "score": 0.391109038803,
     "selected": true,
     "size_filters": [
       "large",
@@ -595,14 +470,62 @@
   },
   {
     "appearances": 2,
-    "best_rank": 30,
+    "best_rank": 31,
     "coverage_score": 0.552631578947,
-    "name": "B2BForHire",
+    "name": "MakeupLounge",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.293487506645,
-    "score": 0.371230728336,
+    "rank_score": 0.313838557358,
+    "score": 0.385476463835,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 8,
+    "coverage_score": 0.539473684211,
+    "name": "sportsbetting",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.316232907637,
+    "score": 0.383205140609,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 32,
+    "coverage_score": 0.552631578947,
+    "name": "earthisawesome",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.309967694171,
+    "score": 0.382766859604,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 33,
+    "coverage_score": 0.552631578947,
+    "name": "estudosBR",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.307042329157,
+    "score": 0.380719104094,
     "selected": true,
     "size_filters": [
       "large",
@@ -613,12 +536,12 @@
     "appearances": 2,
     "best_rank": 9,
     "coverage_score": 0.539473684211,
-    "name": "interesting",
+    "name": "homeassistant",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.298802575295,
-    "score": 0.37100390797,
+    "rank_score": 0.310195779303,
+    "score": 0.378979150775,
     "selected": true,
     "size_filters": [
       "large",
@@ -627,110 +550,30 @@
   },
   {
     "appearances": 2,
-    "best_rank": 31,
-    "coverage_score": 0.552631578947,
-    "name": "sixwordstories",
+    "best_rank": 2,
+    "coverage_score": 0.513157894737,
+    "name": "okbuddycinephile",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.290745399179,
-    "score": 0.36931125311,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 32,
-    "coverage_score": 0.552631578947,
-    "name": "Conquistas",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.28748501689,
-    "score": 0.367028985507,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 6,
-    "coverage_score": 0.460526315789,
-    "name": "Tatuagem",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.32682914673,
-    "score": 0.366938297448,
+    "rank_score": 0.319943002668,
+    "score": 0.377907470289,
     "selected": true,
     "size_filters": [
       "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 10,
-    "coverage_score": 0.539473684211,
-    "name": "videogames",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.289930182599,
-    "score": 0.364793233083,
-    "selected": true,
-    "size_filters": [
-      "large",
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 33,
-    "coverage_score": 0.552631578947,
-    "name": "indiadiscussion",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.283744874353,
-    "score": 0.364410885732,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 7,
-    "coverage_score": 0.460526315789,
-    "name": "HeresTheCatch",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.320939311267,
-    "score": 0.362815412624,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 34,
     "coverage_score": 0.552631578947,
-    "name": "ProtonVPN",
+    "name": "fashionreps2",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.278033267486,
-    "score": 0.360412760925,
+    "rank_score": 0.301698394923,
+    "score": 0.376978350131,
     "selected": true,
     "size_filters": [
       "large",
@@ -741,44 +584,76 @@
     "appearances": 2,
     "best_rank": 35,
     "coverage_score": 0.552631578947,
-    "name": "AlternateHistoryHub",
+    "name": "thrillerbooks",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.274073848589,
-    "score": 0.357641167697,
+    "rank_score": 0.298919277437,
+    "score": 0.37503296789,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 10,
+    "coverage_score": 0.539473684211,
+    "name": "geometrydash",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.30194235589,
+    "score": 0.373201754386,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 36,
     "coverage_score": 0.552631578947,
-    "name": "TwentiesIndia",
+    "name": "ElectroBOOM",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.271178966438,
-    "score": 0.355614750191,
+    "rank_score": 0.293885934871,
+    "score": 0.371509628094,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 11,
+    "coverage_score": 0.539473684211,
+    "name": "RimWorld",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.295788249536,
+    "score": 0.368893879938,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 37,
     "coverage_score": 0.552631578947,
-    "name": "Caldruki",
+    "name": "DCU_",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.267883101546,
-    "score": 0.353307644767,
+    "rank_score": 0.284941636407,
+    "score": 0.365248619169,
     "selected": true,
     "size_filters": [
       "large",
@@ -787,30 +662,46 @@
   },
   {
     "appearances": 2,
-    "best_rank": 8,
-    "coverage_score": 0.460526315789,
-    "name": "Weirdassmovies",
+    "best_rank": 12,
+    "coverage_score": 0.539473684211,
+    "name": "antimeme",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.303705604063,
-    "score": 0.350751817581,
+    "rank_score": 0.288246658312,
+    "score": 0.363614766082,
     "selected": true,
     "size_filters": [
-      "medium",
-      "medium-small"
+      "large",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 38,
+    "coverage_score": 0.552631578947,
+    "name": "weirdgirlliterature",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.282428660368,
+    "score": 0.363489535942,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 39,
     "coverage_score": 0.552631578947,
-    "name": "fashionrepsv2",
+    "name": "KollyGossips",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.263297131718,
-    "score": 0.350097465887,
+    "rank_score": 0.279961507143,
+    "score": 0.361762528685,
     "selected": true,
     "size_filters": [
       "large",
@@ -819,62 +710,62 @@
   },
   {
     "appearances": 2,
-    "best_rank": 40,
-    "coverage_score": 0.552631578947,
-    "name": "BlackPeopleofReddit",
+    "best_rank": 13,
+    "coverage_score": 0.539473684211,
+    "name": "GTA6",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.260624138881,
-    "score": 0.348226370901,
+    "rank_score": 0.283725697457,
+    "score": 0.360450093483,
     "selected": true,
     "size_filters": [
       "large",
-      "medium"
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 14,
+    "coverage_score": 0.539473684211,
+    "name": "justgalsbeingchicks",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.275327727108,
+    "score": 0.354571514239,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 41,
     "coverage_score": 0.552631578947,
-    "name": "KanalHumor",
+    "name": "LowStakesConspiracies",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.258004897845,
-    "score": 0.346392902175,
+    "rank_score": 0.268705679432,
+    "score": 0.353883449287,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 9,
-    "coverage_score": 0.460526315789,
-    "name": "easyRecipesForNoobs",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.295680728112,
-    "score": 0.345134404415,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 42,
     "coverage_score": 0.552631578947,
-    "name": "oops",
+    "name": "SolanaMemeCoins",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.255437802651,
-    "score": 0.34459593554,
+    "rank_score": 0.26590639298,
+    "score": 0.35192394877,
     "selected": true,
     "size_filters": [
       "large",
@@ -883,14 +774,30 @@
   },
   {
     "appearances": 2,
-    "best_rank": 43,
-    "coverage_score": 0.552631578947,
-    "name": "CabelosDoBrasil",
+    "best_rank": 15,
+    "coverage_score": 0.539473684211,
+    "name": "PcBuild",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.253337052757,
-    "score": 0.343125410614,
+    "rank_score": 0.271510533089,
+    "score": 0.351899478426,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 43,
+    "coverage_score": 0.552631578947,
+    "name": "SillyTavernAI",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.262644005203,
+    "score": 0.349640277326,
     "selected": true,
     "size_filters": [
       "large",
@@ -901,12 +808,12 @@
     "appearances": 2,
     "best_rank": 44,
     "coverage_score": 0.552631578947,
-    "name": "IntrovertsChat",
+    "name": "Forexstrategy",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.24809296929,
-    "score": 0.339454552187,
+    "rank_score": 0.25997077287,
+    "score": 0.347769014693,
     "selected": true,
     "size_filters": [
       "large",
@@ -917,12 +824,12 @@
     "appearances": 2,
     "best_rank": 45,
     "coverage_score": 0.552631578947,
-    "name": "Over40sClub",
+    "name": "DressForYourBody",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.245719370891,
-    "score": 0.337793033308,
+    "rank_score": 0.257849932093,
+    "score": 0.346284426149,
     "selected": true,
     "size_filters": [
       "large",
@@ -933,12 +840,12 @@
     "appearances": 2,
     "best_rank": 46,
     "coverage_score": 0.552631578947,
-    "name": "Utah",
+    "name": "luftablassen",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.243760025972,
-    "score": 0.336421491865,
+    "rank_score": 0.254785185024,
+    "score": 0.344139103201,
     "selected": true,
     "size_filters": [
       "large",
@@ -949,44 +856,12 @@
     "appearances": 2,
     "best_rank": 47,
     "coverage_score": 0.552631578947,
-    "name": "heartwarming",
+    "name": "PowerScaling",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.241833903275,
-    "score": 0.335073205977,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 11,
-    "coverage_score": 0.460526315789,
-    "name": "RSDragonwilds",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.280818282903,
-    "score": 0.334730692769,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 48,
-    "coverage_score": 0.552631578947,
-    "name": "AppIdeas",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.239940128098,
-    "score": 0.333747563353,
+    "rank_score": 0.252746351861,
+    "score": 0.342711919987,
     "selected": true,
     "size_filters": [
       "large",
@@ -997,12 +872,12 @@
     "appearances": 2,
     "best_rank": 49,
     "coverage_score": 0.552631578947,
-    "name": "powerscales",
+    "name": "Earbuds",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.238077856932,
-    "score": 0.332443973537,
+    "rank_score": 0.248770015791,
+    "score": 0.339928484738,
     "selected": true,
     "size_filters": [
       "large",
@@ -1013,60 +888,28 @@
     "appearances": 2,
     "best_rank": 50,
     "coverage_score": 0.552631578947,
-    "name": "ClaudeCode",
+    "name": "pj_explained",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.236246276068,
-    "score": 0.331161866931,
+    "rank_score": 0.24636926541,
+    "score": 0.338247959471,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 12,
-    "coverage_score": 0.460526315789,
-    "name": "OnlineFriend",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.275072150072,
-    "score": 0.330708399787,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 51,
     "coverage_score": 0.552631578947,
-    "name": "ShittyIllegalLifeTips",
+    "name": "JapaneseWatches",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.234092429862,
-    "score": 0.329654174588,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 52,
-    "coverage_score": 0.552631578947,
-    "name": "urbancarliving",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.231977513228,
-    "score": 0.328173732943,
+    "rank_score": 0.24446647095,
+    "score": 0.336916003349,
     "selected": true,
     "size_filters": [
       "large",
@@ -1077,12 +920,12 @@
     "appearances": 2,
     "best_rank": 53,
     "coverage_score": 0.552631578947,
-    "name": "PlanetZoo",
+    "name": "NFCNorthMemeWar",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.229900479867,
-    "score": 0.326719809591,
+    "rank_score": 0.240752089819,
+    "score": 0.334315936558,
     "selected": true,
     "size_filters": [
       "large",
@@ -1091,30 +934,14 @@
   },
   {
     "appearances": 2,
-    "best_rank": 13,
-    "coverage_score": 0.460526315789,
-    "name": "obscuremusicthatbangs",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.268056957462,
-    "score": 0.32579776496,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 2,
     "best_rank": 54,
     "coverage_score": 0.552631578947,
-    "name": "relationships_advice",
+    "name": "RepTimeQC",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.228193501056,
-    "score": 0.325524924424,
+    "rank_score": 0.238939004994,
+    "score": 0.33304677718,
     "selected": true,
     "size_filters": [
       "large",
@@ -1125,60 +952,28 @@
     "appearances": 2,
     "best_rank": 55,
     "coverage_score": 0.552631578947,
-    "name": "LibbyApp",
+    "name": "computadores",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.226513417932,
-    "score": 0.324348866237,
+    "rank_score": 0.237154366895,
+    "score": 0.331797530511,
     "selected": true,
     "size_filters": [
       "large",
       "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 56,
-    "coverage_score": 0.552631578947,
-    "name": "Addons4Kodi",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.224532381747,
-    "score": 0.322962140907,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 14,
-    "coverage_score": 0.460526315789,
-    "name": "Aniimo",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.263411908149,
-    "score": 0.322546230441,
-    "selected": true,
-    "size_filters": [
-      "medium",
-      "medium-small"
     ]
   },
   {
     "appearances": 2,
     "best_rank": 57,
     "coverage_score": 0.552631578947,
-    "name": "CriticalThinkingIndia",
+    "name": "AsianMasculinity",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.221951520508,
-    "score": 0.32115553804,
+    "rank_score": 0.231588667584,
+    "score": 0.327901540993,
     "selected": true,
     "size_filters": [
       "large",
@@ -1189,12 +984,12 @@
     "appearances": 2,
     "best_rank": 58,
     "coverage_score": 0.552631578947,
-    "name": "LoveTrash",
+    "name": "igcse",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.220049454591,
-    "score": 0.319824091898,
+    "rank_score": 0.229507014437,
+    "score": 0.32644438379,
     "selected": true,
     "size_filters": [
       "large",
@@ -1205,12 +1000,12 @@
     "appearances": 2,
     "best_rank": 59,
     "coverage_score": 0.552631578947,
-    "name": "whatdoIdo",
+    "name": "AMCsAList",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.218484497913,
-    "score": 0.318728622223,
+    "rank_score": 0.225934614883,
+    "score": 0.323943704103,
     "selected": true,
     "size_filters": [
       "large",
@@ -1221,28 +1016,12 @@
     "appearances": 2,
     "best_rank": 60,
     "coverage_score": 0.552631578947,
-    "name": "fantasyfootballadvice",
+    "name": "tirzepatidecompound",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.216641034404,
-    "score": 0.317438197767,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 61,
-    "coverage_score": 0.552631578947,
-    "name": "90s_kid",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.211187614268,
-    "score": 0.313620803672,
+    "rank_score": 0.222161419905,
+    "score": 0.321302467618,
     "selected": true,
     "size_filters": [
       "large",
@@ -1253,12 +1032,12 @@
     "appearances": 2,
     "best_rank": 62,
     "coverage_score": 0.552631578947,
-    "name": "farmingthebestgreens",
+    "name": "manhwarecommendations",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.209727253356,
-    "score": 0.312598551033,
+    "rank_score": 0.21514312096,
+    "score": 0.316389658356,
     "selected": true,
     "size_filters": [
       "large",
@@ -1269,28 +1048,12 @@
     "appearances": 2,
     "best_rank": 63,
     "coverage_score": 0.552631578947,
-    "name": "YouTubeCreators",
+    "name": "jellyfin",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.208028519727,
-    "score": 0.311409437493,
-    "selected": true,
-    "size_filters": [
-      "large",
-      "medium"
-    ]
-  },
-  {
-    "appearances": 2,
-    "best_rank": 64,
-    "coverage_score": 0.552631578947,
-    "name": "Reps",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.206103295874,
-    "score": 0.310061780796,
+    "rank_score": 0.213658947667,
+    "score": 0.315350737051,
     "selected": true,
     "size_filters": [
       "large",
@@ -1301,12 +1064,12 @@
     "appearances": 2,
     "best_rank": 65,
     "coverage_score": 0.552631578947,
-    "name": "classactions",
+    "name": "BuenosAires",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.20446249482,
-    "score": 0.308913220058,
+    "rank_score": 0.209572228443,
+    "score": 0.312490033595,
     "selected": true,
     "size_filters": [
       "large",
@@ -1317,12 +1080,12 @@
     "appearances": 2,
     "best_rank": 66,
     "coverage_score": 0.552631578947,
-    "name": "WhatIsMyCQS",
+    "name": "LLMDevs",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.203093518109,
-    "score": 0.307954936361,
+    "rank_score": 0.208161647055,
+    "score": 0.311502626623,
     "selected": true,
     "size_filters": [
       "large",
@@ -1333,12 +1096,12 @@
     "appearances": 2,
     "best_rank": 67,
     "coverage_score": 0.552631578947,
-    "name": "lol",
+    "name": "DigitalAudioPlayer",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.20174413334,
-    "score": 0.307010367022,
+    "rank_score": 0.206771163931,
+    "score": 0.310529288436,
     "selected": true,
     "size_filters": [
       "large",
@@ -1349,12 +1112,12 @@
     "appearances": 2,
     "best_rank": 68,
     "coverage_score": 0.552631578947,
-    "name": "buildmeapc",
+    "name": "dancingwiththestars",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.200171804876,
-    "score": 0.305909737097,
+    "rank_score": 0.204285490974,
+    "score": 0.308789317366,
     "selected": true,
     "size_filters": [
       "large",
@@ -1365,12 +1128,140 @@
     "appearances": 2,
     "best_rank": 69,
     "coverage_score": 0.552631578947,
-    "name": "Snorkblot",
+    "name": "Nigeria",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.198623795625,
-    "score": 0.304826130622,
+    "rank_score": 0.202403850157,
+    "score": 0.307472168794,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 70,
+    "coverage_score": 0.552631578947,
+    "name": "discworld",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.200820370765,
+    "score": 0.30636373322,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 71,
+    "coverage_score": 0.552631578947,
+    "name": "Halloweenmovies",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.19926148951,
+    "score": 0.305272516341,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 72,
+    "coverage_score": 0.552631578947,
+    "name": "GalaxyFold",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.19798245614,
+    "score": 0.304377192982,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 73,
+    "coverage_score": 0.552631578947,
+    "name": "Dominos",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.196720833327,
+    "score": 0.303494057013,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 74,
+    "coverage_score": 0.552631578947,
+    "name": "metro",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.194974670782,
+    "score": 0.302271743232,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 75,
+    "coverage_score": 0.552631578947,
+    "name": "marvelcirclejerk",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.193750716661,
+    "score": 0.301414975347,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 76,
+    "coverage_score": 0.552631578947,
+    "name": "ohnePixel",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.192056963544,
+    "score": 0.300229348165,
+    "selected": true,
+    "size_filters": [
+      "large",
+      "medium"
+    ]
+  },
+  {
+    "appearances": 2,
+    "best_rank": 77,
+    "coverage_score": 0.552631578947,
+    "name": "ConselhosLegais",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.190630633293,
+    "score": 0.299230916989,
     "selected": true,
     "size_filters": [
       "large",
@@ -1379,14 +1270,44 @@
   },
   {
     "appearances": 1,
-    "best_rank": 9,
-    "coverage_score": 0.289473684211,
-    "name": "WarDogs",
+    "best_rank": 2,
+    "coverage_score": 0.263157894737,
+    "name": "UltraHiResBollywood",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.255911517925,
-    "score": 0.265980167811,
+    "rank_score": 0.258913412564,
+    "score": 0.260186757216,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 12,
+    "coverage_score": 0.289473684211,
+    "name": "Caldruki",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.245248538012,
+    "score": 0.258516081871,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 13,
+    "coverage_score": 0.289473684211,
+    "name": "fashionrepsv2",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.241888968998,
+    "score": 0.256164383562,
     "selected": true,
     "size_filters": [
       "large"
@@ -1396,7 +1317,7 @@
     "appearances": 1,
     "best_rank": 4,
     "coverage_score": 0.263157894737,
-    "name": "SelfiesCouples",
+    "name": "golpes",
     "periods": [
       "daily"
     ],
@@ -1409,14 +1330,74 @@
   },
   {
     "appearances": 1,
-    "best_rank": 15,
-    "coverage_score": 0.289473684211,
-    "name": "lookyourbest",
+    "best_rank": 5,
+    "coverage_score": 0.263157894737,
+    "name": "tiramisu",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.235438596491,
-    "score": 0.251649122807,
+    "rank_score": 0.246963562753,
+    "score": 0.251821862348,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 6,
+    "coverage_score": 0.263157894737,
+    "name": "vocabulary",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.24322169059,
+    "score": 0.249202551834,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 7,
+    "coverage_score": 0.263157894737,
+    "name": "WatchThisWhenHigh",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.239591516104,
+    "score": 0.246661429694,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 9,
+    "coverage_score": 0.263157894737,
+    "name": "PowerGirl",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.232646834477,
+    "score": 0.241800152555,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 23,
+    "coverage_score": 0.289473684211,
+    "name": "viagens",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.212745719721,
+    "score": 0.235764109068,
     "selected": true,
     "size_filters": [
       "large"
@@ -1424,9 +1405,69 @@
   },
   {
     "appearances": 1,
+    "best_rank": 12,
+    "coverage_score": 0.263157894737,
+    "name": "BloodbornePC",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.222953216374,
+    "score": 0.235014619883,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 24,
+    "coverage_score": 0.289473684211,
+    "name": "PataHaiAajKyaHua",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.210213032581,
+    "score": 0.23399122807,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 25,
+    "coverage_score": 0.289473684211,
+    "name": "conselhodecarreira",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.20773993808,
+    "score": 0.23226006192,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 14,
+    "coverage_score": 0.263157894737,
+    "name": "songs",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.21692745377,
+    "score": 0.23079658606,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 15,
     "coverage_score": 0.263157894737,
-    "name": "InfluencerLounge",
+    "name": "SciFiQueens",
     "periods": [
       "daily"
     ],
@@ -1441,7 +1482,7 @@
     "appearances": 1,
     "best_rank": 16,
     "coverage_score": 0.263157894737,
-    "name": "whatsfordinner",
+    "name": "PakistaniTwenties",
     "periods": [
       "daily"
     ],
@@ -1454,24 +1495,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 11,
-    "coverage_score": 0.25,
-    "name": "RedditGames",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.214788732394,
-    "score": 0.225352112676,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 17,
     "coverage_score": 0.263157894737,
-    "name": "UltraHiResBollywood",
+    "name": "scenery",
     "periods": [
       "daily"
     ],
@@ -1484,54 +1510,69 @@
   },
   {
     "appearances": 1,
-    "best_rank": 12,
-    "coverage_score": 0.25,
-    "name": "Amazing",
+    "best_rank": 30,
+    "coverage_score": 0.289473684211,
+    "name": "dailydoseofaww",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.211805555556,
-    "score": 0.223263888889,
+    "rank_score": 0.196198830409,
+    "score": 0.22418128655,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "large"
     ]
   },
   {
     "appearances": 1,
-    "best_rank": 13,
-    "coverage_score": 0.25,
-    "name": "90s",
+    "best_rank": 18,
+    "coverage_score": 0.263157894737,
+    "name": "SpillTheChaya",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.208904109589,
-    "score": 0.221232876712,
+    "rank_score": 0.205802968961,
+    "score": 0.223009446694,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
-    "best_rank": 14,
-    "coverage_score": 0.25,
-    "name": "okbuddycinephile",
+    "best_rank": 19,
+    "coverage_score": 0.263157894737,
+    "name": "Derailedbydetails",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.206081081081,
-    "score": 0.219256756757,
+    "rank_score": 0.203197868088,
+    "score": 0.221185876083,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 20,
+    "coverage_score": 0.263157894737,
+    "name": "DawnwalkerOfficial",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.200657894737,
+    "score": 0.219407894737,
+    "selected": true,
+    "size_filters": [
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 21,
     "coverage_score": 0.263157894737,
-    "name": "foss",
+    "name": "PokemonRestocks",
     "periods": [
       "daily"
     ],
@@ -1544,24 +1585,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 15,
-    "coverage_score": 0.25,
-    "name": "foundsatan",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.203333333333,
-    "score": 0.217333333333,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 22,
     "coverage_score": 0.263157894737,
-    "name": "golpes",
+    "name": "Pretend2005Internet",
     "periods": [
       "daily"
     ],
@@ -1576,7 +1602,7 @@
     "appearances": 1,
     "best_rank": 16,
     "coverage_score": 0.25,
-    "name": "GamingLeaksAndRumours",
+    "name": "remotework",
     "periods": [
       "daily"
     ],
@@ -1591,7 +1617,7 @@
     "appearances": 1,
     "best_rank": 17,
     "coverage_score": 0.25,
-    "name": "answers",
+    "name": "Awww",
     "periods": [
       "daily"
     ],
@@ -1604,24 +1630,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 38,
-    "coverage_score": 0.289473684211,
-    "name": "MorpheApp",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.180182599356,
-    "score": 0.212969924812,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 24,
     "coverage_score": 0.263157894737,
-    "name": "IndianFocus",
+    "name": "IndustrialMaintenance",
     "periods": [
       "daily"
     ],
@@ -1636,7 +1647,7 @@
     "appearances": 1,
     "best_rank": 18,
     "coverage_score": 0.25,
-    "name": "mildyinteresting",
+    "name": "dashcamgifs",
     "periods": [
       "daily"
     ],
@@ -1651,7 +1662,7 @@
     "appearances": 1,
     "best_rank": 25,
     "coverage_score": 0.263157894737,
-    "name": "AmateurFoodPorn",
+    "name": "founder",
     "periods": [
       "daily"
     ],
@@ -1664,9 +1675,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 40,
+    "coverage_score": 0.289473684211,
+    "name": "CryptoExchange",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.176578947368,
+    "score": 0.210447368421,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 19,
     "coverage_score": 0.25,
-    "name": "jobsearchhacks",
+    "name": "homelab",
     "periods": [
       "daily"
     ],
@@ -1681,7 +1707,7 @@
     "appearances": 1,
     "best_rank": 26,
     "coverage_score": 0.263157894737,
-    "name": "Crossdresser_Faces",
+    "name": "sparklyisacolor",
     "periods": [
       "daily"
     ],
@@ -1696,7 +1722,7 @@
     "appearances": 1,
     "best_rank": 20,
     "coverage_score": 0.25,
-    "name": "NewToReddit",
+    "name": "askphilosophy",
     "periods": [
       "daily"
     ],
@@ -1711,7 +1737,7 @@
     "appearances": 1,
     "best_rank": 27,
     "coverage_score": 0.263157894737,
-    "name": "OliviaRodrigoCircle",
+    "name": "VintageToys",
     "periods": [
       "daily"
     ],
@@ -1724,24 +1750,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 21,
-    "coverage_score": 0.25,
-    "name": "bald",
+    "best_rank": 28,
+    "coverage_score": 0.263157894737,
+    "name": "icast",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.188271604938,
-    "score": 0.206790123457,
+    "rank_score": 0.182416267943,
+    "score": 0.206638755981,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 29,
     "coverage_score": 0.263157894737,
-    "name": "tiramisu",
+    "name": "EmulationOniOS",
     "periods": [
       "daily"
     ],
@@ -1754,24 +1780,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 22,
-    "coverage_score": 0.25,
-    "name": "askgaybros",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.185975609756,
-    "score": 0.205182926829,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 30,
     "coverage_score": 0.263157894737,
-    "name": "Truepslrateme",
+    "name": "EmmaWatsonMythology",
     "periods": [
       "daily"
     ],
@@ -1784,24 +1795,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 23,
-    "coverage_score": 0.25,
-    "name": "abandoned",
+    "best_rank": 31,
+    "coverage_score": 0.263157894737,
+    "name": "romanempire",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.183734939759,
-    "score": 0.203614457831,
+    "rank_score": 0.176402544824,
+    "score": 0.202429149798,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 24,
     "coverage_score": 0.25,
-    "name": "TheNightFeeling",
+    "name": "LiveFromNewYork",
     "periods": [
       "daily"
     ],
@@ -1814,9 +1825,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 48,
+    "coverage_score": 0.289473684211,
+    "name": "Commanders",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.163499025341,
+    "score": 0.201291423002,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.263157894737,
-    "name": "RedditforBusiness",
+    "name": "writingscaling",
     "periods": [
       "daily"
     ],
@@ -1831,7 +1857,7 @@
     "appearances": 1,
     "best_rank": 25,
     "coverage_score": 0.25,
-    "name": "mystery",
+    "name": "MacOS",
     "periods": [
       "daily"
     ],
@@ -1846,7 +1872,7 @@
     "appearances": 1,
     "best_rank": 33,
     "coverage_score": 0.263157894737,
-    "name": "MakeFriendsOver30",
+    "name": "Retirement401k",
     "periods": [
       "daily"
     ],
@@ -1861,7 +1887,7 @@
     "appearances": 1,
     "best_rank": 26,
     "coverage_score": 0.25,
-    "name": "MakeNewFriendsHere",
+    "name": "Funnymemes",
     "periods": [
       "daily"
     ],
@@ -1874,24 +1900,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 34,
-    "coverage_score": 0.263157894737,
-    "name": "DigitalEscapeTools",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.170772676372,
-    "score": 0.198488241881,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 27,
     "coverage_score": 0.25,
-    "name": "witchcraft",
+    "name": "bisexual",
     "periods": [
       "daily"
     ],
@@ -1921,7 +1932,7 @@
     "appearances": 1,
     "best_rank": 35,
     "coverage_score": 0.263157894737,
-    "name": "ImaginaryOrcs",
+    "name": "LitBuy_Community",
     "periods": [
       "daily"
     ],
@@ -1934,9 +1945,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 52,
+    "coverage_score": 0.289473684211,
+    "name": "softwarearchitecture",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.157659774436,
+    "score": 0.197203947368,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 28,
     "coverage_score": 0.25,
-    "name": "HelpMeFind",
+    "name": "teenagers",
     "periods": [
       "daily"
     ],
@@ -1945,21 +1971,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 36,
-    "coverage_score": 0.263157894737,
-    "name": "vocabulary",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.167214912281,
-    "score": 0.195997807018,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -1981,7 +1992,7 @@
     "appearances": 1,
     "best_rank": 29,
     "coverage_score": 0.25,
-    "name": "GlowUps",
+    "name": "kindle",
     "periods": [
       "daily"
     ],
@@ -1996,7 +2007,7 @@
     "appearances": 1,
     "best_rank": 37,
     "coverage_score": 0.263157894737,
-    "name": "WatchThisWhenHigh",
+    "name": "TheMentalist",
     "periods": [
       "daily"
     ],
@@ -2011,7 +2022,7 @@
     "appearances": 1,
     "best_rank": 30,
     "coverage_score": 0.25,
-    "name": "sportsbetting",
+    "name": "ValueInvesting",
     "periods": [
       "daily"
     ],
@@ -2020,21 +2031,6 @@
     "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 38,
-    "coverage_score": 0.263157894737,
-    "name": "claudeskills",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.16380236305,
-    "score": 0.193609022556,
-    "selected": true,
-    "size_filters": [
-      "medium"
     ]
   },
   {
@@ -2056,7 +2052,7 @@
     "appearances": 1,
     "best_rank": 39,
     "coverage_score": 0.263157894737,
-    "name": "HonestSideHustles",
+    "name": "cssbuy",
     "periods": [
       "daily"
     ],
@@ -2071,7 +2067,7 @@
     "appearances": 1,
     "best_rank": 31,
     "coverage_score": 0.25,
-    "name": "homeassistant",
+    "name": "cybersecurity",
     "periods": [
       "daily"
     ],
@@ -2084,24 +2080,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 40,
-    "coverage_score": 0.263157894737,
-    "name": "skincare_ph",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.160526315789,
-    "score": 0.191315789474,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.25,
-    "name": "GetEmployed",
+    "name": "whatcarshouldIbuy",
     "periods": [
       "daily"
     ],
@@ -2131,7 +2112,7 @@
     "appearances": 1,
     "best_rank": 41,
     "coverage_score": 0.263157894737,
-    "name": "PiratingWebsites",
+    "name": "EgySexEducation",
     "periods": [
       "daily"
     ],
@@ -2146,7 +2127,7 @@
     "appearances": 1,
     "best_rank": 33,
     "coverage_score": 0.25,
-    "name": "fashion",
+    "name": "buhaydigital",
     "periods": [
       "daily"
     ],
@@ -2161,7 +2142,7 @@
     "appearances": 1,
     "best_rank": 42,
     "coverage_score": 0.263157894737,
-    "name": "CozyInScaryOut",
+    "name": "ValheimBuilds",
     "periods": [
       "daily"
     ],
@@ -2176,7 +2157,7 @@
     "appearances": 1,
     "best_rank": 5,
     "coverage_score": 0.197368421053,
-    "name": "Anime_En_General",
+    "name": "ZImageAI",
     "periods": [
       "daily"
     ],
@@ -2191,7 +2172,7 @@
     "appearances": 1,
     "best_rank": 34,
     "coverage_score": 0.25,
-    "name": "geometrydash",
+    "name": "RDR2",
     "periods": [
       "daily"
     ],
@@ -2206,7 +2187,7 @@
     "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.263157894737,
-    "name": "Xochitl_Gomez_",
+    "name": "InternationalStudents",
     "periods": [
       "daily"
     ],
@@ -2221,7 +2202,7 @@
     "appearances": 1,
     "best_rank": 35,
     "coverage_score": 0.25,
-    "name": "HomeMaintenance",
+    "name": "selfie",
     "periods": [
       "daily"
     ],
@@ -2234,24 +2215,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 44,
-    "coverage_score": 0.263157894737,
-    "name": "BangaloreMarketplace",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.154352226721,
-    "score": 0.186993927126,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 6,
     "coverage_score": 0.197368421053,
-    "name": "AvatarSevenHavens",
+    "name": "StreetwearRep",
     "periods": [
       "daily"
     ],
@@ -2266,7 +2232,7 @@
     "appearances": 1,
     "best_rank": 36,
     "coverage_score": 0.25,
-    "name": "blursed_videos",
+    "name": "Construction",
     "periods": [
       "daily"
     ],
@@ -2279,24 +2245,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 45,
-    "coverage_score": 0.263157894737,
-    "name": "PowerGirl",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.152882205514,
-    "score": 0.185964912281,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 37,
     "coverage_score": 0.25,
-    "name": "RimWorld",
+    "name": "retrogaming",
     "periods": [
       "daily"
     ],
@@ -2311,7 +2262,7 @@
     "appearances": 1,
     "best_rank": 7,
     "coverage_score": 0.197368421053,
-    "name": "ZImageAI",
+    "name": "BollywoodJasoos",
     "periods": [
       "daily"
     ],
@@ -2326,7 +2277,7 @@
     "appearances": 1,
     "best_rank": 47,
     "coverage_score": 0.263157894737,
-    "name": "RepCenter",
+    "name": "ResidentEvilCapcom",
     "periods": [
       "daily"
     ],
@@ -2341,7 +2292,7 @@
     "appearances": 1,
     "best_rank": 38,
     "coverage_score": 0.25,
-    "name": "Advice",
+    "name": "Deltarune",
     "periods": [
       "daily"
     ],
@@ -2356,7 +2307,7 @@
     "appearances": 1,
     "best_rank": 8,
     "coverage_score": 0.197368421053,
-    "name": "Dressmaker",
+    "name": "SATNA_PROJECT",
     "periods": [
       "daily"
     ],
@@ -2371,7 +2322,7 @@
     "appearances": 1,
     "best_rank": 39,
     "coverage_score": 0.25,
-    "name": "Christianity",
+    "name": "wildlifephotography",
     "periods": [
       "daily"
     ],
@@ -2386,7 +2337,7 @@
     "appearances": 1,
     "best_rank": 49,
     "coverage_score": 0.263157894737,
-    "name": "HalloweenDecor",
+    "name": "sidehustleIndia",
     "periods": [
       "daily"
     ],
@@ -2399,24 +2350,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 70,
-    "coverage_score": 0.289473684211,
-    "name": "SemContexto",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.135829959514,
-    "score": 0.181923076923,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 40,
     "coverage_score": 0.25,
-    "name": "antimeme",
+    "name": "Infographics",
     "periods": [
       "daily"
     ],
@@ -2431,7 +2367,7 @@
     "appearances": 1,
     "best_rank": 9,
     "coverage_score": 0.197368421053,
-    "name": "StreetwearRep",
+    "name": "90sraisedme",
     "periods": [
       "daily"
     ],
@@ -2444,24 +2380,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 71,
-    "coverage_score": 0.289473684211,
-    "name": "ARC_Raiders",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.134793089594,
-    "score": 0.181197267979,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.263157894737,
-    "name": "PhysicalMediaMatters",
+    "name": "TeslaFSD",
     "periods": [
       "daily"
     ],
@@ -2474,69 +2395,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 41,
-    "coverage_score": 0.25,
-    "name": "forhire",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.15099009901,
-    "score": 0.180693069307,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 51,
-    "coverage_score": 0.263157894737,
-    "name": "hardwarehacking",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.144618302513,
-    "score": 0.18018018018,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 73,
-    "coverage_score": 0.289473684211,
-    "name": "Over30Selfie",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.132766125841,
-    "score": 0.179778393352,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 42,
-    "coverage_score": 0.25,
-    "name": "GTA6",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.149509803922,
-    "score": 0.179656862745,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 10,
     "coverage_score": 0.197368421053,
-    "name": "HauntedHotel",
+    "name": "CelebsinSkirtsPics",
     "periods": [
       "daily"
     ],
@@ -2549,24 +2410,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 74,
-    "coverage_score": 0.289473684211,
-    "name": "oil",
+    "best_rank": 52,
+    "coverage_score": 0.263157894737,
+    "name": "test",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.131775333857,
-    "score": 0.179084838963,
+    "rank_score": 0.143327067669,
+    "score": 0.179276315789,
     "selected": true,
     "size_filters": [
-      "large"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.25,
-    "name": "DeepThoughts",
+    "name": "MobileLegendsGame",
     "periods": [
       "daily"
     ],
@@ -2579,39 +2440,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 75,
-    "coverage_score": 0.289473684211,
-    "name": "Autumn",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.130799220273,
-    "score": 0.178401559454,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 53,
-    "coverage_score": 0.263157894737,
-    "name": "BloodbornePC",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.142058686539,
-    "score": 0.178388448999,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 11,
     "coverage_score": 0.197368421053,
-    "name": "BollywoodJasoos",
+    "name": "AOCIsMami",
     "periods": [
       "daily"
     ],
@@ -2624,24 +2455,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 76,
-    "coverage_score": 0.289473684211,
-    "name": "EconomyCharts",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.1298374613,
-    "score": 0.177728328173,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 44,
     "coverage_score": 0.25,
-    "name": "Marriage",
+    "name": "learnmachinelearning",
     "periods": [
       "daily"
     ],
@@ -2654,24 +2470,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 77,
-    "coverage_score": 0.289473684211,
-    "name": "jobhunting",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.128889742605,
-    "score": 0.177064925086,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 45,
     "coverage_score": 0.25,
-    "name": "justgalsbeingchicks",
+    "name": "AskPhotography",
     "periods": [
       "daily"
     ],
@@ -2686,7 +2487,7 @@
     "appearances": 1,
     "best_rank": 55,
     "coverage_score": 0.263157894737,
-    "name": "songs",
+    "name": "AynThor",
     "periods": [
       "daily"
     ],
@@ -2701,7 +2502,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.289473684211,
-    "name": "FreeCash",
+    "name": "MCUTheories",
     "periods": [
       "daily"
     ],
@@ -2716,7 +2517,7 @@
     "appearances": 1,
     "best_rank": 12,
     "coverage_score": 0.197368421053,
-    "name": "SATNA_PROJECT",
+    "name": "GamesThatFeelLike",
     "periods": [
       "daily"
     ],
@@ -2729,24 +2530,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 56,
-    "coverage_score": 0.263157894737,
-    "name": "SciFiQueens",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.138384754991,
-    "score": 0.175816696915,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.289473684211,
-    "name": "jobsearch",
+    "name": "kitchenremodel",
     "periods": [
       "daily"
     ],
@@ -2761,7 +2547,7 @@
     "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.25,
-    "name": "BreakUps",
+    "name": "AskPH",
     "periods": [
       "daily"
     ],
@@ -2776,7 +2562,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.289473684211,
-    "name": "viagens",
+    "name": "ledgerwallet",
     "periods": [
       "daily"
     ],
@@ -2791,7 +2577,7 @@
     "appearances": 1,
     "best_rank": 57,
     "coverage_score": 0.263157894737,
-    "name": "oopbuy",
+    "name": "LahoreSocial",
     "periods": [
       "daily"
     ],
@@ -2806,7 +2592,7 @@
     "appearances": 1,
     "best_rank": 47,
     "coverage_score": 0.25,
-    "name": "PcBuild",
+    "name": "shortcuts",
     "periods": [
       "daily"
     ],
@@ -2821,7 +2607,7 @@
     "appearances": 1,
     "best_rank": 13,
     "coverage_score": 0.197368421053,
-    "name": "WeirdCareers",
+    "name": "GoldenAgeanimation",
     "periods": [
       "daily"
     ],
@@ -2836,7 +2622,7 @@
     "appearances": 1,
     "best_rank": 81,
     "coverage_score": 0.289473684211,
-    "name": "WholesomeAFK",
+    "name": "sssdfg",
     "periods": [
       "daily"
     ],
@@ -2849,24 +2635,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 58,
-    "coverage_score": 0.263157894737,
-    "name": "PakistaniTwenties",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.136039250669,
-    "score": 0.174174843889,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.289473684211,
-    "name": "Booktokreddit",
+    "name": "hauntedchocolatier",
     "periods": [
       "daily"
     ],
@@ -2881,7 +2652,7 @@
     "appearances": 1,
     "best_rank": 48,
     "coverage_score": 0.25,
-    "name": "Volumeeating",
+    "name": "OUTFITS",
     "periods": [
       "daily"
     ],
@@ -2894,9 +2665,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 59,
+    "coverage_score": 0.263157894737,
+    "name": "DecorReps",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.134896063689,
+    "score": 0.173374613003,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.289473684211,
-    "name": "NFCWestMemeWar",
+    "name": "ChineseWatches",
     "periods": [
       "daily"
     ],
@@ -2911,7 +2697,7 @@
     "appearances": 1,
     "best_rank": 14,
     "coverage_score": 0.197368421053,
-    "name": "90sraisedme",
+    "name": "TheWhyFilesUncensored",
     "periods": [
       "daily"
     ],
@@ -2926,7 +2712,7 @@
     "appearances": 1,
     "best_rank": 49,
     "coverage_score": 0.25,
-    "name": "remotework",
+    "name": "Netherlands",
     "periods": [
       "daily"
     ],
@@ -2941,7 +2727,7 @@
     "appearances": 1,
     "best_rank": 84,
     "coverage_score": 0.289473684211,
-    "name": "SideHustleGold",
+    "name": "SFWmonstergirls",
     "periods": [
       "daily"
     ],
@@ -2956,7 +2742,7 @@
     "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.263157894737,
-    "name": "scenery",
+    "name": "punemeetup",
     "periods": [
       "daily"
     ],
@@ -2971,7 +2757,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.289473684211,
-    "name": "PataHaiAajKyaHua",
+    "name": "VitaPiracy",
     "periods": [
       "daily"
     ],
@@ -2986,7 +2772,7 @@
     "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.25,
-    "name": "Awww",
+    "name": "FoundPaper",
     "periods": [
       "daily"
     ],
@@ -2999,9 +2785,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 61,
+    "coverage_score": 0.263157894737,
+    "name": "LaptopDealsIndia",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.132666376686,
+    "score": 0.171813832101,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 15,
     "coverage_score": 0.197368421053,
-    "name": "CelebsinSkirtsPics",
+    "name": "RepsSheet",
     "periods": [
       "daily"
     ],
@@ -3016,7 +2817,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.289473684211,
-    "name": "IndianArtAI",
+    "name": "teenagersbuthot",
     "periods": [
       "daily"
     ],
@@ -3031,7 +2832,7 @@
     "appearances": 1,
     "best_rank": 51,
     "coverage_score": 0.25,
-    "name": "ArtificialInteligence",
+    "name": "Denver",
     "periods": [
       "daily"
     ],
@@ -3044,24 +2845,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 62,
-    "coverage_score": 0.263157894737,
-    "name": "DawnwalkerOfficial",
+    "best_rank": 87,
+    "coverage_score": 0.289473684211,
+    "name": "riskofrain",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.131578947368,
-    "score": 0.171052631579,
+    "rank_score": 0.120121732904,
+    "score": 0.170927318296,
     "selected": true,
     "size_filters": [
-      "medium"
+      "large"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 88,
     "coverage_score": 0.289473684211,
-    "name": "megantheestallion",
+    "name": "vitahacks",
     "periods": [
       "daily"
     ],
@@ -3076,7 +2877,7 @@
     "appearances": 1,
     "best_rank": 52,
     "coverage_score": 0.25,
-    "name": "dashcamgifs",
+    "name": "Sourdough",
     "periods": [
       "daily"
     ],
@@ -3091,7 +2892,7 @@
     "appearances": 1,
     "best_rank": 63,
     "coverage_score": 0.263157894737,
-    "name": "KoreaGirls",
+    "name": "WeirdWebsites",
     "periods": [
       "daily"
     ],
@@ -3106,7 +2907,7 @@
     "appearances": 1,
     "best_rank": 16,
     "coverage_score": 0.197368421053,
-    "name": "AOCIsMami",
+    "name": "20sIndiaReal",
     "periods": [
       "daily"
     ],
@@ -3121,7 +2922,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.289473684211,
-    "name": "vibecoding",
+    "name": "airplanes",
     "periods": [
       "daily"
     ],
@@ -3136,7 +2937,7 @@
     "appearances": 1,
     "best_rank": 64,
     "coverage_score": 0.263157894737,
-    "name": "PokemonRestocks",
+    "name": "KeineDummenFragen",
     "periods": [
       "daily"
     ],
@@ -3151,7 +2952,7 @@
     "appearances": 1,
     "best_rank": 53,
     "coverage_score": 0.25,
-    "name": "Salary",
+    "name": "appletv",
     "periods": [
       "daily"
     ],
@@ -3166,7 +2967,7 @@
     "appearances": 1,
     "best_rank": 90,
     "coverage_score": 0.289473684211,
-    "name": "ruAsska",
+    "name": "gurgaon",
     "periods": [
       "daily"
     ],
@@ -3179,24 +2980,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 65,
-    "coverage_score": 0.263157894737,
-    "name": "WaitWhat",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.128421052632,
-    "score": 0.168842105263,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.289473684211,
-    "name": "beautyph",
+    "name": "VintageWatches",
     "periods": [
       "daily"
     ],
@@ -3211,7 +2997,7 @@
     "appearances": 1,
     "best_rank": 17,
     "coverage_score": 0.197368421053,
-    "name": "ClaudeGameDev",
+    "name": "BuildWithClaude",
     "periods": [
       "daily"
     ],
@@ -3226,7 +3012,7 @@
     "appearances": 1,
     "best_rank": 54,
     "coverage_score": 0.25,
-    "name": "homelab",
+    "name": "soccercirclejerk",
     "periods": [
       "daily"
     ],
@@ -3241,7 +3027,7 @@
     "appearances": 1,
     "best_rank": 92,
     "coverage_score": 0.289473684211,
-    "name": "fantasybooks",
+    "name": "litrpg",
     "periods": [
       "daily"
     ],
@@ -3254,9 +3040,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 66,
+    "coverage_score": 0.263157894737,
+    "name": "whowouldcirclejerk",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.127401837928,
+    "score": 0.168128654971,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 55,
     "coverage_score": 0.25,
-    "name": "DogAdvice",
+    "name": "Switch",
     "periods": [
       "daily"
     ],
@@ -3269,9 +3070,39 @@
   },
   {
     "appearances": 1,
+    "best_rank": 93,
+    "coverage_score": 0.289473684211,
+    "name": "castlevania",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.115411076711,
+    "score": 0.167629858961,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 67,
+    "coverage_score": 0.263157894737,
+    "name": "hottamilcelebs",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.12639867385,
+    "score": 0.167426440116,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 18,
     "coverage_score": 0.197368421053,
-    "name": "GamesThatFeelLike",
+    "name": "Aion2",
     "periods": [
       "daily"
     ],
@@ -3286,7 +3117,7 @@
     "appearances": 1,
     "best_rank": 94,
     "coverage_score": 0.289473684211,
-    "name": "conselhodecarreira",
+    "name": "InsideMollywood",
     "periods": [
       "daily"
     ],
@@ -3301,7 +3132,7 @@
     "appearances": 1,
     "best_rank": 56,
     "coverage_score": 0.25,
-    "name": "Apartmentliving",
+    "name": "Bogleheads",
     "periods": [
       "daily"
     ],
@@ -3314,24 +3145,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 95,
-    "coverage_score": 0.289473684211,
-    "name": "AmateurPhotography",
+    "best_rank": 68,
+    "coverage_score": 0.263157894737,
+    "name": "JetLagTheGame",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.113921901528,
-    "score": 0.166587436333,
+    "rank_score": 0.125411184211,
+    "score": 0.166735197368,
     "selected": true,
     "size_filters": [
-      "large"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 57,
     "coverage_score": 0.25,
-    "name": "Dreams",
+    "name": "Fire",
     "periods": [
       "daily"
     ],
@@ -3346,7 +3177,7 @@
     "appearances": 1,
     "best_rank": 96,
     "coverage_score": 0.289473684211,
-    "name": "FashionTeenIndia",
+    "name": "comfyui",
     "periods": [
       "daily"
     ],
@@ -3361,7 +3192,7 @@
     "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.263157894737,
-    "name": "Pretend2005Internet",
+    "name": "retrocomputing",
     "periods": [
       "daily"
     ],
@@ -3376,7 +3207,7 @@
     "appearances": 1,
     "best_rank": 19,
     "coverage_score": 0.197368421053,
-    "name": "cozinhabr",
+    "name": "KpopCharts",
     "periods": [
       "daily"
     ],
@@ -3389,9 +3220,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 97,
+    "coverage_score": 0.289473684211,
+    "name": "Flights",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.112470667114,
+    "score": 0.165571572243,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 58,
     "coverage_score": 0.25,
-    "name": "askphilosophy",
+    "name": "AskNYC",
     "periods": [
       "daily"
     ],
@@ -3404,24 +3250,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 70,
-    "coverage_score": 0.263157894737,
-    "name": "nostalgiai",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.123481781377,
-    "score": 0.165384615385,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 98,
     "coverage_score": 0.289473684211,
-    "name": "MakeMoneyHacks",
+    "name": "OkBuddyPersona",
     "periods": [
       "daily"
     ],
@@ -3436,7 +3267,7 @@
     "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.263157894737,
-    "name": "AnongThoughtsMo",
+    "name": "womensolocamping",
     "periods": [
       "daily"
     ],
@@ -3451,7 +3282,7 @@
     "appearances": 1,
     "best_rank": 59,
     "coverage_score": 0.25,
-    "name": "LiveFromNewYork",
+    "name": "sysadmin",
     "periods": [
       "daily"
     ],
@@ -3466,7 +3297,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.289473684211,
-    "name": "switch2",
+    "name": "LegaladviceGerman",
     "periods": [
       "daily"
     ],
@@ -3481,7 +3312,7 @@
     "appearances": 1,
     "best_rank": 20,
     "coverage_score": 0.197368421053,
-    "name": "GoldenAgeanimation",
+    "name": "CelebsInRed",
     "periods": [
       "daily"
     ],
@@ -3494,9 +3325,39 @@
   },
   {
     "appearances": 1,
+    "best_rank": 100,
+    "coverage_score": 0.289473684211,
+    "name": "stephenking",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.110361842105,
+    "score": 0.164095394737,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 72,
+    "coverage_score": 0.263157894737,
+    "name": "ytvretro",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.121610845295,
+    "score": 0.164074960128,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.25,
-    "name": "MacOS",
+    "name": "GiftIdeas",
     "periods": [
       "daily"
     ],
@@ -3511,7 +3372,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.289473684211,
-    "name": "ps4homebrew",
+    "name": "MonsterHigh",
     "periods": [
       "daily"
     ],
@@ -3524,24 +3385,54 @@
   },
   {
     "appearances": 1,
-    "best_rank": 21,
-    "coverage_score": 0.197368421053,
-    "name": "TheWhyFilesUncensored",
+    "best_rank": 73,
+    "coverage_score": 0.263157894737,
+    "name": "FortCollins",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.148635477583,
-    "score": 0.163255360624,
+    "rank_score": 0.120696478037,
+    "score": 0.163434903047,
     "selected": true,
     "size_filters": [
-      "medium-small"
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 61,
+    "coverage_score": 0.25,
+    "name": "VideoEditing",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.126033057851,
+    "score": 0.163223140496,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 102,
+    "coverage_score": 0.289473684211,
+    "name": "dumbphones",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.108999350227,
+    "score": 0.163141650422,
+    "selected": true,
+    "size_filters": [
+      "large"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.289473684211,
-    "name": "USNEWS",
+    "name": "funfacts",
     "periods": [
       "daily"
     ],
@@ -3556,7 +3447,7 @@
     "appearances": 1,
     "best_rank": 62,
     "coverage_score": 0.25,
-    "name": "duolingo",
+    "name": "fireemblem",
     "periods": [
       "daily"
     ],
@@ -3571,7 +3462,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.289473684211,
-    "name": "Retatrutide",
+    "name": "Dodgers",
     "periods": [
       "daily"
     ],
@@ -3584,9 +3475,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 75,
+    "coverage_score": 0.263157894737,
+    "name": "WholeFoodsPlantBased",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.118908382066,
+    "score": 0.162183235867,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 22,
     "coverage_score": 0.197368421053,
-    "name": "RepsSheet",
+    "name": "FuckAdobe",
     "periods": [
       "daily"
     ],
@@ -3599,9 +3505,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 63,
+    "coverage_score": 0.25,
+    "name": "CasualConversation",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.123983739837,
+    "score": 0.161788617886,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.289473684211,
-    "name": "AlignmentChartFills",
+    "name": "ShopeePH",
     "periods": [
       "daily"
     ],
@@ -3614,24 +3535,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 76,
-    "coverage_score": 0.263157894737,
-    "name": "AbsoluteUniverse",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.118034055728,
-    "score": 0.16157120743,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.289473684211,
-    "name": "Anthropic",
+    "name": "PassportPorn",
     "periods": [
       "daily"
     ],
@@ -3646,7 +3552,7 @@
     "appearances": 1,
     "best_rank": 64,
     "coverage_score": 0.25,
-    "name": "actuallesbians",
+    "name": "TrueFilm",
     "periods": [
       "daily"
     ],
@@ -3659,24 +3565,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 77,
-    "coverage_score": 0.263157894737,
-    "name": "EverythingFoxes",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.117172493277,
-    "score": 0.160968113715,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.289473684211,
-    "name": "classicliterature",
+    "name": "solarpunk",
     "periods": [
       "daily"
     ],
@@ -3691,7 +3582,7 @@
     "appearances": 1,
     "best_rank": 23,
     "coverage_score": 0.197368421053,
-    "name": "20sIndiaReal",
+    "name": "okaybuddybadabing",
     "periods": [
       "daily"
     ],
@@ -3706,7 +3597,7 @@
     "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.289473684211,
-    "name": "Cinephiles",
+    "name": "eink",
     "periods": [
       "daily"
     ],
@@ -3721,7 +3612,7 @@
     "appearances": 1,
     "best_rank": 65,
     "coverage_score": 0.25,
-    "name": "Supplements",
+    "name": "BMW",
     "periods": [
       "daily"
     ],
@@ -3736,7 +3627,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.263157894737,
-    "name": "IndustrialMaintenance",
+    "name": "DynastyFFTradeAdvice",
     "periods": [
       "daily"
     ],
@@ -3751,7 +3642,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.289473684211,
-    "name": "GrowthMindset",
+    "name": "mewgenics",
     "periods": [
       "daily"
     ],
@@ -3766,7 +3657,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.263157894737,
-    "name": "founder",
+    "name": "Skate4",
     "periods": [
       "daily"
     ],
@@ -3781,7 +3672,7 @@
     "appearances": 1,
     "best_rank": 66,
     "coverage_score": 0.25,
-    "name": "google",
+    "name": "zillowgonewild",
     "periods": [
       "daily"
     ],
@@ -3796,7 +3687,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.289473684211,
-    "name": "RealRepLadies",
+    "name": "davinciresolve",
     "periods": [
       "daily"
     ],
@@ -3811,7 +3702,7 @@
     "appearances": 1,
     "best_rank": 24,
     "coverage_score": 0.197368421053,
-    "name": "okbuddylash",
+    "name": "anime_randomSFW",
     "periods": [
       "daily"
     ],
@@ -3826,7 +3717,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.263157894737,
-    "name": "sparklyisacolor",
+    "name": "SexualiteFR",
     "periods": [
       "daily"
     ],
@@ -3841,7 +3732,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.289473684211,
-    "name": "UtterlyInteresting",
+    "name": "delta",
     "periods": [
       "daily"
     ],
@@ -3856,7 +3747,7 @@
     "appearances": 1,
     "best_rank": 67,
     "coverage_score": 0.25,
-    "name": "Funnymemes",
+    "name": "flying",
     "periods": [
       "daily"
     ],
@@ -3871,7 +3762,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.289473684211,
-    "name": "koreanskincare",
+    "name": "JapanTravelTips",
     "periods": [
       "daily"
     ],
@@ -3886,7 +3777,7 @@
     "appearances": 1,
     "best_rank": 68,
     "coverage_score": 0.25,
-    "name": "bisexual",
+    "name": "twinpeaks",
     "periods": [
       "daily"
     ],
@@ -3901,7 +3792,7 @@
     "appearances": 1,
     "best_rank": 25,
     "coverage_score": 0.197368421053,
-    "name": "WYFIOM",
+    "name": "ConversaFinanceira",
     "periods": [
       "daily"
     ],
@@ -3916,7 +3807,7 @@
     "appearances": 1,
     "best_rank": 113,
     "coverage_score": 0.289473684211,
-    "name": "guessthecity",
+    "name": "PlantIdentification",
     "periods": [
       "daily"
     ],
@@ -3929,24 +3820,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 82,
-    "coverage_score": 0.263157894737,
-    "name": "Multifandom",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.11304670126,
-    "score": 0.158080059303,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.289473684211,
-    "name": "SneakersIndia",
+    "name": "Soda",
     "periods": [
       "daily"
     ],
@@ -3961,7 +3837,7 @@
     "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.25,
-    "name": "ShitAmericansSay",
+    "name": "HousingUK",
     "periods": [
       "daily"
     ],
@@ -3976,7 +3852,7 @@
     "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.263157894737,
-    "name": "emulators",
+    "name": "DHgateVip",
     "periods": [
       "daily"
     ],
@@ -3989,39 +3865,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 115,
-    "coverage_score": 0.289473684211,
-    "name": "DeepSeek",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.100902255639,
-    "score": 0.157473684211,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 26,
-    "coverage_score": 0.197368421053,
-    "name": "BuildWithClaude",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.139993880049,
-    "score": 0.15720624235,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 70,
     "coverage_score": 0.25,
-    "name": "teenagers",
+    "name": "witcher",
     "periods": [
       "daily"
     ],
@@ -4034,24 +3880,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 116,
-    "coverage_score": 0.289473684211,
-    "name": "y2kaesthetic",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.100328947368,
-    "score": 0.157072368421,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 84,
     "coverage_score": 0.263157894737,
-    "name": "VintageToys",
+    "name": "deadmeatjames",
     "periods": [
       "daily"
     ],
@@ -4066,7 +3897,7 @@
     "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.289473684211,
-    "name": "digitalminimalism",
+    "name": "LobotomyKaisen",
     "periods": [
       "daily"
     ],
@@ -4081,7 +3912,7 @@
     "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.25,
-    "name": "kindle",
+    "name": "Dallas",
     "periods": [
       "daily"
     ],
@@ -4096,7 +3927,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.263157894737,
-    "name": "icast",
+    "name": "GothamChess",
     "periods": [
       "daily"
     ],
@@ -4111,7 +3942,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.289473684211,
-    "name": "decadeology",
+    "name": "CharteredAccountants",
     "periods": [
       "daily"
     ],
@@ -4126,7 +3957,7 @@
     "appearances": 1,
     "best_rank": 27,
     "coverage_score": 0.197368421053,
-    "name": "Aion2",
+    "name": "publicdomain",
     "periods": [
       "daily"
     ],
@@ -4139,24 +3970,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 86,
-    "coverage_score": 0.263157894737,
-    "name": "SpaceUnfiltered",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.109949531363,
-    "score": 0.155912040375,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.289473684211,
-    "name": "aiwars",
+    "name": "linuxmemes",
     "periods": [
       "daily"
     ],
@@ -4171,7 +3987,7 @@
     "appearances": 1,
     "best_rank": 72,
     "coverage_score": 0.25,
-    "name": "NewTubers",
+    "name": "gaybros",
     "periods": [
       "daily"
     ],
@@ -4186,7 +4002,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.289473684211,
-    "name": "PythonLearning",
+    "name": "DoneDirtCheap",
     "periods": [
       "daily"
     ],
@@ -4201,7 +4017,7 @@
     "appearances": 1,
     "best_rank": 87,
     "coverage_score": 0.263157894737,
-    "name": "QueroAchar",
+    "name": "XiaomiGlobal",
     "periods": [
       "daily"
     ],
@@ -4216,7 +4032,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.25,
-    "name": "ValueInvesting",
+    "name": "Baking",
     "periods": [
       "daily"
     ],
@@ -4231,7 +4047,7 @@
     "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.289473684211,
-    "name": "Lost_Architecture",
+    "name": "InternetBrasil",
     "periods": [
       "daily"
     ],
@@ -4246,7 +4062,7 @@
     "appearances": 1,
     "best_rank": 28,
     "coverage_score": 0.197368421053,
-    "name": "KpopCharts",
+    "name": "YesOrNoAnswers",
     "periods": [
       "daily"
     ],
@@ -4259,9 +4075,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 88,
+    "coverage_score": 0.263157894737,
+    "name": "insanefbmarketplace",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.108463726885,
+    "score": 0.15487197724,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 122,
     "coverage_score": 0.289473684211,
-    "name": "vinted",
+    "name": "HomeKit",
     "periods": [
       "daily"
     ],
@@ -4276,7 +4107,7 @@
     "appearances": 1,
     "best_rank": 74,
     "coverage_score": 0.25,
-    "name": "funnyIndia",
+    "name": "Instagram",
     "periods": [
       "daily"
     ],
@@ -4291,7 +4122,7 @@
     "appearances": 1,
     "best_rank": 123,
     "coverage_score": 0.289473684211,
-    "name": "Stocks_Picks",
+    "name": "AtinAtinLang",
     "periods": [
       "daily"
     ],
@@ -4306,7 +4137,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.263157894737,
-    "name": "EmulationOniOS",
+    "name": "southernfood",
     "periods": [
       "daily"
     ],
@@ -4321,7 +4152,7 @@
     "appearances": 1,
     "best_rank": 75,
     "coverage_score": 0.25,
-    "name": "cybersecurity",
+    "name": "mycology",
     "periods": [
       "daily"
     ],
@@ -4336,7 +4167,7 @@
     "appearances": 1,
     "best_rank": 124,
     "coverage_score": 0.289473684211,
-    "name": "dailydoseofaww",
+    "name": "laptops",
     "periods": [
       "daily"
     ],
@@ -4351,7 +4182,7 @@
     "appearances": 1,
     "best_rank": 29,
     "coverage_score": 0.197368421053,
-    "name": "CelebsInRed",
+    "name": "nsfw_Vertical_AI",
     "periods": [
       "daily"
     ],
@@ -4366,7 +4197,7 @@
     "appearances": 1,
     "best_rank": 90,
     "coverage_score": 0.263157894737,
-    "name": "EmmaWatsonMythology",
+    "name": "BornWeakBuiltStrong",
     "periods": [
       "daily"
     ],
@@ -4379,9 +4210,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 125,
+    "coverage_score": 0.289473684211,
+    "name": "fastfood",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.095448079659,
+    "score": 0.153655761024,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 76,
     "coverage_score": 0.25,
-    "name": "whatcarshouldIbuy",
+    "name": "PERSoNA",
     "periods": [
       "daily"
     ],
@@ -4396,7 +4242,7 @@
     "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.263157894737,
-    "name": "abandonware",
+    "name": "LeetcodeDesi",
     "periods": [
       "daily"
     ],
@@ -4411,7 +4257,7 @@
     "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.289473684211,
-    "name": "MakeupLounge",
+    "name": "DesiFragranceAddicts",
     "periods": [
       "daily"
     ],
@@ -4426,7 +4272,7 @@
     "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.289473684211,
-    "name": "micro_saas",
+    "name": "rep",
     "periods": [
       "daily"
     ],
@@ -4441,7 +4287,7 @@
     "appearances": 1,
     "best_rank": 77,
     "coverage_score": 0.25,
-    "name": "buhaydigital",
+    "name": "functionalprint",
     "periods": [
       "daily"
     ],
@@ -4454,9 +4300,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 92,
+    "coverage_score": 0.263157894737,
+    "name": "Oppo",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.105609418283,
+    "score": 0.152873961219,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 30,
     "coverage_score": 0.197368421053,
-    "name": "WeirdSideProjects",
+    "name": "UFOLOGIA",
     "periods": [
       "daily"
     ],
@@ -4471,7 +4332,7 @@
     "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.289473684211,
-    "name": "JustMyFace",
+    "name": "Jigsawpuzzles",
     "periods": [
       "daily"
     ],
@@ -4486,7 +4347,7 @@
     "appearances": 1,
     "best_rank": 93,
     "coverage_score": 0.263157894737,
-    "name": "BestAliExpressFinds",
+    "name": "OlympicNationalPark",
     "periods": [
       "daily"
     ],
@@ -4501,7 +4362,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.25,
-    "name": "Adulting",
+    "name": "adultingph",
     "periods": [
       "daily"
     ],
@@ -4516,7 +4377,7 @@
     "appearances": 1,
     "best_rank": 129,
     "coverage_score": 0.289473684211,
-    "name": "earthisawesome",
+    "name": "FigureSkating",
     "periods": [
       "daily"
     ],
@@ -4531,7 +4392,7 @@
     "appearances": 1,
     "best_rank": 94,
     "coverage_score": 0.263157894737,
-    "name": "AskForAnswers",
+    "name": "dahlias",
     "periods": [
       "daily"
     ],
@@ -4546,7 +4407,7 @@
     "appearances": 1,
     "best_rank": 130,
     "coverage_score": 0.289473684211,
-    "name": "whatsapp",
+    "name": "LordofTheMysteries",
     "periods": [
       "daily"
     ],
@@ -4561,7 +4422,7 @@
     "appearances": 1,
     "best_rank": 31,
     "coverage_score": 0.197368421053,
-    "name": "SecretFWB",
+    "name": "UGC_forhire",
     "periods": [
       "daily"
     ],
@@ -4576,7 +4437,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.25,
-    "name": "RDR2",
+    "name": "florida",
     "periods": [
       "daily"
     ],
@@ -4591,7 +4452,7 @@
     "appearances": 1,
     "best_rank": 131,
     "coverage_score": 0.289473684211,
-    "name": "FaltooGyan",
+    "name": "funnycats",
     "periods": [
       "daily"
     ],
@@ -4604,9 +4465,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 95,
+    "coverage_score": 0.263157894737,
+    "name": "BelowDeckMed",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.103565365025,
+    "score": 0.151443123939,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.25,
-    "name": "selfie",
+    "name": "lotr",
     "periods": [
       "daily"
     ],
@@ -4619,39 +4495,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 132,
-    "coverage_score": 0.289473684211,
-    "name": "AlexandriaEgy",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.091968201754,
-    "score": 0.151219846491,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 96,
-    "coverage_score": 0.263157894737,
-    "name": "SaasDevelopers",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.10290148448,
-    "score": 0.150978407557,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.289473684211,
-    "name": "SnacksIndia",
+    "name": "hikinggear",
     "periods": [
       "daily"
     ],
@@ -4666,7 +4512,7 @@
     "appearances": 1,
     "best_rank": 32,
     "coverage_score": 0.197368421053,
-    "name": "FuckAdobe",
+    "name": "JaneDoeZZZ",
     "periods": [
       "daily"
     ],
@@ -4679,24 +4525,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 81,
-    "coverage_score": 0.25,
-    "name": "GuysBeingDudes",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.108156028369,
-    "score": 0.150709219858,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.289473684211,
-    "name": "estudosBR",
+    "name": "ANBERNIC",
     "periods": [
       "daily"
     ],
@@ -4709,24 +4540,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 97,
-    "coverage_score": 0.263157894737,
-    "name": "romanempire",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.102246061012,
-    "score": 0.15051961113,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.289473684211,
-    "name": "SUBREDDITNAME",
+    "name": "lovememes",
     "periods": [
       "daily"
     ],
@@ -4739,39 +4555,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 82,
-    "coverage_score": 0.25,
-    "name": "Roms",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.107394366197,
-    "score": 0.150176056338,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 98,
-    "coverage_score": 0.263157894737,
-    "name": "writingscaling",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.101598934044,
-    "score": 0.150066622252,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.289473684211,
-    "name": "femalefashion",
+    "name": "latebloomerlesbians",
     "periods": [
       "daily"
     ],
@@ -4786,7 +4572,7 @@
     "appearances": 1,
     "best_rank": 33,
     "coverage_score": 0.197368421053,
-    "name": "okaybuddybadabing",
+    "name": "RepNewFinds",
     "periods": [
       "daily"
     ],
@@ -4799,24 +4585,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 83,
-    "coverage_score": 0.25,
-    "name": "wildlifephotography",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.106643356643,
-    "score": 0.14965034965,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.263157894737,
-    "name": "MonclerRep",
+    "name": "RegalUnlimited",
     "periods": [
       "daily"
     ],
@@ -4831,7 +4602,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.289473684211,
-    "name": "youtubeindia",
+    "name": "salesforce",
     "periods": [
       "daily"
     ],
@@ -4844,39 +4615,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 138,
-    "coverage_score": 0.289473684211,
-    "name": "freelancing",
+    "best_rank": 100,
+    "coverage_score": 0.263157894737,
+    "name": "quantfinance",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.08918128655,
-    "score": 0.149269005848,
+    "rank_score": 0.100328947368,
+    "score": 0.149177631579,
     "selected": true,
     "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 84,
-    "coverage_score": 0.25,
-    "name": "tarot",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.105902777778,
-    "score": 0.149131944444,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 139,
     "coverage_score": 0.289473684211,
-    "name": "fashionreps2",
+    "name": "LesbianActually",
     "periods": [
       "daily"
     ],
@@ -4891,7 +4647,7 @@
     "appearances": 1,
     "best_rank": 34,
     "coverage_score": 0.197368421053,
-    "name": "ThroughTheVeil",
+    "name": "MogScaling",
     "periods": [
       "daily"
     ],
@@ -4906,7 +4662,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.263157894737,
-    "name": "Retirement401k",
+    "name": "FirstTimeKo",
     "periods": [
       "daily"
     ],
@@ -4921,7 +4677,7 @@
     "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.289473684211,
-    "name": "FriendshipAdvice",
+    "name": "GenshinImpact",
     "periods": [
       "daily"
     ],
@@ -4934,24 +4690,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 85,
-    "coverage_score": 0.25,
-    "name": "ChatGPTPro",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.105172413793,
-    "score": 0.148620689655,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.289473684211,
-    "name": "TeenGarbagePile",
+    "name": "Menopause",
     "periods": [
       "daily"
     ],
@@ -4966,7 +4707,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.263157894737,
-    "name": "HowEarnMoneyOnline",
+    "name": "3dsqrcodes",
     "periods": [
       "daily"
     ],
@@ -4979,24 +4720,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 86,
-    "coverage_score": 0.25,
-    "name": "Infographics",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.104452054795,
-    "score": 0.148116438356,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.289473684211,
-    "name": "thrillerbooks",
+    "name": "explainitpeter",
     "periods": [
       "daily"
     ],
@@ -5011,7 +4737,7 @@
     "appearances": 1,
     "best_rank": 35,
     "coverage_score": 0.197368421053,
-    "name": "anime_randomSFW",
+    "name": "astrology_guidance",
     "periods": [
       "daily"
     ],
@@ -5026,7 +4752,7 @@
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.263157894737,
-    "name": "WhatsThisSong",
+    "name": "sennheiser",
     "periods": [
       "daily"
     ],
@@ -5041,7 +4767,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.289473684211,
-    "name": "CosplayHelp",
+    "name": "10s",
     "periods": [
       "daily"
     ],
@@ -5056,7 +4782,7 @@
     "appearances": 1,
     "best_rank": 87,
     "coverage_score": 0.25,
-    "name": "Justfuckmyshitup",
+    "name": "Plumbing",
     "periods": [
       "daily"
     ],
@@ -5069,9 +4795,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 104,
+    "coverage_score": 0.263157894737,
+    "name": "stockholmreps",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.097881899872,
+    "score": 0.147464698331,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.289473684211,
-    "name": "ElectroBOOM",
+    "name": "KasaneTeto",
     "periods": [
       "daily"
     ],
@@ -5086,7 +4827,7 @@
     "appearances": 1,
     "best_rank": 145,
     "coverage_score": 0.289473684211,
-    "name": "batty",
+    "name": "Indiangirlsontinder",
     "periods": [
       "daily"
     ],
@@ -5099,24 +4840,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 88,
-    "coverage_score": 0.25,
-    "name": "Jujutsufolk",
+    "best_rank": 105,
+    "coverage_score": 0.263157894737,
+    "name": "pie",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.103040540541,
-    "score": 0.147128378378,
+    "rank_score": 0.097288676236,
+    "score": 0.147049441786,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 36,
     "coverage_score": 0.197368421053,
-    "name": "ps5homebrew",
+    "name": "otouto",
     "periods": [
       "daily"
     ],
@@ -5131,7 +4872,7 @@
     "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.289473684211,
-    "name": "GoogleEarthFinds",
+    "name": "WatchesCirclejerk",
     "periods": [
       "daily"
     ],
@@ -5144,24 +4885,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 89,
-    "coverage_score": 0.25,
-    "name": "MobileLegendsGame",
+    "best_rank": 106,
+    "coverage_score": 0.263157894737,
+    "name": "rocketry",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.102348993289,
-    "score": 0.146644295302,
+    "rank_score": 0.096702599873,
+    "score": 0.146639188332,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.289473684211,
-    "name": "teenagers4real",
+    "name": "Japaneselanguage",
     "periods": [
       "daily"
     ],
@@ -5176,7 +4917,7 @@
     "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.289473684211,
-    "name": "PetPeeves",
+    "name": "linkedin",
     "periods": [
       "daily"
     ],
@@ -5191,7 +4932,7 @@
     "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.263157894737,
-    "name": "LitBuy_Community",
+    "name": "signs",
     "periods": [
       "daily"
     ],
@@ -5204,24 +4945,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 90,
-    "coverage_score": 0.25,
-    "name": "Vent",
+    "best_rank": 37,
+    "coverage_score": 0.197368421053,
+    "name": "ErisGreyrat",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.101666666667,
-    "score": 0.146166666667,
+    "rank_score": 0.124118285404,
+    "score": 0.146093326099,
     "selected": true,
     "size_filters": [
-      "xlarge"
+      "medium-small"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.289473684211,
-    "name": "BookshelvesDetective",
+    "name": "Appliances",
     "periods": [
       "daily"
     ],
@@ -5234,39 +4975,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 150,
-    "coverage_score": 0.289473684211,
-    "name": "hewillbebaked",
+    "best_rank": 108,
+    "coverage_score": 0.263157894737,
+    "name": "VAClaims",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.084085213033,
-    "score": 0.145701754386,
+    "rank_score": 0.095551378446,
+    "score": 0.145833333333,
     "selected": true,
     "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 91,
-    "coverage_score": 0.25,
-    "name": "learnmachinelearning",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.100993377483,
-    "score": 0.145695364238,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
+      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.263157894737,
-    "name": "CatReacts",
+    "name": "WutheringWavesGuide",
     "periods": [
       "daily"
     ],
@@ -5281,7 +5007,7 @@
     "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.289473684211,
-    "name": "TheMatpatEffect",
+    "name": "mechanicalpencils",
     "periods": [
       "daily"
     ],
@@ -5294,24 +5020,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 92,
-    "coverage_score": 0.25,
-    "name": "ChatGPTPromptGenius",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.100328947368,
-    "score": 0.145230263158,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 38,
     "coverage_score": 0.197368421053,
-    "name": "ConversaFinanceira",
+    "name": "30PlusKoreanSkincare",
     "periods": [
       "daily"
     ],
@@ -5326,7 +5037,7 @@
     "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.289473684211,
-    "name": "DCU_",
+    "name": "askTO",
     "periods": [
       "daily"
     ],
@@ -5341,7 +5052,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.263157894737,
-    "name": "TheMentalist",
+    "name": "Egypt_Developers",
     "periods": [
       "daily"
     ],
@@ -5356,7 +5067,7 @@
     "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.289473684211,
-    "name": "makeuptips",
+    "name": "RepWatch",
     "periods": [
       "daily"
     ],
@@ -5369,24 +5080,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 93,
-    "coverage_score": 0.25,
-    "name": "ididnthaveeggs",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.099673202614,
-    "score": 0.14477124183,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.289473684211,
-    "name": "weirdgirlliterature",
+    "name": "HotWheels",
     "periods": [
       "daily"
     ],
@@ -5399,9 +5095,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 39,
+    "coverage_score": 0.197368421053,
+    "name": "KnightsOfGuinevere",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.121610845295,
+    "score": 0.144338118022,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.289473684211,
-    "name": "KollyGossips",
+    "name": "allthemods",
     "periods": [
       "daily"
     ],
@@ -5414,24 +5125,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 94,
-    "coverage_score": 0.25,
-    "name": "attackontitan",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.099025974026,
-    "score": 0.144318181818,
-    "selected": true,
-    "size_filters": [
-      "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.263157894737,
-    "name": "sopranoscirclejerk",
+    "name": "DentistPh",
     "periods": [
       "daily"
     ],
@@ -5444,24 +5140,24 @@
   },
   {
     "appearances": 1,
-    "best_rank": 113,
-    "coverage_score": 0.263157894737,
-    "name": "SSCCGL",
+    "best_rank": 156,
+    "coverage_score": 0.289473684211,
+    "name": "zoloft",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.092789777913,
-    "score": 0.14390021296,
+    "rank_score": 0.081749512671,
+    "score": 0.144066764133,
     "selected": true,
     "size_filters": [
-      "medium"
+      "large"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 95,
     "coverage_score": 0.25,
-    "name": "AskPhotography",
+    "name": "StudentLoans",
     "periods": [
       "daily"
     ],
@@ -5476,7 +5172,7 @@
     "appearances": 1,
     "best_rank": 157,
     "coverage_score": 0.289473684211,
-    "name": "IndianBoysOnTinder",
+    "name": "TradingView",
     "periods": [
       "daily"
     ],
@@ -5489,24 +5185,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 158,
-    "coverage_score": 0.289473684211,
-    "name": "HorrorGaming",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.080999517141,
-    "score": 0.143541767262,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.263157894737,
-    "name": "ImaginaryPathways",
+    "name": "espressocirclejerk",
     "periods": [
       "daily"
     ],
@@ -5521,7 +5202,7 @@
     "appearances": 1,
     "best_rank": 40,
     "coverage_score": 0.197368421053,
-    "name": "Real_Mal0s_Own_Sub",
+    "name": "UGCSideHustle",
     "periods": [
       "daily"
     ],
@@ -5536,7 +5217,7 @@
     "appearances": 1,
     "best_rank": 96,
     "coverage_score": 0.25,
-    "name": "comedy",
+    "name": "sanfrancisco",
     "periods": [
       "daily"
     ],
@@ -5551,7 +5232,7 @@
     "appearances": 1,
     "best_rank": 159,
     "coverage_score": 0.289473684211,
-    "name": "CryptoExchange",
+    "name": "bathandbodyworks",
     "periods": [
       "daily"
     ],
@@ -5566,7 +5247,7 @@
     "appearances": 1,
     "best_rank": 115,
     "coverage_score": 0.263157894737,
-    "name": "RemoteWorkers",
+    "name": "jobshungary",
     "periods": [
       "daily"
     ],
@@ -5581,7 +5262,7 @@
     "appearances": 1,
     "best_rank": 160,
     "coverage_score": 0.289473684211,
-    "name": "ModSupport",
+    "name": "podcasting",
     "periods": [
       "daily"
     ],
@@ -5596,7 +5277,7 @@
     "appearances": 1,
     "best_rank": 97,
     "coverage_score": 0.25,
-    "name": "CarsIndia",
+    "name": "destiny2",
     "periods": [
       "daily"
     ],
@@ -5609,24 +5290,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 116,
-    "coverage_score": 0.263157894737,
-    "name": "catfruit",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.091208133971,
-    "score": 0.142793062201,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.289473684211,
-    "name": "underratedmovies",
+    "name": "Barca",
     "periods": [
       "daily"
     ],
@@ -5641,7 +5307,7 @@
     "appearances": 1,
     "best_rank": 98,
     "coverage_score": 0.25,
-    "name": "JustGuysBeingDudes",
+    "name": "AppleWatch",
     "periods": [
       "daily"
     ],
@@ -5656,7 +5322,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.289473684211,
-    "name": "FirstTimeKo",
+    "name": "ExtremeHorrorLit",
     "periods": [
       "daily"
     ],
@@ -5671,7 +5337,7 @@
     "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.263157894737,
-    "name": "HorrorGames",
+    "name": "cheesecake",
     "periods": [
       "daily"
     ],
@@ -5686,7 +5352,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.289473684211,
-    "name": "OnceHumanOfficial",
+    "name": "Amtrak",
     "periods": [
       "daily"
     ],
@@ -5701,7 +5367,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.25,
-    "name": "IndianFashionAddicts",
+    "name": "Accounting",
     "periods": [
       "daily"
     ],
@@ -5716,7 +5382,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.289473684211,
-    "name": "RantAndVentPH",
+    "name": "PNWhiking",
     "periods": [
       "daily"
     ],
@@ -5729,24 +5395,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 42,
-    "coverage_score": 0.197368421053,
-    "name": "publicdomain",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.118034055728,
-    "score": 0.141834365325,
-    "selected": true,
-    "size_filters": [
-      "medium-small"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.289473684211,
-    "name": "WhatShouldIDo",
+    "name": "SwitchPirates",
     "periods": [
       "daily"
     ],
@@ -5759,24 +5410,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 119,
-    "coverage_score": 0.263157894737,
-    "name": "HalloweenQueens",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.089679506028,
-    "score": 0.14172302264,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.25,
-    "name": "AskPH",
+    "name": "indonesia",
     "periods": [
       "daily"
     ],
@@ -5791,7 +5427,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.289473684211,
-    "name": "laundry",
+    "name": "PedroPeepos",
     "periods": [
       "daily"
     ],
@@ -5806,7 +5442,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.263157894737,
-    "name": "GoodValue",
+    "name": "androidroot",
     "periods": [
       "daily"
     ],
@@ -5821,7 +5457,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.25,
-    "name": "ios",
+    "name": "GodofWar",
     "periods": [
       "daily"
     ],
@@ -5834,9 +5470,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 167,
+    "coverage_score": 0.289473684211,
+    "name": "publix",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.077788082541,
+    "score": 0.141293763042,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 168,
     "coverage_score": 0.289473684211,
-    "name": "70s",
+    "name": "Gold",
     "periods": [
       "daily"
     ],
@@ -5851,7 +5502,7 @@
     "appearances": 1,
     "best_rank": 43,
     "coverage_score": 0.197368421053,
-    "name": "YesOrNoAnswers",
+    "name": "wordgrind",
     "periods": [
       "daily"
     ],
@@ -5866,7 +5517,7 @@
     "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.263157894737,
-    "name": "cssbuy",
+    "name": "circlejerknyc",
     "periods": [
       "daily"
     ],
@@ -5881,7 +5532,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.25,
-    "name": "shortcuts",
+    "name": "WaltDisneyWorld",
     "periods": [
       "daily"
     ],
@@ -5896,7 +5547,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.289473684211,
-    "name": "healthycuisine",
+    "name": "VindictaRateCelebs",
     "periods": [
       "daily"
     ],
@@ -5911,7 +5562,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.289473684211,
-    "name": "AIO",
+    "name": "30ROCK",
     "periods": [
       "daily"
     ],
@@ -5926,7 +5577,7 @@
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.25,
-    "name": "DeadBedrooms",
+    "name": "Breadit",
     "periods": [
       "daily"
     ],
@@ -5939,39 +5590,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 123,
-    "coverage_score": 0.263157894737,
-    "name": "StardewValleyBR",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.087719298246,
-    "score": 0.140350877193,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 171,
-    "coverage_score": 0.289473684211,
-    "name": "kdramas",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.076441102757,
-    "score": 0.140350877193,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 44,
     "coverage_score": 0.197368421053,
-    "name": "nsfw_Vertical_AI",
+    "name": "CrushesSayAboutMe",
     "periods": [
       "daily"
     ],
@@ -5986,7 +5607,7 @@
     "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.289473684211,
-    "name": "HairRemoval",
+    "name": "synthesizers",
     "periods": [
       "daily"
     ],
@@ -6001,7 +5622,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.25,
-    "name": "OUTFITS",
+    "name": "booksuggestions",
     "periods": [
       "daily"
     ],
@@ -6014,9 +5635,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 124,
+    "coverage_score": 0.263157894737,
+    "name": "ElectronicsRepair",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.087242562929,
+    "score": 0.140017162471,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.289473684211,
-    "name": "AskIndianMen",
+    "name": "penpals",
     "periods": [
       "daily"
     ],
@@ -6031,7 +5667,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.25,
-    "name": "funnyvideos",
+    "name": "CarTalkUK",
     "periods": [
       "daily"
     ],
@@ -6044,24 +5680,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 125,
-    "coverage_score": 0.263157894737,
-    "name": "TastyFood",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.086770981508,
-    "score": 0.139687055477,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.289473684211,
-    "name": "LowStakesConspiracies",
+    "name": "manufacturing",
     "periods": [
       "daily"
     ],
@@ -6076,7 +5697,7 @@
     "appearances": 1,
     "best_rank": 45,
     "coverage_score": 0.197368421053,
-    "name": "UFOLOGIA",
+    "name": "RetroJapanPopCulture",
     "periods": [
       "daily"
     ],
@@ -6091,7 +5712,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.289473684211,
-    "name": "KafkaFPS",
+    "name": "fursuit",
     "periods": [
       "daily"
     ],
@@ -6106,7 +5727,7 @@
     "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.263157894737,
-    "name": "UnnecessaryEssentials",
+    "name": "SimpsonsMemes",
     "periods": [
       "daily"
     ],
@@ -6121,7 +5742,7 @@
     "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.25,
-    "name": "Netherlands",
+    "name": "GYM",
     "periods": [
       "daily"
     ],
@@ -6134,24 +5755,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 176,
-    "coverage_score": 0.289473684211,
-    "name": "japannews",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.074821587868,
-    "score": 0.139217216771,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.289473684211,
-    "name": "SolanaMemeCoins",
+    "name": "Columbus",
     "periods": [
       "daily"
     ],
@@ -6166,7 +5772,7 @@
     "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.25,
-    "name": "traderjoes",
+    "name": "legaladvice",
     "periods": [
       "daily"
     ],
@@ -6181,7 +5787,7 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.289473684211,
-    "name": "FIlm",
+    "name": "aberBitteLaminiert",
     "periods": [
       "daily"
     ],
@@ -6194,24 +5800,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 128,
-    "coverage_score": 0.263157894737,
-    "name": "F1Discussions",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.085386338186,
-    "score": 0.138717805151,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 46,
     "coverage_score": 0.197368421053,
-    "name": "UGC_forhire",
+    "name": "30PlusFitness",
     "periods": [
       "daily"
     ],
@@ -6226,7 +5817,7 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.289473684211,
-    "name": "SillyTavernAI",
+    "name": "vintageaudio",
     "periods": [
       "daily"
     ],
@@ -6241,7 +5832,7 @@
     "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.25,
-    "name": "findareddit",
+    "name": "marketing",
     "periods": [
       "daily"
     ],
@@ -6254,9 +5845,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 129,
+    "coverage_score": 0.263157894737,
+    "name": "ugly",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.084934558619,
+    "score": 0.138401559454,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.289473684211,
-    "name": "LandscapePhotography",
+    "name": "vegaslocals",
     "periods": [
       "daily"
     ],
@@ -6271,7 +5877,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.25,
-    "name": "HolyShitHistory",
+    "name": "computers",
     "periods": [
       "daily"
     ],
@@ -6286,7 +5892,7 @@
     "appearances": 1,
     "best_rank": 181,
     "coverage_score": 0.289473684211,
-    "name": "indianstartups",
+    "name": "PokemonGoTrade",
     "periods": [
       "daily"
     ],
@@ -6299,24 +5905,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 130,
-    "coverage_score": 0.263157894737,
-    "name": "google_antigravity",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.084487534626,
-    "score": 0.138088642659,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 47,
     "coverage_score": 0.197368421053,
-    "name": "JaneDoeZZZ",
+    "name": "sobrenaturalBR",
     "periods": [
       "daily"
     ],
@@ -6331,7 +5922,7 @@
     "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.289473684211,
-    "name": "UpvoteBecauseButt",
+    "name": "appliancerepair",
     "periods": [
       "daily"
     ],
@@ -6346,7 +5937,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.25,
-    "name": "FoundPaper",
+    "name": "Warthunder",
     "periods": [
       "daily"
     ],
@@ -6361,7 +5952,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.289473684211,
-    "name": "AgentsOfAI",
+    "name": "GiftofGames",
     "periods": [
       "daily"
     ],
@@ -6376,7 +5967,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.289473684211,
-    "name": "Perimenopause",
+    "name": "ghana",
     "periods": [
       "daily"
     ],
@@ -6389,24 +5980,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 132,
-    "coverage_score": 0.263157894737,
-    "name": "ImaginaryAngels",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.08360745614,
-    "score": 0.137472587719,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.25,
-    "name": "SEO",
+    "name": "thesims",
     "periods": [
       "daily"
     ],
@@ -6419,9 +5995,54 @@
   },
   {
     "appearances": 1,
+    "best_rank": 185,
+    "coverage_score": 0.289473684211,
+    "name": "nationalparks",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.072073039742,
+    "score": 0.137293233083,
+    "selected": true,
+    "size_filters": [
+      "large"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 48,
+    "coverage_score": 0.197368421053,
+    "name": "ScienceBasedLifting",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.111476608187,
+    "score": 0.137244152047,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 133,
+    "coverage_score": 0.263157894737,
+    "name": "WCW",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.083174256886,
+    "score": 0.137169348241,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.289473684211,
-    "name": "Forexstrategy",
+    "name": "legocirclejerk",
     "periods": [
       "daily"
     ],
@@ -6436,7 +6057,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.25,
-    "name": "AbsoluteUnits",
+    "name": "DCcomics",
     "periods": [
       "daily"
     ],
@@ -6451,7 +6072,7 @@
     "appearances": 1,
     "best_rank": 187,
     "coverage_score": 0.289473684211,
-    "name": "LetGirlsHaveFun",
+    "name": "PokemonHome",
     "periods": [
       "daily"
     ],
@@ -6466,7 +6087,7 @@
     "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.263157894737,
-    "name": "ai_trading",
+    "name": "FenceBuilding",
     "periods": [
       "daily"
     ],
@@ -6481,7 +6102,7 @@
     "appearances": 1,
     "best_rank": 113,
     "coverage_score": 0.25,
-    "name": "animalsdoingstuff",
+    "name": "computerscience",
     "periods": [
       "daily"
     ],
@@ -6496,7 +6117,7 @@
     "appearances": 1,
     "best_rank": 188,
     "coverage_score": 0.289473684211,
-    "name": "isthisAI",
+    "name": "CarsPH",
     "periods": [
       "daily"
     ],
@@ -6509,9 +6130,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 135,
+    "coverage_score": 0.263157894737,
+    "name": "Thrift",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.082321187584,
+    "score": 0.13657219973,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 49,
     "coverage_score": 0.197368421053,
-    "name": "MessageMe",
+    "name": "WeirdStudyTips",
     "periods": [
       "daily"
     ],
@@ -6526,7 +6162,7 @@
     "appearances": 1,
     "best_rank": 189,
     "coverage_score": 0.289473684211,
-    "name": "DressForYourBody",
+    "name": "Albuquerque",
     "periods": [
       "daily"
     ],
@@ -6541,7 +6177,7 @@
     "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.25,
-    "name": "HowToHack",
+    "name": "gamedev",
     "periods": [
       "daily"
     ],
@@ -6556,7 +6192,7 @@
     "appearances": 1,
     "best_rank": 190,
     "coverage_score": 0.289473684211,
-    "name": "AITH",
+    "name": "alcoholicsanonymous",
     "periods": [
       "daily"
     ],
@@ -6571,7 +6207,7 @@
     "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.289473684211,
-    "name": "sexandthecity",
+    "name": "CannedSardines",
     "periods": [
       "daily"
     ],
@@ -6586,7 +6222,7 @@
     "appearances": 1,
     "best_rank": 115,
     "coverage_score": 0.25,
-    "name": "weddingshaming",
+    "name": "dividends",
     "periods": [
       "daily"
     ],
@@ -6601,7 +6237,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.263157894737,
-    "name": "EgySexEducation",
+    "name": "newfoundland",
     "periods": [
       "daily"
     ],
@@ -6616,7 +6252,7 @@
     "appearances": 1,
     "best_rank": 192,
     "coverage_score": 0.289473684211,
-    "name": "luftablassen",
+    "name": "Fibromyalgia",
     "periods": [
       "daily"
     ],
@@ -6631,7 +6267,7 @@
     "appearances": 1,
     "best_rank": 50,
     "coverage_score": 0.197368421053,
-    "name": "ForRealDhaka",
+    "name": "PortalExperiencer",
     "periods": [
       "daily"
     ],
@@ -6646,7 +6282,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.263157894737,
-    "name": "ValheimBuilds",
+    "name": "AttractionDynamics",
     "periods": [
       "daily"
     ],
@@ -6661,7 +6297,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.289473684211,
-    "name": "PowerScaling",
+    "name": "Roleplay",
     "periods": [
       "daily"
     ],
@@ -6676,7 +6312,7 @@
     "appearances": 1,
     "best_rank": 116,
     "coverage_score": 0.25,
-    "name": "EnglishLearning",
+    "name": "AMA",
     "periods": [
       "daily"
     ],
@@ -6691,7 +6327,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.289473684211,
-    "name": "driving",
+    "name": "borrow",
     "periods": [
       "daily"
     ],
@@ -6704,39 +6340,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 139,
-    "coverage_score": 0.263157894737,
-    "name": "InternationalStudents",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.080666490346,
-    "score": 0.135413911664,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 195,
-    "coverage_score": 0.289473684211,
-    "name": "Commanders",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.069246646027,
-    "score": 0.135314757482,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.25,
-    "name": "Costco",
+    "name": "Berserk",
     "periods": [
       "daily"
     ],
@@ -6751,7 +6357,7 @@
     "appearances": 1,
     "best_rank": 51,
     "coverage_score": 0.197368421053,
-    "name": "GenAIGallery",
+    "name": "VolcanoWatch",
     "periods": [
       "daily"
     ],
@@ -6766,7 +6372,7 @@
     "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.263157894737,
-    "name": "BeginnersRunning",
+    "name": "mewborns",
     "periods": [
       "daily"
     ],
@@ -6781,7 +6387,7 @@
     "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.289473684211,
-    "name": "HairStyleAdvice",
+    "name": "VPN",
     "periods": [
       "daily"
     ],
@@ -6796,7 +6402,7 @@
     "appearances": 1,
     "best_rank": 118,
     "coverage_score": 0.25,
-    "name": "Denver",
+    "name": "Buddhism",
     "periods": [
       "daily"
     ],
@@ -6811,7 +6417,7 @@
     "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.289473684211,
-    "name": "Earbuds",
+    "name": "VoiceActing",
     "periods": [
       "daily"
     ],
@@ -6824,24 +6430,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 141,
-    "coverage_score": 0.263157894737,
-    "name": "CrimeCats",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.079863838701,
-    "score": 0.134852055512,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 198,
     "coverage_score": 0.289473684211,
-    "name": "FortWorth",
+    "name": "Planespotting",
     "periods": [
       "daily"
     ],
@@ -6856,7 +6447,7 @@
     "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.25,
-    "name": "Sourdough",
+    "name": "nursing",
     "periods": [
       "daily"
     ],
@@ -6871,7 +6462,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.263157894737,
-    "name": "discordfriends",
+    "name": "BabyLedWeaning",
     "periods": [
       "daily"
     ],
@@ -6884,24 +6475,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 199,
-    "coverage_score": 0.289473684211,
-    "name": "pj_explained",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.068177199756,
-    "score": 0.134566145092,
-    "selected": true,
-    "size_filters": [
-      "large"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 52,
     "coverage_score": 0.197368421053,
-    "name": "RepNewFinds",
+    "name": "ExistentialJourney",
     "periods": [
       "daily"
     ],
@@ -6916,7 +6492,7 @@
     "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.289473684211,
-    "name": "smallbusinessindia",
+    "name": "islamabad",
     "periods": [
       "daily"
     ],
@@ -6931,7 +6507,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.25,
-    "name": "appletv",
+    "name": "fixit",
     "periods": [
       "daily"
     ],
@@ -6946,7 +6522,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.263157894737,
-    "name": "Real_teenindia",
+    "name": "GirlsLastTour",
     "periods": [
       "daily"
     ],
@@ -6961,7 +6537,7 @@
     "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.263157894737,
-    "name": "womensfashion",
+    "name": "blankies",
     "periods": [
       "daily"
     ],
@@ -6974,9 +6550,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 121,
+    "coverage_score": 0.25,
+    "name": "melbourne",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.084254143646,
+    "score": 0.133977900552,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 53,
     "coverage_score": 0.197368421053,
-    "name": "KingArthurBaking",
+    "name": "bleedingcanvas",
     "periods": [
       "daily"
     ],
@@ -6989,9 +6580,39 @@
   },
   {
     "appearances": 1,
+    "best_rank": 145,
+    "coverage_score": 0.263157894737,
+    "name": "LittleFreeLibrary",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.078305519897,
+    "score": 0.133761232349,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 122,
+    "coverage_score": 0.25,
+    "name": "labrats",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.083791208791,
+    "score": 0.133653846154,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.263157894737,
-    "name": "CatWasHere",
+    "name": "nickelodeon",
     "periods": [
       "daily"
     ],
@@ -7004,9 +6625,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 123,
+    "coverage_score": 0.25,
+    "name": "Pizza",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.083333333333,
+    "score": 0.133333333333,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 54,
     "coverage_score": 0.197368421053,
-    "name": "MogScaling",
+    "name": "AI_Governance",
     "periods": [
       "daily"
     ],
@@ -7019,9 +6655,54 @@
   },
   {
     "appearances": 1,
+    "best_rank": 124,
+    "coverage_score": 0.25,
+    "name": "trains",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.082880434783,
+    "score": 0.133016304348,
+    "selected": true,
+    "size_filters": [
+      "xlarge"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 148,
+    "coverage_score": 0.263157894737,
+    "name": "BitchEatingCrafters",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.07717611336,
+    "score": 0.132970647773,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 149,
+    "coverage_score": 0.263157894737,
+    "name": "35mm",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.07680684966,
+    "score": 0.132712163183,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 125,
     "coverage_score": 0.25,
-    "name": "soccercirclejerk",
+    "name": "StupidFood",
     "periods": [
       "daily"
     ],
@@ -7036,7 +6717,7 @@
     "appearances": 1,
     "best_rank": 55,
     "coverage_score": 0.197368421053,
-    "name": "astrology_guidance",
+    "name": "aifilmmaking",
     "periods": [
       "daily"
     ],
@@ -7049,9 +6730,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 150,
+    "coverage_score": 0.263157894737,
+    "name": "wrongnumber",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.076441102757,
+    "score": 0.132456140351,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.25,
-    "name": "ecommerce",
+    "name": "PlayStationPlus",
     "periods": [
       "daily"
     ],
@@ -7064,9 +6760,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 151,
+    "coverage_score": 0.263157894737,
+    "name": "Cholesterol",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.076078822649,
+    "score": 0.132202544275,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.25,
-    "name": "Ghosts",
+    "name": "pregnant",
     "periods": [
       "daily"
     ],
@@ -7079,9 +6790,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 152,
+    "coverage_score": 0.263157894737,
+    "name": "JunkJournals",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.075719960278,
+    "score": 0.131951340616,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 56,
     "coverage_score": 0.197368421053,
-    "name": "MapBasedPolls",
+    "name": "nense",
     "periods": [
       "daily"
     ],
@@ -7096,7 +6822,7 @@
     "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.25,
-    "name": "kingdomcome",
+    "name": "TheSilphRoad",
     "periods": [
       "daily"
     ],
@@ -7111,7 +6837,7 @@
     "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.263157894737,
-    "name": "IsraelCrimes",
+    "name": "Pentesting",
     "periods": [
       "daily"
     ],
@@ -7126,7 +6852,7 @@
     "appearances": 1,
     "best_rank": 129,
     "coverage_score": 0.25,
-    "name": "LinkedInLunatics",
+    "name": "comics",
     "periods": [
       "daily"
     ],
@@ -7141,7 +6867,7 @@
     "appearances": 1,
     "best_rank": 57,
     "coverage_score": 0.197368421053,
-    "name": "otouto",
+    "name": "SpicyFootballTakes",
     "periods": [
       "daily"
     ],
@@ -7156,7 +6882,7 @@
     "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.263157894737,
-    "name": "Joshi_Kosei",
+    "name": "Marathon_Training",
     "periods": [
       "daily"
     ],
@@ -7171,7 +6897,7 @@
     "appearances": 1,
     "best_rank": 130,
     "coverage_score": 0.25,
-    "name": "sportsbook",
+    "name": "excel",
     "periods": [
       "daily"
     ],
@@ -7184,9 +6910,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 156,
+    "coverage_score": 0.263157894737,
+    "name": "cassettefuturism",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.074317738791,
+    "score": 0.130969785575,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 131,
     "coverage_score": 0.25,
-    "name": "WutheringWaves",
+    "name": "GilmoreGirls",
     "periods": [
       "daily"
     ],
@@ -7199,24 +6940,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 157,
-    "coverage_score": 0.263157894737,
-    "name": "ClaudeHomies",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.073975260732,
-    "score": 0.130730050934,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 58,
     "coverage_score": 0.197368421053,
-    "name": "ComidasBR",
+    "name": "HouseFlipping",
     "periods": [
       "daily"
     ],
@@ -7231,7 +6957,7 @@
     "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.25,
-    "name": "AskAnAmerican",
+    "name": "WildernessBackpacking",
     "periods": [
       "daily"
     ],
@@ -7244,9 +6970,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 158,
+    "coverage_score": 0.263157894737,
+    "name": "FitnessGirls",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.073635924674,
+    "score": 0.130492515693,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.25,
-    "name": "amiugly",
+    "name": "tf2",
     "periods": [
       "daily"
     ],
@@ -7259,9 +7000,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 159,
+    "coverage_score": 0.263157894737,
+    "name": "Opals",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.073299687575,
+    "score": 0.130257149724,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 59,
     "coverage_score": 0.197368421053,
-    "name": "apenas_coisas",
+    "name": "quefofo",
     "periods": [
       "daily"
     ],
@@ -7276,7 +7032,7 @@
     "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.25,
-    "name": "Switch",
+    "name": "football",
     "periods": [
       "daily"
     ],
@@ -7289,9 +7045,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 160,
+    "coverage_score": 0.263157894737,
+    "name": "Elektroautos",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.072966507177,
+    "score": 0.130023923445,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.263157894737,
-    "name": "anticapitalism",
+    "name": "MaleYandere",
     "periods": [
       "daily"
     ],
@@ -7306,7 +7077,7 @@
     "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.25,
-    "name": "Kerala",
+    "name": "law",
     "periods": [
       "daily"
     ],
@@ -7319,9 +7090,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 162,
+    "coverage_score": 0.263157894737,
+    "name": "OliviaRodrigo",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.072309151257,
+    "score": 0.129563774301,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.25,
-    "name": "ExplainTheJoke",
+    "name": "PersonalFinanceCanada",
     "periods": [
       "daily"
     ],
@@ -7336,7 +7122,7 @@
     "appearances": 1,
     "best_rank": 60,
     "coverage_score": 0.197368421053,
-    "name": "Cuddmi_official",
+    "name": "fuckindianactresses",
     "periods": [
       "daily"
     ],
@@ -7351,7 +7137,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.263157894737,
-    "name": "ResidentEvilCapcom",
+    "name": "PasswordManagers",
     "periods": [
       "daily"
     ],
@@ -7366,7 +7152,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.25,
-    "name": "DOG",
+    "name": "pcgaming",
     "periods": [
       "daily"
     ],
@@ -7381,7 +7167,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.263157894737,
-    "name": "KidsAreFingAdorable",
+    "name": "marriott",
     "periods": [
       "daily"
     ],
@@ -7396,7 +7182,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.25,
-    "name": "Grimdank",
+    "name": "TheWayWeWere",
     "periods": [
       "daily"
     ],
@@ -7411,7 +7197,7 @@
     "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.263157894737,
-    "name": "GirlDinnerCircleJerk",
+    "name": "focusedmen",
     "periods": [
       "daily"
     ],
@@ -7424,9 +7210,39 @@
   },
   {
     "appearances": 1,
+    "best_rank": 61,
+    "coverage_score": 0.197368421053,
+    "name": "DevsForHire",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.099499782514,
+    "score": 0.128860374076,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 166,
+    "coverage_score": 0.263157894737,
+    "name": "IndianTeenagers",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.07102934327,
+    "score": 0.12866790871,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 139,
     "coverage_score": 0.25,
-    "name": "Life",
+    "name": "collapse",
     "periods": [
       "daily"
     ],
@@ -7439,24 +7255,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 167,
-    "coverage_score": 0.263157894737,
-    "name": "windowseat",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.070716438674,
-    "score": 0.128448875493,
-    "selected": true,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.25,
-    "name": "Bogleheads",
+    "name": "serialkillers",
     "periods": [
       "daily"
     ],
@@ -7469,9 +7270,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 62,
+    "coverage_score": 0.197368421053,
+    "name": "PS4Mods",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.098684210526,
+    "score": 0.128289473684,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.25,
-    "name": "longhair",
+    "name": "AITAH",
     "periods": [
       "daily"
     ],
@@ -7486,7 +7302,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.25,
-    "name": "Fire",
+    "name": "sydney",
     "periods": [
       "daily"
     ],
@@ -7501,7 +7317,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.263157894737,
-    "name": "LLM",
+    "name": "TrueSwifties",
     "periods": [
       "daily"
     ],
@@ -7514,9 +7330,39 @@
   },
   {
     "appearances": 1,
+    "best_rank": 63,
+    "coverage_score": 0.197368421053,
+    "name": "retrotech",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.097881899872,
+    "score": 0.127727856226,
+    "selected": true,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
+    "best_rank": 171,
+    "coverage_score": 0.263157894737,
+    "name": "classictrucks",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.069491911597,
+    "score": 0.127591706539,
+    "selected": true,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.25,
-    "name": "BuyItForLife",
+    "name": "Military",
     "periods": [
       "daily"
     ],
@@ -7531,7 +7377,7 @@
     "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.263157894737,
-    "name": "sidehustleIndia",
+    "name": "bg3fashion",
     "periods": [
       "daily"
     ],
@@ -7546,7 +7392,7 @@
     "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.25,
-    "name": "AskMenOver30",
+    "name": "Steam",
     "periods": [
       "daily"
     ],
@@ -7561,7 +7407,7 @@
     "appearances": 1,
     "best_rank": 64,
     "coverage_score": 0.197368421053,
-    "name": "KatDenningsFans",
+    "name": "AIToolTalks",
     "periods": [
       "daily"
     ],
@@ -7576,7 +7422,7 @@
     "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.263157894737,
-    "name": "TeslaFSD",
+    "name": "Kochi",
     "periods": [
       "daily"
     ],
@@ -7591,73 +7437,43 @@
     "appearances": 1,
     "best_rank": 145,
     "coverage_score": 0.25,
-    "name": "AskNYC",
+    "name": "Persona5",
     "periods": [
       "daily"
     ],
     "rank_score": 0.074390243902,
     "score": 0.127073170732,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 174,
-    "coverage_score": 0.263157894737,
-    "name": "Bengaluru",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.068600989654,
-    "score": 0.126968061179,
-    "selected": false,
-    "size_filters": [
-      "medium"
     ]
   },
   {
     "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.25,
-    "name": "xboxinsiders",
+    "name": "Makeup",
     "periods": [
       "daily"
     ],
     "rank_score": 0.074029126214,
     "score": 0.12682038835,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
     ]
   },
   {
     "appearances": 1,
-    "best_rank": 175,
-    "coverage_score": 0.263157894737,
-    "name": "Career_Advice",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.068309070549,
-    "score": 0.126763717805,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 65,
     "coverage_score": 0.197368421053,
-    "name": "ErisGreyrat",
+    "name": "FE_Fortunes_Weave",
     "periods": [
       "daily"
     ],
     "rank_score": 0.096315789474,
     "score": 0.126631578947,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium-small"
     ]
@@ -7666,58 +7482,28 @@
     "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.25,
-    "name": "sysadmin",
+    "name": "BestofRedditorUpdates",
     "periods": [
       "daily"
     ],
     "rank_score": 0.073671497585,
     "score": 0.126570048309,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
     ]
   },
   {
     "appearances": 1,
-    "best_rank": 176,
-    "coverage_score": 0.263157894737,
-    "name": "BorrowNew",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.068019625335,
-    "score": 0.126561106155,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
-    "best_rank": 177,
-    "coverage_score": 0.263157894737,
-    "name": "romance",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.067732622696,
-    "score": 0.126360204308,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.25,
-    "name": "expedition33",
+    "name": "RBI",
     "periods": [
       "daily"
     ],
     "rank_score": 0.073317307692,
     "score": 0.126322115385,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
     ]
@@ -7726,13 +7512,13 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.263157894737,
-    "name": "KanePixelsBackrooms",
+    "name": "hungary_pszichologia",
     "periods": [
       "daily"
     ],
     "rank_score": 0.067448031844,
     "score": 0.126160990712,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium"
     ]
@@ -7741,13 +7527,13 @@
     "appearances": 1,
     "best_rank": 66,
     "coverage_score": 0.197368421053,
-    "name": "30PlusKoreanSkincare",
+    "name": "WallstreetWhales",
     "periods": [
       "daily"
     ],
     "rank_score": 0.095551378446,
     "score": 0.126096491228,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium-small"
     ]
@@ -7756,13 +7542,13 @@
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.25,
-    "name": "family",
+    "name": "succulents",
     "periods": [
       "daily"
     ],
     "rank_score": 0.072966507177,
     "score": 0.126076555024,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
     ]
@@ -7771,13 +7557,13 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.263157894737,
-    "name": "whatsthisfish",
+    "name": "FGO",
     "periods": [
       "daily"
     ],
     "rank_score": 0.067165822506,
     "score": 0.125963444175,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "medium"
     ]
@@ -7786,13 +7572,13 @@
     "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.25,
-    "name": "GiftIdeas",
+    "name": "Norway",
     "periods": [
       "daily"
     ],
     "rank_score": 0.072619047619,
     "score": 0.125833333333,
-    "selected": false,
+    "selected": true,
     "size_filters": [
       "xlarge"
     ]
@@ -7801,7 +7587,7 @@
     "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.263157894737,
-    "name": "test",
+    "name": "KafkaMains",
     "periods": [
       "daily"
     ],
@@ -7816,7 +7602,7 @@
     "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.25,
-    "name": "playstation",
+    "name": "bjj",
     "periods": [
       "daily"
     ],
@@ -7831,7 +7617,7 @@
     "appearances": 1,
     "best_rank": 67,
     "coverage_score": 0.197368421053,
-    "name": "KnightsOfGuinevere",
+    "name": "TopTrendingNewsUSA",
     "periods": [
       "daily"
     ],
@@ -7846,7 +7632,7 @@
     "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.25,
-    "name": "solana",
+    "name": "Swimming",
     "periods": [
       "daily"
     ],
@@ -7861,7 +7647,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.263157894737,
-    "name": "saasbuild",
+    "name": "PHRunners",
     "periods": [
       "daily"
     ],
@@ -7876,7 +7662,7 @@
     "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.25,
-    "name": "electricians",
+    "name": "lanadelrey",
     "periods": [
       "daily"
     ],
@@ -7891,7 +7677,7 @@
     "appearances": 1,
     "best_rank": 68,
     "coverage_score": 0.197368421053,
-    "name": "UGCSideHustle",
+    "name": "ZoeyDiGiacomoSFW",
     "periods": [
       "daily"
     ],
@@ -7906,7 +7692,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.263157894737,
-    "name": "AiAutomations",
+    "name": "MEDICOreTARDS",
     "periods": [
       "daily"
     ],
@@ -7921,7 +7707,7 @@
     "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.25,
-    "name": "centuryhomes",
+    "name": "OculusQuest",
     "periods": [
       "daily"
     ],
@@ -7934,24 +7720,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 185,
-    "coverage_score": 0.263157894737,
-    "name": "TikTokMonetizing",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.06552094522,
-    "score": 0.124812030075,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.25,
-    "name": "AmericanHorrorStory",
+    "name": "sushi",
     "periods": [
       "daily"
     ],
@@ -7964,9 +7735,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 186,
+    "coverage_score": 0.263157894737,
+    "name": "GrandTetonNatlPark",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.065254599914,
+    "score": 0.124625588361,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 69,
     "coverage_score": 0.197368421053,
-    "name": "LastOneLaughing",
+    "name": "MSClassicWorld",
     "periods": [
       "daily"
     ],
@@ -7981,7 +7767,7 @@
     "appearances": 1,
     "best_rank": 156,
     "coverage_score": 0.25,
-    "name": "dating_advice",
+    "name": "ireland",
     "periods": [
       "daily"
     ],
@@ -7996,7 +7782,7 @@
     "appearances": 1,
     "best_rank": 188,
     "coverage_score": 0.263157894737,
-    "name": "FantasyFootballers",
+    "name": "mauritius",
     "periods": [
       "daily"
     ],
@@ -8011,7 +7797,7 @@
     "appearances": 1,
     "best_rank": 157,
     "coverage_score": 0.25,
-    "name": "eu_nvr",
+    "name": "Newbalance",
     "periods": [
       "daily"
     ],
@@ -8026,7 +7812,7 @@
     "appearances": 1,
     "best_rank": 70,
     "coverage_score": 0.197368421053,
-    "name": "wordgrind",
+    "name": "ClassicalEducation",
     "periods": [
       "daily"
     ],
@@ -8041,7 +7827,7 @@
     "appearances": 1,
     "best_rank": 158,
     "coverage_score": 0.25,
-    "name": "OnlyFans",
+    "name": "Sims4",
     "periods": [
       "daily"
     ],
@@ -8054,24 +7840,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 190,
-    "coverage_score": 0.263157894737,
-    "name": "NichePerfumes",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.064210526316,
-    "score": 0.123894736842,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 159,
     "coverage_score": 0.25,
-    "name": "magicTCG",
+    "name": "gentlemanboners",
     "periods": [
       "daily"
     ],
@@ -8084,24 +7855,9 @@
   },
   {
     "appearances": 1,
-    "best_rank": 191,
-    "coverage_score": 0.263157894737,
-    "name": "SacmaBirSub",
-    "periods": [
-      "daily"
-    ],
-    "rank_score": 0.063954707486,
-    "score": 0.123715663661,
-    "selected": false,
-    "size_filters": [
-      "medium"
-    ]
-  },
-  {
-    "appearances": 1,
     "best_rank": 71,
     "coverage_score": 0.197368421053,
-    "name": "youtubebrasil",
+    "name": "woodworkingporn",
     "periods": [
       "daily"
     ],
@@ -8114,9 +7870,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 192,
+    "coverage_score": 0.263157894737,
+    "name": "Fancast",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.063700918964,
+    "score": 0.123538011696,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 160,
     "coverage_score": 0.25,
-    "name": "aliens",
+    "name": "AskPhysics",
     "periods": [
       "daily"
     ],
@@ -8131,7 +7902,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.263157894737,
-    "name": "CraftFairs",
+    "name": "backpain",
     "periods": [
       "daily"
     ],
@@ -8146,7 +7917,7 @@
     "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.25,
-    "name": "SteamDeck",
+    "name": "legostarwars",
     "periods": [
       "daily"
     ],
@@ -8161,7 +7932,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.25,
-    "name": "dubai",
+    "name": "burgers",
     "periods": [
       "daily"
     ],
@@ -8176,7 +7947,7 @@
     "appearances": 1,
     "best_rank": 72,
     "coverage_score": 0.197368421053,
-    "name": "MuslimMatrimonials",
+    "name": "OSINTExperts",
     "periods": [
       "daily"
     ],
@@ -8191,7 +7962,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.25,
-    "name": "smallstreetbets",
+    "name": "cscareerquestions",
     "periods": [
       "daily"
     ],
@@ -8204,9 +7975,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 196,
+    "coverage_score": 0.263157894737,
+    "name": "Explainlikeimscared",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.062705592105,
+    "score": 0.122841282895,
+    "selected": false,
+    "size_filters": [
+      "medium"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.263157894737,
-    "name": "realhousewivesofSLC",
+    "name": "AskChemistry",
     "periods": [
       "daily"
     ],
@@ -8221,7 +8007,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.25,
-    "name": "LosAngelesRams",
+    "name": "CanadianInvestor",
     "periods": [
       "daily"
     ],
@@ -8236,7 +8022,7 @@
     "appearances": 1,
     "best_rank": 73,
     "coverage_score": 0.197368421053,
-    "name": "CrushesSayAboutMe",
+    "name": "ShowMeYourSky",
     "periods": [
       "daily"
     ],
@@ -8251,7 +8037,7 @@
     "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.25,
-    "name": "UnsentLetters",
+    "name": "EuSouOBabaca",
     "periods": [
       "daily"
     ],
@@ -8266,7 +8052,7 @@
     "appearances": 1,
     "best_rank": 199,
     "coverage_score": 0.263157894737,
-    "name": "GloDaP",
+    "name": "RHOA",
     "periods": [
       "daily"
     ],
@@ -8281,7 +8067,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.25,
-    "name": "VideoEditing",
+    "name": "phcareers",
     "periods": [
       "daily"
     ],
@@ -8296,7 +8082,7 @@
     "appearances": 1,
     "best_rank": 74,
     "coverage_score": 0.197368421053,
-    "name": "OddlySatisfyingArt",
+    "name": "Zentangle",
     "periods": [
       "daily"
     ],
@@ -8311,7 +8097,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.25,
-    "name": "fireemblem",
+    "name": "FinancialCareers",
     "periods": [
       "daily"
     ],
@@ -8326,7 +8112,7 @@
     "appearances": 1,
     "best_rank": 168,
     "coverage_score": 0.25,
-    "name": "GenZ",
+    "name": "LawSchool",
     "periods": [
       "daily"
     ],
@@ -8341,7 +8127,7 @@
     "appearances": 1,
     "best_rank": 75,
     "coverage_score": 0.197368421053,
-    "name": "RetroJapanPopCulture",
+    "name": "Selfieover50",
     "periods": [
       "daily"
     ],
@@ -8356,7 +8142,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.25,
-    "name": "androidapps",
+    "name": "Guitar",
     "periods": [
       "daily"
     ],
@@ -8371,7 +8157,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.25,
-    "name": "CasualConversation",
+    "name": "southpark",
     "periods": [
       "daily"
     ],
@@ -8386,7 +8172,7 @@
     "appearances": 1,
     "best_rank": 171,
     "coverage_score": 0.25,
-    "name": "StandUpComedy",
+    "name": "bicycling",
     "periods": [
       "daily"
     ],
@@ -8401,7 +8187,7 @@
     "appearances": 1,
     "best_rank": 76,
     "coverage_score": 0.197368421053,
-    "name": "30PlusFitness",
+    "name": "MikeFlanagan",
     "periods": [
       "daily"
     ],
@@ -8416,7 +8202,7 @@
     "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.25,
-    "name": "onebag",
+    "name": "greysanatomy",
     "periods": [
       "daily"
     ],
@@ -8431,7 +8217,7 @@
     "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.25,
-    "name": "TrueFilm",
+    "name": "BaldursGate3",
     "periods": [
       "daily"
     ],
@@ -8446,7 +8232,7 @@
     "appearances": 1,
     "best_rank": 77,
     "coverage_score": 0.197368421053,
-    "name": "sobrenaturalBR",
+    "name": "GeminiNotebookLM",
     "periods": [
       "daily"
     ],
@@ -8461,7 +8247,7 @@
     "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.25,
-    "name": "femalelivingspace",
+    "name": "ImaginaryLandscapes",
     "periods": [
       "daily"
     ],
@@ -8476,7 +8262,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.25,
-    "name": "BMW",
+    "name": "HaircareScience",
     "periods": [
       "daily"
     ],
@@ -8491,7 +8277,7 @@
     "appearances": 1,
     "best_rank": 78,
     "coverage_score": 0.197368421053,
-    "name": "ScienceBasedLifting",
+    "name": "unsanskaridivas",
     "periods": [
       "daily"
     ],
@@ -8506,7 +8292,7 @@
     "appearances": 1,
     "best_rank": 176,
     "coverage_score": 0.25,
-    "name": "zillowgonewild",
+    "name": "CrackheadCraigslist",
     "periods": [
       "daily"
     ],
@@ -8521,7 +8307,7 @@
     "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.25,
-    "name": "Money",
+    "name": "TameImpala",
     "periods": [
       "daily"
     ],
@@ -8536,7 +8322,7 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.25,
-    "name": "flying",
+    "name": "howtonotgiveafuck",
     "periods": [
       "daily"
     ],
@@ -8551,7 +8337,7 @@
     "appearances": 1,
     "best_rank": 79,
     "coverage_score": 0.197368421053,
-    "name": "WeirdStudyTips",
+    "name": "ArtDecoArchitecture",
     "periods": [
       "daily"
     ],
@@ -8566,7 +8352,7 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.25,
-    "name": "SubredditDrama",
+    "name": "whatsthisplant",
     "periods": [
       "daily"
     ],
@@ -8581,7 +8367,7 @@
     "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.25,
-    "name": "bodylanguage",
+    "name": "ZeroWaste",
     "periods": [
       "daily"
     ],
@@ -8596,7 +8382,7 @@
     "appearances": 1,
     "best_rank": 80,
     "coverage_score": 0.197368421053,
-    "name": "PortalExperiencer",
+    "name": "PerguntasFuteis",
     "periods": [
       "daily"
     ],
@@ -8611,7 +8397,7 @@
     "appearances": 1,
     "best_rank": 181,
     "coverage_score": 0.25,
-    "name": "Atlanta",
+    "name": "OutOfTheLoop",
     "periods": [
       "daily"
     ],
@@ -8626,7 +8412,7 @@
     "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.25,
-    "name": "WeightLossAdvice",
+    "name": "30PlusSkinCare",
     "periods": [
       "daily"
     ],
@@ -8641,7 +8427,7 @@
     "appearances": 1,
     "best_rank": 81,
     "coverage_score": 0.197368421053,
-    "name": "VolcanoWatch",
+    "name": "bollywoodgossips",
     "periods": [
       "daily"
     ],
@@ -8656,7 +8442,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.25,
-    "name": "twinpeaks",
+    "name": "Catswhoyell",
     "periods": [
       "daily"
     ],
@@ -8671,7 +8457,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.25,
-    "name": "AskMenAdvice",
+    "name": "vagabond",
     "periods": [
       "daily"
     ],
@@ -8686,7 +8472,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.25,
-    "name": "HousingUK",
+    "name": "datingoverthirty",
     "periods": [
       "daily"
     ],
@@ -8701,7 +8487,7 @@
     "appearances": 1,
     "best_rank": 82,
     "coverage_score": 0.197368421053,
-    "name": "EncuentraAmigos",
+    "name": "tsaaph",
     "periods": [
       "daily"
     ],
@@ -8716,7 +8502,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.25,
-    "name": "Shoes",
+    "name": "DINgore",
     "periods": [
       "daily"
     ],
@@ -8731,7 +8517,7 @@
     "appearances": 1,
     "best_rank": 187,
     "coverage_score": 0.25,
-    "name": "witcher",
+    "name": "italy",
     "periods": [
       "daily"
     ],
@@ -8746,7 +8532,7 @@
     "appearances": 1,
     "best_rank": 83,
     "coverage_score": 0.197368421053,
-    "name": "vanilllamace",
+    "name": "NewsD",
     "periods": [
       "daily"
     ],
@@ -8761,7 +8547,7 @@
     "appearances": 1,
     "best_rank": 188,
     "coverage_score": 0.25,
-    "name": "IndiaNostalgia",
+    "name": "blunderyears",
     "periods": [
       "daily"
     ],
@@ -8776,7 +8562,7 @@
     "appearances": 1,
     "best_rank": 189,
     "coverage_score": 0.25,
-    "name": "IllegallySmolCats",
+    "name": "sailormoon",
     "periods": [
       "daily"
     ],
@@ -8789,9 +8575,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 84,
+    "coverage_score": 0.197368421053,
+    "name": "CausalConversation",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.08360745614,
+    "score": 0.117735745614,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 190,
     "coverage_score": 0.25,
-    "name": "Dallas",
+    "name": "shrooms",
     "periods": [
       "daily"
     ],
@@ -8806,7 +8607,7 @@
     "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.25,
-    "name": "povertyfinance",
+    "name": "memes",
     "periods": [
       "daily"
     ],
@@ -8821,7 +8622,7 @@
     "appearances": 1,
     "best_rank": 192,
     "coverage_score": 0.25,
-    "name": "Broadway",
+    "name": "doodles",
     "periods": [
       "daily"
     ],
@@ -8836,7 +8637,7 @@
     "appearances": 1,
     "best_rank": 85,
     "coverage_score": 0.197368421053,
-    "name": "esp32projects",
+    "name": "JBTVCommunity",
     "periods": [
       "daily"
     ],
@@ -8851,7 +8652,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.25,
-    "name": "gaybros",
+    "name": "FullmetalAlchemist",
     "periods": [
       "daily"
     ],
@@ -8866,7 +8667,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.25,
-    "name": "Baking",
+    "name": "ItemShop",
     "periods": [
       "daily"
     ],
@@ -8881,7 +8682,7 @@
     "appearances": 1,
     "best_rank": 86,
     "coverage_score": 0.197368421053,
-    "name": "ExistentialJourney",
+    "name": "RepsAid",
     "periods": [
       "daily"
     ],
@@ -8896,7 +8697,7 @@
     "appearances": 1,
     "best_rank": 195,
     "coverage_score": 0.25,
-    "name": "Plumbing",
+    "name": "sixers",
     "periods": [
       "daily"
     ],
@@ -8911,7 +8712,7 @@
     "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.25,
-    "name": "OpenAI",
+    "name": "WhyWomenLiveLonger",
     "periods": [
       "daily"
     ],
@@ -8926,7 +8727,7 @@
     "appearances": 1,
     "best_rank": 87,
     "coverage_score": 0.197368421053,
-    "name": "DLSS",
+    "name": "mmaweekly",
     "periods": [
       "daily"
     ],
@@ -8941,7 +8742,7 @@
     "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.25,
-    "name": "Instagram",
+    "name": "starwarsmemes",
     "periods": [
       "daily"
     ],
@@ -8956,7 +8757,7 @@
     "appearances": 1,
     "best_rank": 198,
     "coverage_score": 0.25,
-    "name": "whatsthisrock",
+    "name": "LongDistance",
     "periods": [
       "daily"
     ],
@@ -8971,7 +8772,7 @@
     "appearances": 1,
     "best_rank": 199,
     "coverage_score": 0.25,
-    "name": "meirl",
+    "name": "Thunder",
     "periods": [
       "daily"
     ],
@@ -8984,9 +8785,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 88,
+    "coverage_score": 0.197368421053,
+    "name": "VelinaMains",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.081347795164,
+    "score": 0.11615398293,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.25,
-    "name": "mycology",
+    "name": "japan",
     "periods": [
       "daily"
     ],
@@ -9001,7 +8817,7 @@
     "appearances": 1,
     "best_rank": 89,
     "coverage_score": 0.197368421053,
-    "name": "bleedingcanvas",
+    "name": "iphone18pro",
     "periods": [
       "daily"
     ],
@@ -9016,7 +8832,7 @@
     "appearances": 1,
     "best_rank": 90,
     "coverage_score": 0.197368421053,
-    "name": "AI_Governance",
+    "name": "MEMEBRASIL",
     "periods": [
       "daily"
     ],
@@ -9031,7 +8847,7 @@
     "appearances": 1,
     "best_rank": 91,
     "coverage_score": 0.197368421053,
-    "name": "Maquiagem",
+    "name": "insetos",
     "periods": [
       "daily"
     ],
@@ -9046,7 +8862,7 @@
     "appearances": 1,
     "best_rank": 92,
     "coverage_score": 0.197368421053,
-    "name": "NoticiasBR",
+    "name": "BugBountyNoobs",
     "periods": [
       "daily"
     ],
@@ -9061,7 +8877,7 @@
     "appearances": 1,
     "best_rank": 93,
     "coverage_score": 0.197368421053,
-    "name": "ClaudeDesign",
+    "name": "ThePowerOfYou",
     "periods": [
       "daily"
     ],
@@ -9076,7 +8892,7 @@
     "appearances": 1,
     "best_rank": 94,
     "coverage_score": 0.197368421053,
-    "name": "aifilmmaking",
+    "name": "dollarama",
     "periods": [
       "daily"
     ],
@@ -9091,7 +8907,7 @@
     "appearances": 1,
     "best_rank": 95,
     "coverage_score": 0.197368421053,
-    "name": "nense",
+    "name": "PizzaPorn",
     "periods": [
       "daily"
     ],
@@ -9106,7 +8922,7 @@
     "appearances": 1,
     "best_rank": 96,
     "coverage_score": 0.197368421053,
-    "name": "SpicyFootballTakes",
+    "name": "propmaking",
     "periods": [
       "daily"
     ],
@@ -9121,7 +8937,7 @@
     "appearances": 1,
     "best_rank": 97,
     "coverage_score": 0.197368421053,
-    "name": "HouseFlipping",
+    "name": "SevenWordStories",
     "periods": [
       "daily"
     ],
@@ -9136,7 +8952,7 @@
     "appearances": 1,
     "best_rank": 98,
     "coverage_score": 0.197368421053,
-    "name": "quefofo",
+    "name": "tech_x",
     "periods": [
       "daily"
     ],
@@ -9151,7 +8967,7 @@
     "appearances": 1,
     "best_rank": 99,
     "coverage_score": 0.197368421053,
-    "name": "dPinayDedeNation",
+    "name": "FirstTimeHomeBuyers",
     "periods": [
       "daily"
     ],
@@ -9166,7 +8982,7 @@
     "appearances": 1,
     "best_rank": 100,
     "coverage_score": 0.197368421053,
-    "name": "fuckindianactresses",
+    "name": "ParaisoSocial",
     "periods": [
       "daily"
     ],
@@ -9181,7 +8997,7 @@
     "appearances": 1,
     "best_rank": 101,
     "coverage_score": 0.197368421053,
-    "name": "TeenHerIndia",
+    "name": "sobrevivencialismo",
     "periods": [
       "daily"
     ],
@@ -9196,7 +9012,7 @@
     "appearances": 1,
     "best_rank": 102,
     "coverage_score": 0.197368421053,
-    "name": "AIToolMadeEasy",
+    "name": "horrorfilms",
     "periods": [
       "daily"
     ],
@@ -9211,7 +9027,7 @@
     "appearances": 1,
     "best_rank": 103,
     "coverage_score": 0.197368421053,
-    "name": "latexballerina",
+    "name": "AppBuilding",
     "periods": [
       "daily"
     ],
@@ -9226,7 +9042,7 @@
     "appearances": 1,
     "best_rank": 104,
     "coverage_score": 0.197368421053,
-    "name": "VisitBrazil",
+    "name": "MedicareForAll",
     "periods": [
       "daily"
     ],
@@ -9241,7 +9057,7 @@
     "appearances": 1,
     "best_rank": 105,
     "coverage_score": 0.197368421053,
-    "name": "wigglyears",
+    "name": "video_mapping",
     "periods": [
       "daily"
     ],
@@ -9256,7 +9072,7 @@
     "appearances": 1,
     "best_rank": 106,
     "coverage_score": 0.197368421053,
-    "name": "itsthatbad",
+    "name": "Babushkats",
     "periods": [
       "daily"
     ],
@@ -9271,7 +9087,7 @@
     "appearances": 1,
     "best_rank": 107,
     "coverage_score": 0.197368421053,
-    "name": "FGCFanart",
+    "name": "DeadlockGame",
     "periods": [
       "daily"
     ],
@@ -9286,7 +9102,7 @@
     "appearances": 1,
     "best_rank": 108,
     "coverage_score": 0.197368421053,
-    "name": "DevsForHire",
+    "name": "SelfHosting",
     "periods": [
       "daily"
     ],
@@ -9301,7 +9117,7 @@
     "appearances": 1,
     "best_rank": 109,
     "coverage_score": 0.197368421053,
-    "name": "PS4Mods",
+    "name": "okaybuddydemonhunters",
     "periods": [
       "daily"
     ],
@@ -9316,7 +9132,7 @@
     "appearances": 1,
     "best_rank": 110,
     "coverage_score": 0.197368421053,
-    "name": "Naomisharon",
+    "name": "MikeyMadisonSFW",
     "periods": [
       "daily"
     ],
@@ -9331,7 +9147,7 @@
     "appearances": 1,
     "best_rank": 111,
     "coverage_score": 0.197368421053,
-    "name": "wowaddons",
+    "name": "livefromlondon",
     "periods": [
       "daily"
     ],
@@ -9346,7 +9162,7 @@
     "appearances": 1,
     "best_rank": 112,
     "coverage_score": 0.197368421053,
-    "name": "retrotech",
+    "name": "NIFENTASINSTAGRAM",
     "periods": [
       "daily"
     ],
@@ -9361,7 +9177,7 @@
     "appearances": 1,
     "best_rank": 113,
     "coverage_score": 0.197368421053,
-    "name": "AIToolTalks",
+    "name": "ZdzislawBeksinski",
     "periods": [
       "daily"
     ],
@@ -9376,7 +9192,7 @@
     "appearances": 1,
     "best_rank": 114,
     "coverage_score": 0.197368421053,
-    "name": "FE_Fortunes_Weave",
+    "name": "ExploreLocalJapan",
     "periods": [
       "daily"
     ],
@@ -9391,7 +9207,7 @@
     "appearances": 1,
     "best_rank": 115,
     "coverage_score": 0.197368421053,
-    "name": "HonestHotTakes",
+    "name": "SpeakBetter",
     "periods": [
       "daily"
     ],
@@ -9406,7 +9222,7 @@
     "appearances": 1,
     "best_rank": 116,
     "coverage_score": 0.197368421053,
-    "name": "DecideThisForMe",
+    "name": "risograph",
     "periods": [
       "daily"
     ],
@@ -9421,7 +9237,7 @@
     "appearances": 1,
     "best_rank": 117,
     "coverage_score": 0.197368421053,
-    "name": "TipidFindsPH",
+    "name": "Take1Leave1",
     "periods": [
       "daily"
     ],
@@ -9434,9 +9250,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 118,
+    "coverage_score": 0.197368421053,
+    "name": "MakeFriendsSFW",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.067637492608,
+    "score": 0.106556771141,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 119,
     "coverage_score": 0.197368421053,
-    "name": "WallstreetWhales",
+    "name": "SapphicGayming",
     "periods": [
       "daily"
     ],
@@ -9451,7 +9282,7 @@
     "appearances": 1,
     "best_rank": 120,
     "coverage_score": 0.197368421053,
-    "name": "MCUWorld",
+    "name": "sixflags",
     "periods": [
       "daily"
     ],
@@ -9466,7 +9297,7 @@
     "appearances": 1,
     "best_rank": 121,
     "coverage_score": 0.197368421053,
-    "name": "BlockJam",
+    "name": "PhantomBladeZero",
     "periods": [
       "daily"
     ],
@@ -9481,7 +9312,7 @@
     "appearances": 1,
     "best_rank": 122,
     "coverage_score": 0.197368421053,
-    "name": "OSINTExperts",
+    "name": "memesThatUCanRepost",
     "periods": [
       "daily"
     ],
@@ -9496,7 +9327,7 @@
     "appearances": 1,
     "best_rank": 123,
     "coverage_score": 0.197368421053,
-    "name": "ShowMeYourSky",
+    "name": "OrientalistArt",
     "periods": [
       "daily"
     ],
@@ -9511,7 +9342,7 @@
     "appearances": 1,
     "best_rank": 124,
     "coverage_score": 0.197368421053,
-    "name": "Zentangle",
+    "name": "spookymonth",
     "periods": [
       "daily"
     ],
@@ -9526,7 +9357,7 @@
     "appearances": 1,
     "best_rank": 125,
     "coverage_score": 0.197368421053,
-    "name": "Selfieover50",
+    "name": "neetpgcounselling",
     "periods": [
       "daily"
     ],
@@ -9541,7 +9372,7 @@
     "appearances": 1,
     "best_rank": 126,
     "coverage_score": 0.197368421053,
-    "name": "MikeFlanagan",
+    "name": "whatisthisrock",
     "periods": [
       "daily"
     ],
@@ -9556,7 +9387,7 @@
     "appearances": 1,
     "best_rank": 127,
     "coverage_score": 0.197368421053,
-    "name": "GeminiNotebookLM",
+    "name": "WhatToDo",
     "periods": [
       "daily"
     ],
@@ -9571,7 +9402,7 @@
     "appearances": 1,
     "best_rank": 128,
     "coverage_score": 0.197368421053,
-    "name": "unsanskaridivas",
+    "name": "India_Bharat_",
     "periods": [
       "daily"
     ],
@@ -9586,7 +9417,7 @@
     "appearances": 1,
     "best_rank": 129,
     "coverage_score": 0.197368421053,
-    "name": "ArtDecoArchitecture",
+    "name": "TellEgypt",
     "periods": [
       "daily"
     ],
@@ -9599,14 +9430,14 @@
   },
   {
     "appearances": 1,
-    "best_rank": 130,
+    "best_rank": 131,
     "coverage_score": 0.197368421053,
-    "name": "DailyIncome",
+    "name": "LibDem",
     "periods": [
       "daily"
     ],
-    "rank_score": 0.06336565097,
-    "score": 0.103566481994,
+    "rank_score": 0.063033893635,
+    "score": 0.10333425186,
     "selected": false,
     "size_filters": [
       "medium-small"
@@ -9616,7 +9447,7 @@
     "appearances": 1,
     "best_rank": 132,
     "coverage_score": 0.197368421053,
-    "name": "ScrollTreasure",
+    "name": "OverBiscuits",
     "periods": [
       "daily"
     ],
@@ -9631,7 +9462,7 @@
     "appearances": 1,
     "best_rank": 133,
     "coverage_score": 0.197368421053,
-    "name": "PerguntasFuteis",
+    "name": "BoredInBangalore",
     "periods": [
       "daily"
     ],
@@ -9646,7 +9477,7 @@
     "appearances": 1,
     "best_rank": 134,
     "coverage_score": 0.197368421053,
-    "name": "bollywoodgossips",
+    "name": "RateIT_T",
     "periods": [
       "daily"
     ],
@@ -9661,7 +9492,7 @@
     "appearances": 1,
     "best_rank": 135,
     "coverage_score": 0.197368421053,
-    "name": "Alien_Theory",
+    "name": "fazeramigosbrasil",
     "periods": [
       "daily"
     ],
@@ -9676,7 +9507,7 @@
     "appearances": 1,
     "best_rank": 136,
     "coverage_score": 0.197368421053,
-    "name": "RealTeensIndia",
+    "name": "SarthakGoswami",
     "periods": [
       "daily"
     ],
@@ -9691,7 +9522,7 @@
     "appearances": 1,
     "best_rank": 137,
     "coverage_score": 0.197368421053,
-    "name": "tsaaph",
+    "name": "promoteMyApp",
     "periods": [
       "daily"
     ],
@@ -9706,7 +9537,7 @@
     "appearances": 1,
     "best_rank": 138,
     "coverage_score": 0.197368421053,
-    "name": "NewsD",
+    "name": "SneakerDeals_India",
     "periods": [
       "daily"
     ],
@@ -9721,7 +9552,7 @@
     "appearances": 1,
     "best_rank": 139,
     "coverage_score": 0.197368421053,
-    "name": "CausalConversation",
+    "name": "selfeducation",
     "periods": [
       "daily"
     ],
@@ -9736,7 +9567,7 @@
     "appearances": 1,
     "best_rank": 140,
     "coverage_score": 0.197368421053,
-    "name": "JBTVCommunity",
+    "name": "TellCersei",
     "periods": [
       "daily"
     ],
@@ -9751,7 +9582,7 @@
     "appearances": 1,
     "best_rank": 141,
     "coverage_score": 0.197368421053,
-    "name": "RepsAid",
+    "name": "quartosevibes",
     "periods": [
       "daily"
     ],
@@ -9766,7 +9597,7 @@
     "appearances": 1,
     "best_rank": 142,
     "coverage_score": 0.197368421053,
-    "name": "mmaweekly",
+    "name": "KeralaSpeaks",
     "periods": [
       "daily"
     ],
@@ -9781,7 +9612,7 @@
     "appearances": 1,
     "best_rank": 143,
     "coverage_score": 0.197368421053,
-    "name": "FilosofiaBR",
+    "name": "SingleWomenByChoice",
     "periods": [
       "daily"
     ],
@@ -9796,7 +9627,7 @@
     "appearances": 1,
     "best_rank": 144,
     "coverage_score": 0.197368421053,
-    "name": "ihatethissmug",
+    "name": "boxingMenace_com",
     "periods": [
       "daily"
     ],
@@ -9809,9 +9640,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 145,
+    "coverage_score": 0.197368421053,
+    "name": "terrorbrasil",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.058729139923,
+    "score": 0.100320924262,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 146,
     "coverage_score": 0.197368421053,
-    "name": "Marcenaria",
+    "name": "Phenomenology",
     "periods": [
       "daily"
     ],
@@ -9826,7 +9672,7 @@
     "appearances": 1,
     "best_rank": 147,
     "coverage_score": 0.197368421053,
-    "name": "CaveDiving",
+    "name": "RetroTVRevival",
     "periods": [
       "daily"
     ],
@@ -9841,7 +9687,7 @@
     "appearances": 1,
     "best_rank": 148,
     "coverage_score": 0.197368421053,
-    "name": "VelinaMains",
+    "name": "primeiroimovel",
     "periods": [
       "daily"
     ],
@@ -9856,7 +9702,7 @@
     "appearances": 1,
     "best_rank": 149,
     "coverage_score": 0.197368421053,
-    "name": "meshyai",
+    "name": "shadps4",
     "periods": [
       "daily"
     ],
@@ -9871,7 +9717,7 @@
     "appearances": 1,
     "best_rank": 150,
     "coverage_score": 0.197368421053,
-    "name": "iphone18pro",
+    "name": "YT_Faceless",
     "periods": [
       "daily"
     ],
@@ -9886,7 +9732,7 @@
     "appearances": 1,
     "best_rank": 151,
     "coverage_score": 0.197368421053,
-    "name": "FuckFlipkart",
+    "name": "grandepremio",
     "periods": [
       "daily"
     ],
@@ -9901,7 +9747,7 @@
     "appearances": 1,
     "best_rank": 152,
     "coverage_score": 0.197368421053,
-    "name": "Creativity",
+    "name": "TurnBasedLovers",
     "periods": [
       "daily"
     ],
@@ -9916,7 +9762,7 @@
     "appearances": 1,
     "best_rank": 153,
     "coverage_score": 0.197368421053,
-    "name": "Hsin_Mains",
+    "name": "instagramAsk",
     "periods": [
       "daily"
     ],
@@ -9931,7 +9777,7 @@
     "appearances": 1,
     "best_rank": 154,
     "coverage_score": 0.197368421053,
-    "name": "HealthTech",
+    "name": "TamilTwenties",
     "periods": [
       "daily"
     ],
@@ -9946,7 +9792,7 @@
     "appearances": 1,
     "best_rank": 155,
     "coverage_score": 0.197368421053,
-    "name": "MEMEBRASIL",
+    "name": "StandUpForScience",
     "periods": [
       "daily"
     ],
@@ -9961,7 +9807,7 @@
     "appearances": 1,
     "best_rank": 156,
     "coverage_score": 0.197368421053,
-    "name": "insetos",
+    "name": "CharaWifeArt",
     "periods": [
       "daily"
     ],
@@ -9976,7 +9822,7 @@
     "appearances": 1,
     "best_rank": 157,
     "coverage_score": 0.197368421053,
-    "name": "BugBountyNoobs",
+    "name": "RoverMains",
     "periods": [
       "daily"
     ],
@@ -9991,7 +9837,7 @@
     "appearances": 1,
     "best_rank": 158,
     "coverage_score": 0.197368421053,
-    "name": "ThePowerOfYou",
+    "name": "VagusNerve",
     "periods": [
       "daily"
     ],
@@ -10006,7 +9852,7 @@
     "appearances": 1,
     "best_rank": 159,
     "coverage_score": 0.197368421053,
-    "name": "dollarama",
+    "name": "Options_Beginners",
     "periods": [
       "daily"
     ],
@@ -10019,9 +9865,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 160,
+    "coverage_score": 0.197368421053,
+    "name": "rclone",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.054724880383,
+    "score": 0.097517942584,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 161,
     "coverage_score": 0.197368421053,
-    "name": "PizzaPorn",
+    "name": "3dshomebrew",
     "periods": [
       "daily"
     ],
@@ -10036,7 +9897,7 @@
     "appearances": 1,
     "best_rank": 162,
     "coverage_score": 0.197368421053,
-    "name": "propmaking",
+    "name": "musculacaonatural",
     "periods": [
       "daily"
     ],
@@ -10051,7 +9912,7 @@
     "appearances": 1,
     "best_rank": 163,
     "coverage_score": 0.197368421053,
-    "name": "SevenWordStories",
+    "name": "unluderlemesi31",
     "periods": [
       "daily"
     ],
@@ -10066,7 +9927,7 @@
     "appearances": 1,
     "best_rank": 164,
     "coverage_score": 0.197368421053,
-    "name": "IndustrialAutomation",
+    "name": "Findfreenovellinks",
     "periods": [
       "daily"
     ],
@@ -10081,7 +9942,7 @@
     "appearances": 1,
     "best_rank": 165,
     "coverage_score": 0.197368421053,
-    "name": "PocBuzz_Entertainment",
+    "name": "AllThingsGL",
     "periods": [
       "daily"
     ],
@@ -10096,7 +9957,7 @@
     "appearances": 1,
     "best_rank": 166,
     "coverage_score": 0.197368421053,
-    "name": "tech_x",
+    "name": "AMCScreenUnseen",
     "periods": [
       "daily"
     ],
@@ -10111,7 +9972,7 @@
     "appearances": 1,
     "best_rank": 167,
     "coverage_score": 0.197368421053,
-    "name": "growgreenoutdoor",
+    "name": "KakoRepsEU",
     "periods": [
       "daily"
     ],
@@ -10126,7 +9987,7 @@
     "appearances": 1,
     "best_rank": 168,
     "coverage_score": 0.197368421053,
-    "name": "FirstTimeHomeBuyers",
+    "name": "Blood_of_Dawnwalker",
     "periods": [
       "daily"
     ],
@@ -10141,7 +10002,7 @@
     "appearances": 1,
     "best_rank": 169,
     "coverage_score": 0.197368421053,
-    "name": "ParaisoSocial",
+    "name": "perfectRep",
     "periods": [
       "daily"
     ],
@@ -10156,7 +10017,7 @@
     "appearances": 1,
     "best_rank": 170,
     "coverage_score": 0.197368421053,
-    "name": "sobrevivencialismo",
+    "name": "BuiltFromTheGroundUp",
     "periods": [
       "daily"
     ],
@@ -10169,9 +10030,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 171,
+    "coverage_score": 0.197368421053,
+    "name": "AwesomeReps",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.052118933698,
+    "score": 0.095693779904,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 172,
     "coverage_score": 0.197368421053,
-    "name": "AfterWorkGamers",
+    "name": "PCVR",
     "periods": [
       "daily"
     ],
@@ -10186,7 +10062,7 @@
     "appearances": 1,
     "best_rank": 173,
     "coverage_score": 0.197368421053,
-    "name": "Aspin",
+    "name": "LADating",
     "periods": [
       "daily"
     ],
@@ -10201,7 +10077,7 @@
     "appearances": 1,
     "best_rank": 174,
     "coverage_score": 0.197368421053,
-    "name": "AirFryTalk",
+    "name": "toobit",
     "periods": [
       "daily"
     ],
@@ -10216,7 +10092,7 @@
     "appearances": 1,
     "best_rank": 175,
     "coverage_score": 0.197368421053,
-    "name": "horrorfilms",
+    "name": "WernerHerzog",
     "periods": [
       "daily"
     ],
@@ -10231,7 +10107,7 @@
     "appearances": 1,
     "best_rank": 176,
     "coverage_score": 0.197368421053,
-    "name": "EEPowerElectronics",
+    "name": "WorkingStudentPh",
     "periods": [
       "daily"
     ],
@@ -10246,7 +10122,7 @@
     "appearances": 1,
     "best_rank": 177,
     "coverage_score": 0.197368421053,
-    "name": "DamnThatsPrettyNeat",
+    "name": "tofusupremacy",
     "periods": [
       "daily"
     ],
@@ -10261,7 +10137,7 @@
     "appearances": 1,
     "best_rank": 178,
     "coverage_score": 0.197368421053,
-    "name": "AppBuilding",
+    "name": "whattowatch",
     "periods": [
       "daily"
     ],
@@ -10276,7 +10152,7 @@
     "appearances": 1,
     "best_rank": 179,
     "coverage_score": 0.197368421053,
-    "name": "DailyCarry",
+    "name": "PokemonRaffles",
     "periods": [
       "daily"
     ],
@@ -10291,7 +10167,7 @@
     "appearances": 1,
     "best_rank": 180,
     "coverage_score": 0.197368421053,
-    "name": "MedicareForAll",
+    "name": "AndroidAppTesters",
     "periods": [
       "daily"
     ],
@@ -10306,7 +10182,7 @@
     "appearances": 1,
     "best_rank": 181,
     "coverage_score": 0.197368421053,
-    "name": "freetoolsAI",
+    "name": "BBQandGrilling",
     "periods": [
       "daily"
     ],
@@ -10321,7 +10197,7 @@
     "appearances": 1,
     "best_rank": 182,
     "coverage_score": 0.197368421053,
-    "name": "video_mapping",
+    "name": "hotchickswithguns",
     "periods": [
       "daily"
     ],
@@ -10336,7 +10212,7 @@
     "appearances": 1,
     "best_rank": 183,
     "coverage_score": 0.197368421053,
-    "name": "Babushkats",
+    "name": "chicagofoodcirclejerk",
     "periods": [
       "daily"
     ],
@@ -10351,7 +10227,7 @@
     "appearances": 1,
     "best_rank": 184,
     "coverage_score": 0.197368421053,
-    "name": "GuessMy_",
+    "name": "PizzeriaStronzo",
     "periods": [
       "daily"
     ],
@@ -10366,7 +10242,7 @@
     "appearances": 1,
     "best_rank": 185,
     "coverage_score": 0.197368421053,
-    "name": "crackheadtori",
+    "name": "UGCconnect",
     "periods": [
       "daily"
     ],
@@ -10381,7 +10257,7 @@
     "appearances": 1,
     "best_rank": 186,
     "coverage_score": 0.197368421053,
-    "name": "DeadlockGame",
+    "name": "hellraiser",
     "periods": [
       "daily"
     ],
@@ -10396,7 +10272,7 @@
     "appearances": 1,
     "best_rank": 187,
     "coverage_score": 0.197368421053,
-    "name": "SelfHosting",
+    "name": "InsectArt",
     "periods": [
       "daily"
     ],
@@ -10411,7 +10287,7 @@
     "appearances": 1,
     "best_rank": 188,
     "coverage_score": 0.197368421053,
-    "name": "hyderabad_telugu",
+    "name": "AITApod",
     "periods": [
       "daily"
     ],
@@ -10426,7 +10302,7 @@
     "appearances": 1,
     "best_rank": 189,
     "coverage_score": 0.197368421053,
-    "name": "okaybuddydemonhunters",
+    "name": "NeedFriends",
     "periods": [
       "daily"
     ],
@@ -10439,9 +10315,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 190,
+    "coverage_score": 0.197368421053,
+    "name": "KakoBuySpreadsheet",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.048157894737,
+    "score": 0.092921052632,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 191,
     "coverage_score": 0.197368421053,
-    "name": "MikeyMadisonSFW",
+    "name": "StarCraftTMG",
     "periods": [
       "daily"
     ],
@@ -10456,7 +10347,7 @@
     "appearances": 1,
     "best_rank": 192,
     "coverage_score": 0.197368421053,
-    "name": "EgyFreedom",
+    "name": "TwentiesIndiaLove",
     "periods": [
       "daily"
     ],
@@ -10471,7 +10362,7 @@
     "appearances": 1,
     "best_rank": 193,
     "coverage_score": 0.197368421053,
-    "name": "livefromlondon",
+    "name": "Balconygardening",
     "periods": [
       "daily"
     ],
@@ -10486,7 +10377,7 @@
     "appearances": 1,
     "best_rank": 194,
     "coverage_score": 0.197368421053,
-    "name": "IndiaBuySell",
+    "name": "whimsyy",
     "periods": [
       "daily"
     ],
@@ -10501,7 +10392,7 @@
     "appearances": 1,
     "best_rank": 195,
     "coverage_score": 0.197368421053,
-    "name": "NIFENTASINSTAGRAM",
+    "name": "kpop_photos",
     "periods": [
       "daily"
     ],
@@ -10516,7 +10407,7 @@
     "appearances": 1,
     "best_rank": 196,
     "coverage_score": 0.197368421053,
-    "name": "Accountabilibuddies",
+    "name": "teluguactressfap",
     "periods": [
       "daily"
     ],
@@ -10531,7 +10422,7 @@
     "appearances": 1,
     "best_rank": 197,
     "coverage_score": 0.197368421053,
-    "name": "genxsoftclub",
+    "name": "Zillowgonemild",
     "periods": [
       "daily"
     ],
@@ -10546,7 +10437,7 @@
     "appearances": 1,
     "best_rank": 198,
     "coverage_score": 0.197368421053,
-    "name": "HealthyChicago",
+    "name": "UKPreppers",
     "periods": [
       "daily"
     ],
@@ -10559,9 +10450,24 @@
   },
   {
     "appearances": 1,
+    "best_rank": 199,
+    "coverage_score": 0.197368421053,
+    "name": "firstjobindia",
+    "periods": [
+      "daily"
+    ],
+    "rank_score": 0.046484454379,
+    "score": 0.091749644381,
+    "selected": false,
+    "size_filters": [
+      "medium-small"
+    ]
+  },
+  {
+    "appearances": 1,
     "best_rank": 200,
     "coverage_score": 0.197368421053,
-    "name": "ZdzislawBeksinski",
+    "name": "Aquarismo",
     "periods": [
       "daily"
     ],
